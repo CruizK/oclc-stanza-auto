@@ -3,44 +3,47 @@ import re
 import datetime
 from bs4 import BeautifulSoup
 
-URL = "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas"
+def get_stanzas():
+  URL = "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas"
 
-page = requests.get(URL)
+  page = requests.get(URL)
 
-soup = BeautifulSoup(page.text, 'html.parser')
+  soup = BeautifulSoup(page.text, 'html.parser')
 
-links = soup.find_all('a')
-
-
-stanza_nodes = []
-
-for link in links:
-  href = link.get('href')
-  if href != None:
-    if URL in link.get('href'):
-      stanza_nodes.append(link)
+  links = soup.find_all('a')
 
 
-stanzas = []
-for node in stanza_nodes:
-  date = re.search("(\d\d\d\d-\d\d-\d\d)", node.parent.text)
-  if date:
-    last_updated = datetime.datetime.strptime(date.group(), "%Y-%m-%d")
-    stanzas.append({
-      'last_updated': last_updated,
-      'name': node.text,
-      'link': node.get('href')
-    })
+  stanza_nodes = []
 
-#print(stanzas)
+  for link in links:
+    href = link.get('href')
+    if href != None:
+      if URL in link.get('href'):
+        stanza_nodes.append(link)
 
-test_stanza = stanzas[0]
 
-req = requests.get(test_stanza['link'])
-soup = BeautifulSoup(req.text, 'html.parser')
+  stanzas = {}
+  for node in stanza_nodes:
+    date = re.search("(\d\d\d\d-\d\d-\d\d)", node.parent.text)
+    if date:
+      last_updated = datetime.datetime.strptime(date.group(), "%Y-%m-%d")
+      # stanzas.append({
+      #   'last_updated': last_updated,
+      #   'name': node.text,
+      #   'link': node.get('href')
+      # })
+      stanzas[node.text] = [last_updated, node.get('href')]
 
-code = soup.find_all('pre')
+  return stanzas
+  #print(stanzas)
 
-print(code)
+  # test_stanza = stanzas[0]
+
+  # req = requests.get(test_stanza['link'])
+  # soup = BeautifulSoup(req.text, 'html.parser')
+
+  # code = soup.find_all('pre')
+
+  # print(code)
 
 #print(links)

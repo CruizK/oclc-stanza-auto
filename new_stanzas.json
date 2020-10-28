@@ -1,0 +1,3294 @@
+{
+    "123Library": [
+        "2014-06-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/123Library"
+    ],
+    "5 Minute Consult (WoltersKluwer)": [
+        "2019-12-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/5_Minute_Consult"
+    ],
+    "A-R Music Anthology (formerly Online Music Anthology)": [
+        "2020-09-30T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Online_Music_Anthology"
+    ],
+    "AACN Journals": [
+        "2020-04-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AACN_Journals"
+    ],
+    "AAIDD Online Journals": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AAIDD_Online_Journals"
+    ],
+    "AAO Ebooks Library": [
+        "2019-04-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AAO_Ebooks_Library"
+    ],
+    "ABC Lingo Lite": [
+        "2018-07-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ABC_Lingo_Lite"
+    ],
+    "ABC Maps Online": [
+        "2018-07-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ABC_Maps_Online"
+    ],
+    "ABC World Culture": [
+        "2018-07-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ABC_World_Culture"
+    ],
+    "ABC World Food": [
+        "2018-07-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ABC_World_Food"
+    ],
+    "ABC the USA": [
+        "2018-07-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ABC_the_USA"
+    ],
+    "ABC-CLIO Databases and Ebooks": [
+        "2018-07-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ABC-CLIO"
+    ],
+    "ACM Digital Library": [
+        "2020-09-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ACM_Digital_Library"
+    ],
+    "ACSESS Digital Library": [
+        "2018-02-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ACSESS_Digital_Library"
+    ],
+    "AHA Journals": [
+        "2020-10-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AHA_Journals"
+    ],
+    "AHA eBooks Library": [
+        "2016-05-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AHA_eBooks_Library"
+    ],
+    "ALA Journals": [
+        "2016-08-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ALA_Journals"
+    ],
+    "AMA Manual of Style": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AMA_Manual_of_Style"
+    ],
+    "AOU & COS Publications": [
+        "2015-09-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AOU_COS_Publications"
+    ],
+    "AP Photo Archive": [
+        "2014-11-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AP_Photo_Archive"
+    ],
+    "APA PsycNET": [
+        "2019-07-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/APA_PsycNET"
+    ],
+    "APS Journals": [
+        "2019-09-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/APS_Journals"
+    ],
+    "ARTstor": [
+        "2020-08-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Artstor"
+    ],
+    "ASM International": [
+        "2020-01-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ASM_International"
+    ],
+    "ASME Digital Collection": [
+        "2018-03-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/asme"
+    ],
+    "ASPET Journals Online": [
+        "2019-12-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ASPET_Journals_Online"
+    ],
+    "AST Publications": [
+        "2020-08-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AST_Publications"
+    ],
+    "ASTM Compass": [
+        "2019-07-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ASTM_Compass"
+    ],
+    "ATLA Religion and ATLA Serials (ATLAS)": [
+        "2016-09-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/atla"
+    ],
+    "Academia": [
+        "2019-09-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Academia"
+    ],
+    "Academic Writer (formerly APA Style CENTRAL)": [
+        "2020-09-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/apastylecentral"
+    ],
+    "Academy of Management": [
+        "2019-02-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Academy_of_Management"
+    ],
+    "Access Engineering": [
+        "2019-07-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Access_Engineering"
+    ],
+    "Access NYT": [
+        "2015-05-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Access_NYT"
+    ],
+    "Access Science": [
+        "2019-08-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Access_Science"
+    ],
+    "Access Video On Demand": [
+        "2016-01-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Access_Video_Demand"
+    ],
+    "Accessible Archives": [
+        "2016-07-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Accessible_Archives"
+    ],
+    "Accountant, The": [
+        "2015-05-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Accountant"
+    ],
+    "Acland's Video Atlas of Human Anatomy": [
+        "2019-06-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/aclandanatomy"
+    ],
+    "Acoustical Society of America": [
+        "2016-07-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Acoustical_Society_of_America"
+    ],
+    "Adam Matthew Digital": [
+        "2020-10-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Adam_Matthew_Digital"
+    ],
+    "Africa Knowledge Project": [
+        "2016-02-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Africa_Knowledge_Project"
+    ],
+    "Africa-Confidential": [
+        "2016-01-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Africa-Confidential"
+    ],
+    "African Journals (formerly Sabinet ePublications)": [
+        "2018-10-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/African_Journals_formerly_Sabinet_ePublications"
+    ],
+    "African Journals Online": [
+        "2019-11-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/African_Journals_Online"
+    ],
+    "Agriholland": [
+        "2017-09-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Agriholland"
+    ],
+    "Akademiai Kiado": [
+        "2020-08-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Akademiai_Kiado"
+    ],
+    "Alexander Street Press": [
+        "2020-09-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Alexander_Street_Press"
+    ],
+    "Alkem Library": [
+        "2016-07-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Alkem_Library"
+    ],
+    "All That Stats": [
+        "2015-03-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/All_That_Stats"
+    ],
+    "Almanac of the Federal Fiduciary, The": [
+        "2016-09-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Almanac_Federal_Fiduciary"
+    ],
+    "Amadeus": [
+        "2015-08-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Amadeus"
+    ],
+    "Ambrose Digital Video": [
+        "2020-02-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Ambrose_Digital_Video"
+    ],
+    "American Academy of Pediatrics (formerly Pediatrics)": [
+        "2019-08-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Academy_of_Pediatrics_formerly_Pediatrics"
+    ],
+    "American Association for Cancer Research": [
+        "2019-11-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/aacrjournals"
+    ],
+    "American Association for Clinical Chemistry": [
+        "2019-08-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Association_for_Clinical_Chemistry"
+    ],
+    "American Botanical Council": [
+        "2015-05-06T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Botanical_Council"
+    ],
+    "American Chemical Society": [
+        "2017-01-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Chemical_Society"
+    ],
+    "American College of Physicians": [
+        "2020-08-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_College_of_Physicians"
+    ],
+    "American Concrete Institute": [
+        "2019-12-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Concrete_Institute"
+    ],
+    "American Economic Association": [
+        "2020-01-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Economic_Association"
+    ],
+    "American Geophysical Union": [
+        "2016-01-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Geophysical_Union"
+    ],
+    "American Institute of Aeronautics and Astronautics (AIAA)": [
+        "2016-07-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/aiaa"
+    ],
+    "American Journal of Science": [
+        "2016-01-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Journal_of_Science"
+    ],
+    "American Marketing Association": [
+        "2018-02-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Marketing_Association"
+    ],
+    "American Meteorological Society": [
+        "2020-06-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Meteorological_Society"
+    ],
+    "American National Biography": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_National_Biography"
+    ],
+    "American Occupational Therapy Association": [
+        "2017-10-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Occupational_Therapy_Association"
+    ],
+    "American Physical Therapy Association": [
+        "2015-05-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/apta"
+    ],
+    "American Physiological Society": [
+        "2020-05-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/physiology"
+    ],
+    "American Phytopathological Society": [
+        "2019-10-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Phytopathological_Society"
+    ],
+    "American Public Health Association": [
+        "2020-02-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Public_Health_Association"
+    ],
+    "American Society for Biochemistry and Molecular Biology": [
+        "2016-08-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/asbmb"
+    ],
+    "American Society for Cell Biology": [
+        "2019-09-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Society_for_Cell_Biology"
+    ],
+    "American Society for Clinical Investigation": [
+        "2019-08-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Society_for_Clinical_Investigation"
+    ],
+    "American Society for Microbiology": [
+        "2019-05-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Society_for_Microbiology"
+    ],
+    "American Society of Civil Engineers": [
+        "2020-06-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Society_of_Civil_Engineers"
+    ],
+    "American Society of Clinical Oncology (ASCO)": [
+        "2019-04-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Society_of_Clinical_Oncology"
+    ],
+    "American Society of Hematology": [
+        "2019-09-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Society_Hematology"
+    ],
+    "American Society of Plant Biologists": [
+        "2019-09-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Society_of_Plant_Biologists"
+    ],
+    "American Speech-Language-Hearing Association (ASHA)": [
+        "2020-08-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ASHA"
+    ],
+    "American Veterinary Medical Association": [
+        "2019-11-27T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Veterinary_Medical_Association"
+    ],
+    "Anatomedia Online": [
+        "2019-06-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Anatomedia_Online"
+    ],
+    "Ancestry Library": [
+        "2017-11-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Ancestry_Library"
+    ],
+    "Annual Reviews": [
+        "2018-02-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Annual_Reviews"
+    ],
+    "AnthroSource": [
+        "2015-06-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AnthroSource"
+    ],
+    "AnthroSource 2.0": [
+        "2015-07-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AnthroSource2"
+    ],
+    "Arabidopsis Information Resource, The": [
+        "2016-01-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Arabidopsis_Information_Resource"
+    ],
+    "Architects Journal, The": [
+        "2015-05-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Architects_Journal"
+    ],
+    "Archivaria": [
+        "2020-08-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Archivaria"
+    ],
+    "ArsAequi": [
+        "2020-05-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ArsAequi"
+    ],
+    "Artifex Press": [
+        "2018-09-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Artifex_Press"
+    ],
+    "Artists Information Group": [
+        "2015-12-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Artists_Information_Group"
+    ],
+    "Arts Professional": [
+        "2020-01-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Arts_Professional"
+    ],
+    "Arts-Search": [
+        "2020-05-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Arts-Search"
+    ],
+    "Asia-Studies": [
+        "2019-05-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Asia-Studies"
+    ],
+    "AspenLaw eBooks": [
+        "2019-06-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AspenLaw_eBooks"
+    ],
+    "Association of Teachers of Mathematics": [
+        "2019-12-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Association_of_Teachers_of_Mathematics"
+    ],
+    "AtoZ Maps Online": [
+        "2018-07-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AtoZ_Maps_Online"
+    ],
+    "AtoZ World Business": [
+        "2018-07-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AtoZ_World_Business"
+    ],
+    "AtoZ World Culture": [
+        "2018-07-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AtoZ_World_Culture"
+    ],
+    "AtoZ World Food": [
+        "2018-07-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AtoZ_World_Food"
+    ],
+    "AtoZ World Travel": [
+        "2018-07-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AtoZ_World_Travel"
+    ],
+    "AtoZ the USA": [
+        "2018-07-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AtoZ_the_USA"
+    ],
+    "Atomic Learning": [
+        "2007-11-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Atomic_Learning"
+    ],
+    "Auto Finance Resource": [
+        "2019-03-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Auto_Finance_Resource"
+    ],
+    "Aviation Week Intelligence Network": [
+        "2020-03-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Aviation_Week_Intelligence_Network"
+    ],
+    "Axis360": [
+        "2015-11-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Axis360"
+    ],
+    "BMJ Journals": [
+        "2019-12-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BMJ_Journals"
+    ],
+    "BMJ Learning": [
+        "2010-04-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BMJ_Learning"
+    ],
+    "BREPOLiS": [
+        "2019-04-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BREPOLiS"
+    ],
+    "Bankscope": [
+        "2015-05-06T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Bankscope"
+    ],
+    "Baobab Ebooks": [
+        "2019-08-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Baobab_Ebooks"
+    ],
+    "Begell Digital Library": [
+        "2020-01-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Begell_Digital_Library"
+    ],
+    "Benajmins Online Resource": [
+        "2016-07-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Benajmins_Online_Resource"
+    ],
+    "Berghahn Books": [
+        "2020-08-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Berghahn_Books"
+    ],
+    "BiblioBoard": [
+        "2015-12-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BiblioBoard"
+    ],
+    "BiblioLine": [
+        "2015-12-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BiblioLine"
+    ],
+    "Bibliographie Internationale de l'Humanisme et de la Renaissance": [
+        "2019-06-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/bihr"
+    ],
+    "BioMed Central": [
+        "2020-07-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BioMed_Central"
+    ],
+    "BioOne Complete": [
+        "2020-09-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BioOne_Complete"
+    ],
+    "Biocentury": [
+        "2020-10-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Biocentury"
+    ],
+    "Biological Bulletin, The": [
+        "2016-02-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Biological_Bulletin"
+    ],
+    "Bioscientifica": [
+        "2020-08-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Bioscientifica"
+    ],
+    "Birds of the World (formerly Birds of North America)": [
+        "2020-05-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/birdsna"
+    ],
+    "BizJournals": [
+        "2016-05-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BizJournals"
+    ],
+    "Blackstones Police Service": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Blackstones_Police_Service"
+    ],
+    "Blackwell Reference Online": [
+        "2018-11-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Blackwell_Reference_Online"
+    ],
+    "Blackwell-Synergy": [
+        "2018-11-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Blackwell-Synergy"
+    ],
+    "Blake/An Illustrated Quarterly": [
+        "2020-04-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Blake_An_Illustrated_Quarterly"
+    ],
+    "Bloomsbury Digital Resources": [
+        "2020-08-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Bloomsbury_Digital_Resources"
+    ],
+    "BoardVitals": [
+        "2015-12-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BoardVitals"
+    ],
+    "Bone and Joint Journal, The": [
+        "2018-03-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Bone_Joint_Journal"
+    ],
+    "Book Flix": [
+        "2014-04-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Book_Flix"
+    ],
+    "BookBrowse": [
+        "2016-09-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BookBrowse"
+    ],
+    "Books in Print": [
+        "2019-08-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Books_in_Print"
+    ],
+    "Books24x7": [
+        "2018-08-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Books24x7"
+    ],
+    "Boomportaal": [
+        "2019-11-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Boomportaal"
+    ],
+    "Boston College Open Access Journals": [
+        "2020-01-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Boston_College_Open_Access_Journals"
+    ],
+    "Botanical Society of America": [
+        "2016-01-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Botanical_Society_of_America"
+    ],
+    "BrainPOP": [
+        "2015-08-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BrainPOP"
+    ],
+    "Brainfuse": [
+        "2019-08-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Brainfuse"
+    ],
+    "Brepols Online": [
+        "2018-03-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Brepols_Online"
+    ],
+    "Bridgeman Education": [
+        "2015-05-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Bridgeman_Education"
+    ],
+    "Bridgeman Images": [
+        "2015-10-06T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Bridgeman_Images"
+    ],
+    "BrillOnline": [
+        "2020-06-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BrillOnline"
+    ],
+    "Britannica Academic": [
+        "2018-06-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Britannica_Academic"
+    ],
+    "Britannica E-Stax": [
+        "2015-09-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Britannica_E-Stax"
+    ],
+    "Britannica Global Reference Center": [
+        "2015-04-27T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/britannicagrc"
+    ],
+    "British History Online": [
+        "2015-07-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/British_History_Online"
+    ],
+    "British Standards Online": [
+        "2015-07-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/British_Standards_Online"
+    ],
+    "British Universities Film & Video Council": [
+        "2015-07-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/bufvc"
+    ],
+    "BrowZine by Third Iron": [
+        "2016-11-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BrowZine_Third_Iron"
+    ],
+    "Building Cost and Information Service": [
+        "2018-06-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/bcis"
+    ],
+    "Bureau of National Affairs (BNA)": [
+        "2017-09-27T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BNA"
+    ],
+    "Burlington Magazine Publishing Ltd.": [
+        "2020-06-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Burlington_Magazine_Publishing_Ltd"
+    ],
+    "CAB Direct": [
+        "2020-01-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/cabdirect"
+    ],
+    "CABI Resources": [
+        "2020-01-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CABI_Resources"
+    ],
+    "CCH AnswerConnect": [
+        "2018-10-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CCH_AnswerConnect"
+    ],
+    "CCH Intelliconnect": [
+        "2019-04-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CCH_Intelliconnect"
+    ],
+    "CHEMnetBASE": [
+        "2020-05-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CHEMnetBASE"
+    ],
+    "CHEST Publications": [
+        "2015-05-27T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CHEST_Publications"
+    ],
+    "CNKI": [
+        "2020-10-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/cnki"
+    ],
+    "CPA Canada": [
+        "2018-10-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CPA_Canada"
+    ],
+    "CQ Researcher": [
+        "2015-10-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CQ_Researcher"
+    ],
+    "CROW Kennisbank": [
+        "2017-09-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CROW_Kennisbank"
+    ],
+    "CSA Illumina": [
+        "2006-03-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/csa-illumina"
+    ],
+    "Cabell's Directories": [
+        "2020-03-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Cabells_Directories"
+    ],
+    "Cairn": [
+        "2017-12-06T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Cairn"
+    ],
+    "Caixin Global": [
+        "2020-07-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Caixin_Global"
+    ],
+    "Cambridge Books Online": [
+        "2016-09-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Cambridge_Books_Online"
+    ],
+    "Cambridge Companions Online": [
+        "2016-09-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Cambridge_Companions_Online"
+    ],
+    "Cambridge Core": [
+        "2019-10-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Cambridge_Core"
+    ],
+    "Cambridge Journals Online": [
+        "2016-09-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Cambridge_Journals_Online"
+    ],
+    "Canadian Mathematical Society": [
+        "2019-12-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Canadian_Mathematical_Society"
+    ],
+    "Canadian Medical Association": [
+        "2019-12-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Canadian_Medical_Association"
+    ],
+    "Canadian Pharmacists Association": [
+        "2008-10-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Canadian_Pharmacists_Association"
+    ],
+    "Career Cruising": [
+        "2018-01-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Career_Cruising"
+    ],
+    "Casting About": [
+        "2014-03-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Casting_About"
+    ],
+    "Cavendish Square Digital": [
+        "2015-06-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Cavendish_Square_Digital"
+    ],
+    "Cell Press": [
+        "2018-10-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Cell_Press"
+    ],
+    "Chadwyck Databases": [
+        "2017-06-27T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Chadwyck_Databases"
+    ],
+    "Chartered Financial Analysts Institute": [
+        "2018-07-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Chartered_Financial_Analysts_Institute"
+    ],
+    "Chicago Manual of Style Online": [
+        "2018-08-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Chicago_Manual_of_Style"
+    ],
+    "Childlink": [
+        "2016-07-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Childlink"
+    ],
+    "Children's Literature Comprehensive Database (CLCD)": [
+        "2014-07-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CLCD"
+    ],
+    "China Studies": [
+        "2020-05-27T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/China_Studies"
+    ],
+    "Choice Reviews": [
+        "2020-04-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Choice_Reviews"
+    ],
+    "Chronicle of Higher Education, The": [
+        "2019-07-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Chronicle_of_Higher_Education"
+    ],
+    "Classroom Video On Demand": [
+        "2016-01-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Classroom_Video_Demand"
+    ],
+    "Clinical Evidence": [
+        "2015-12-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Clinical_Evidence"
+    ],
+    "Clinical Learning": [
+        "2014-12-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Clinical_Learning"
+    ],
+    "Clinical Pharmacology": [
+        "2014-12-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Clinical_Pharmacology"
+    ],
+    "ClinicalKey and Embase": [
+        "2020-02-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ClinicalKey_and_Embase"
+    ],
+    "Clue Detective Puzzle Agency": [
+        "2014-12-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Clue_Detective_Puzzle_Agency"
+    ],
+    "Cobouw": [
+        "2020-05-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Cobouw"
+    ],
+    "Cochrane Library": [
+        "2020-10-27T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Cochrane_Library"
+    ],
+    "College Publishing": [
+        "2019-12-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/College_Publishing"
+    ],
+    "CollegeSource": [
+        "2011-07-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CollegeSource"
+    ],
+    "Columbia Earthscape": [
+        "2004-10-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Columbia_Earthscape"
+    ],
+    "Columbia International Affairs Online (CIAO)": [
+        "2020-07-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ciao"
+    ],
+    "ComicsPlus": [
+        "2019-03-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ComicsPlus"
+    ],
+    "Communication Institute for Online Scholarship (CIOS)": [
+        "2009-10-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/cios"
+    ],
+    "Company of Biologists, The": [
+        "2019-07-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Company_of_Biologists"
+    ],
+    "Computing Reviews": [
+        "2015-10-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Computing_Reviews"
+    ],
+    "Congressional Digest": [
+        "2020-09-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Congressional_Digest"
+    ],
+    "Construction and Building Abstracts": [
+        "2015-05-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/cbaweb"
+    ],
+    "Consumer Brand Analytics": [
+        "2018-07-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Consumer_Brand_Analytics"
+    ],
+    "CountryWatch": [
+        "2014-11-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CountryWatch"
+    ],
+    "Creativity & Human Development International eJournal": [
+        "2017-08-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Creativity_Human_Development_International_eJournal"
+    ],
+    "Credo Reference (formerly Xreferplus)": [
+        "2018-07-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Credo_Reference"
+    ],
+    "Crossref": [
+        "2020-08-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Crossref"
+    ],
+    "CultureGrams": [
+        "2015-06-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CultureGrams"
+    ],
+    "Current History": [
+        "2019-10-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Current_History"
+    ],
+    "DCP Online": [
+        "2016-06-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/DCP_Online"
+    ],
+    "DETAIL Inspiration": [
+        "2018-03-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/DETAIL_Inspiration"
+    ],
+    "DOAJ": [
+        "2015-10-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/DOAJ"
+    ],
+    "DOI System": [
+        "2016-05-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/DOI_System"
+    ],
+    "DUXIU": [
+        "2012-07-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/DUXIU"
+    ],
+    "Dalloz": [
+        "2020-03-06T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Dalloz"
+    ],
+    "Dalloz Revues": [
+        "2019-09-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Dalloz_Revues"
+    ],
+    "Daniels Orchestral": [
+        "2016-07-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Daniels_Orchestral"
+    ],
+    "Data-Planet Statistical Datasets": [
+        "2017-12-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Data-Planet_Statistical_Datasets"
+    ],
+    "Data-Planet Statistical Ready Reference": [
+        "2017-12-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Data-Planet_Statistical_Ready_Reference"
+    ],
+    "Database of Recorded American Music (DRAM)": [
+        "2015-07-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/DRAM"
+    ],
+    "Datamonitor": [
+        "2016-01-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Datamonitor"
+    ],
+    "DawsonEra": [
+        "2019-11-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/DawsonEra"
+    ],
+    "De Gruyter Online": [
+        "2020-09-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/De_Gruyter_Online"
+    ],
+    "Den Hollander": [
+        "2015-10-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Den_Hollander"
+    ],
+    "DesLibris": [
+        "2018-06-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/desLibris"
+    ],
+    "Diabetes Journals": [
+        "2020-06-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Diabetes_Journals"
+    ],
+    "Dialnet": [
+        "2019-12-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Dialnet"
+    ],
+    "Dictionary of American Regional English (DARE)": [
+        "2020-08-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Dictionary_of_American_Regional_English"
+    ],
+    "DigiZeitschriften": [
+        "2020-05-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/DigiZeitschriften"
+    ],
+    "Digital National Security Archive": [
+        "2011-08-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Digital_National_Security_Archive"
+    ],
+    "Digital Theatre Plus": [
+        "2018-01-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Digital_Theatre_Plus"
+    ],
+    "DigitalBack Books": [
+        "2019-03-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/DigitalBack_Books"
+    ],
+    "Digitalia Catalan": [
+        "2020-02-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Digitalia_Catalan"
+    ],
+    "Digitalia Film Library": [
+        "2020-02-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Digitalia_Film_Library"
+    ],
+    "Digitalia Francaise": [
+        "2020-07-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Digitalia_Francaise"
+    ],
+    "Digitalia Hisp\u00e1nica": [
+        "2020-02-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Digitalia_Hispanica"
+    ],
+    "Digitalia Portuguesa": [
+        "2020-05-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Digitalia_Portuguesa"
+    ],
+    "Digitalia Public Libraries": [
+        "2020-02-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Digitalia_Public_Libraries"
+    ],
+    "DinoLingo": [
+        "2016-08-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/DinoLingo"
+    ],
+    "Directory of Music Faculties": [
+        "2018-01-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Directory_of_Music_Faculties"
+    ],
+    "DocumentAvet": [
+        "2020-08-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/DocumentAvet"
+    ],
+    "Docuseek2": [
+        "2019-10-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Docuseek2"
+    ],
+    "Draw It To Know It": [
+        "2015-09-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Draw_It_To_Know_It"
+    ],
+    "Duke University Press Books and Journals": [
+        "2019-06-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Duke_University_Press_Books_and_Journals"
+    ],
+    "Duncker & Humblot eLibrary": [
+        "2020-08-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Duncker_Humblot_eLibrary"
+    ],
+    "DynaMed": [
+        "2019-08-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/DynaMed"
+    ],
+    "E-Marefa": [
+        "2018-05-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/e-Marefa"
+    ],
+    "EB Medicine": [
+        "2019-06-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/EB_Medicine"
+    ],
+    "EBL": [
+        "2017-09-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/EBL"
+    ],
+    "EBSCO A-to-Z": [
+        "2015-07-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/EBSCO_A-to-Z"
+    ],
+    "EBSCO Electronic Journals Service": [
+        "2015-11-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/EBSCO"
+    ],
+    "EBSCO LinkSource": [
+        "2017-03-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/EBSCO_LinkSource"
+    ],
+    "EBSCOhost": [
+        "2020-05-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/EBSCOhost"
+    ],
+    "EHRAF Archaeology (Human Relations Area Files at Yale)": [
+        "2016-07-30T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/eHRAF_Archaeology"
+    ],
+    "EHRAF World Cultures (Human Relations Area Files at Yale)": [
+        "2019-07-02T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/eHRAF_World_Cultures"
+    ],
+    "ELibraryPlus": [
+        "2015-09-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/eLibraryPlus"
+    ],
+    "ELibro": [
+        "2020-04-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/eLibro"
+    ],
+    "EMIS": [
+        "2017-05-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/EMIS"
+    ],
+    "EMS Publishing": [
+        "2019-09-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/EMS_Publishing"
+    ],
+    "ESB Online": [
+        "2016-07-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ESB_Online"
+    ],
+    "ESG Manager": [
+        "2014-03-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ESG_Manager"
+    ],
+    "ETG Complete": [
+        "2020-04-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/eTG_Complete"
+    ],
+    "EasyBib": [
+        "2016-09-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/EasyBib"
+    ],
+    "Ebook Central": [
+        "2017-09-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Ebook_Central"
+    ],
+    "Ebrary": [
+        "2017-09-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ebrary"
+    ],
+    "EcommerceDB": [
+        "2020-01-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ecommerceDB"
+    ],
+    "Economic and Political Weekly": [
+        "2020-04-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Economic_and_Political_Weekly"
+    ],
+    "Economics of Peace and Security Journal, The": [
+        "2017-05-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Economics_of_Peace_and_Security_Journal"
+    ],
+    "Economisch Statistische Berichten": [
+        "2020-09-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Economisch_Statistische_Berichten"
+    ],
+    "Economist Intelligence Unit": [
+        "2014-11-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Economist_Intelligence_Unit"
+    ],
+    "Economist.com": [
+        "2019-03-06T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Economist_com"
+    ],
+    "Edina Digimap": [
+        "2020-07-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Edina_Digimap"
+    ],
+    "Editorial Grao": [
+        "2020-04-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Editorial_Grao"
+    ],
+    "Education Week": [
+        "2008-09-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Education_Week"
+    ],
+    "Eight Centuries": [
+        "2020-09-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Eight_Centuries"
+    ],
+    "Electrochemical Society, Inc.": [
+        "2018-03-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ecsdl"
+    ],
+    "Eleven Journals": [
+        "2019-10-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Eleven_Journals"
+    ],
+    "Elgaronline": [
+        "2020-08-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Elgaronline"
+    ],
+    "Elsevier Clinical Skills and Elsevier Performance Manager": [
+        "2019-03-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Elsevier_Clinical_Skills_and_Elsevier_Performance_Manager"
+    ],
+    "Elsevier Health Journals": [
+        "2019-05-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Elsevier_Health_Journals"
+    ],
+    "Elsevier ScienceDirect and Scopus": [
+        "2020-08-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Elsevier_ScienceDirect_and_Scopus"
+    ],
+    "Elsevier eLibrary APAC": [
+        "2016-02-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Elsevier_eLibrary_APAC"
+    ],
+    "Elsevier eLibrary France": [
+        "2020-04-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Elsevier_eLibrary_France"
+    ],
+    "Elsevier eLibrary UK": [
+        "2016-07-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Elsevier_eLibrary_UK"
+    ],
+    "Emerald Insight": [
+        "2019-06-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Emerald_Insight"
+    ],
+    "Encyclopedia of Astronomy and Astrophysics": [
+        "2007-02-06T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ency-astro"
+    ],
+    "Encyclopedia of Islam and New Pauly Online": [
+        "2015-05-27T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/brill2"
+    ],
+    "Endnote Online and Incites": [
+        "2019-10-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/endnoteandincites"
+    ],
+    "Endocrine Society": [
+        "2016-01-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Endocrine_Society"
+    ],
+    "Engineering Village": [
+        "2015-06-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Engineering_Village"
+    ],
+    "Equinox Publishing Ltd.": [
+        "2017-02-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Equinox_Publishing_Ltd"
+    ],
+    "EurekaSelect": [
+        "2015-08-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/EurekaSelect"
+    ],
+    "European Mathematical Information Service": [
+        "2016-01-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/European_Math_Info_Service"
+    ],
+    "Exact Editions": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Exact_Editions"
+    ],
+    "Exceptional Parent": [
+        "2013-07-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Exceptional_Parent"
+    ],
+    "FORENSICnetBASE": [
+        "2011-05-06T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/FORENSICnetBASE"
+    ],
+    "Factiva": [
+        "2020-03-02T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Factiva"
+    ],
+    "FactoMediaBase": [
+        "2015-06-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/FactoMediaBase"
+    ],
+    "Facts & Comparisons": [
+        "2018-07-30T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Facts_Comparisons"
+    ],
+    "Fame": [
+        "2016-08-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Fame"
+    ],
+    "Families in Society Journal": [
+        "2015-05-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Families_Society_Journal"
+    ],
+    "Family Law Online": [
+        "2015-05-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Family_Law_Online"
+    ],
+    "Fashion Snoops": [
+        "2020-07-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Fashion_Snoops"
+    ],
+    "Fastcase": [
+        "2020-08-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Fastcase"
+    ],
+    "Federation of American Societies for Experimental Biology": [
+        "2019-09-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Federation_of_American_Societies_for_Experimental_Biology"
+    ],
+    "Ferguson's Career Guidance Center": [
+        "2011-11-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Fergusons_Career_Guidance_Center"
+    ],
+    "Film Platform": [
+        "2017-10-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Film_Platform"
+    ],
+    "Films on Demand": [
+        "2017-07-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Films_Demand"
+    ],
+    "Financial Times": [
+        "2020-03-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Financial_Times"
+    ],
+    "Fold3": [
+        "2020-08-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Fold3"
+    ],
+    "Foreign Policy": [
+        "2020-04-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Foreign_Policy"
+    ],
+    "Fortunoff Video Archive": [
+        "2019-06-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Fortunoff_Video_Archive"
+    ],
+    "FreedomFlix": [
+        "2014-12-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/FreedomFlix"
+    ],
+    "Freegal Music Service": [
+        "2011-03-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Freegal_Music_Service"
+    ],
+    "Frost & Sullivan": [
+        "2019-03-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Frost_Sullivan"
+    ],
+    "Fulcrum (formerly ACLS Humanities E-Book)": [
+        "2018-07-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/acls"
+    ],
+    "GIDEON (Global Infectious Diseases and Epidemiology Online Network)": [
+        "2020-08-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/gideon"
+    ],
+    "GSE Research": [
+        "2019-11-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/GSE_Research"
+    ],
+    "Galaxie Software": [
+        "2015-12-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Galaxie_Software"
+    ],
+    "Gale InfoTrac": [
+        "2019-07-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Gale_InfoTrac"
+    ],
+    "GeoScienceWorld": [
+        "2019-08-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/GeoScienceWorld"
+    ],
+    "Geofacets": [
+        "2018-11-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Geofacets"
+    ],
+    "Global Business Traveler": [
+        "2018-07-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Global_Business_Traveler"
+    ],
+    "Global Local Living": [
+        "2018-07-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Global_Local_Living"
+    ],
+    "Global Road Warrior": [
+        "2018-07-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Global_Road_Warrior"
+    ],
+    "GlobalData": [
+        "2020-09-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/GlobalData"
+    ],
+    "Glossary of Geology": [
+        "2019-12-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Glossary_of_Geology"
+    ],
+    "Going Global": [
+        "2016-08-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Going_Global"
+    ],
+    "Google Scholar": [
+        "2017-08-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Google_Scholar"
+    ],
+    "Grolier Online": [
+        "2014-11-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Grolier_Online"
+    ],
+    "Guilford Publications": [
+        "2018-07-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Guilford_Publications"
+    ],
+    "Halesmeds": [
+        "2019-03-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Halesmeds"
+    ],
+    "HarpWeek": [
+        "2015-06-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/HarpWeek"
+    ],
+    "Harvard Education Publishing Group": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/hepgjournals"
+    ],
+    "Healio": [
+        "2017-07-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Healio"
+    ],
+    "HeinOnline": [
+        "2018-03-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/HeinOnline"
+    ],
+    "Heldermann Verlag": [
+        "2019-12-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Heldermann_Verlag"
+    ],
+    "Henry Stewart Talks": [
+        "2017-02-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Henry_Stewart_Talks"
+    ],
+    "HeritageQuest Online": [
+        "2017-11-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/HeritageQuest_Online"
+    ],
+    "HighWire Press": [
+        "2019-08-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/HighWire_Press"
+    ],
+    "Hispanic American Periodicals (HAPI)": [
+        "2020-07-27T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Hispanic_American_Periodicals_HAPI"
+    ],
+    "History Cooperative journals": [
+        "2019-12-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/History_Cooperative_journals"
+    ],
+    "History Study Center": [
+        "2015-08-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/History_Study_Center"
+    ],
+    "History Today": [
+        "2019-12-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/History_Today"
+    ],
+    "Hogrefe eContent": [
+        "2018-01-30T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Hogrefe_eContent"
+    ],
+    "Hogrefe eLibrary": [
+        "2019-12-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Hogrefe_eLibrary"
+    ],
+    "Human Kinetics": [
+        "2020-10-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Human_Kinetics"
+    ],
+    "Humanity Journal": [
+        "2019-11-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Humanity_Journal"
+    ],
+    "I-Law": [
+        "2016-09-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/iLaw"
+    ],
+    "IBFD Tax Research Platform": [
+        "2019-08-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IBFD_Tax_Research_Online"
+    ],
+    "IBISWorld": [
+        "2019-11-27T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IBISWorld"
+    ],
+    "ICE Learning Center": [
+        "2020-09-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ICE_Learning_Center"
+    ],
+    "ICE Virtual Library": [
+        "2014-12-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ICE_Virtual_Library"
+    ],
+    "IEEE Computer Society Digital Library": [
+        "2019-03-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IEEE_Digital_Library"
+    ],
+    "IEEE Xplore": [
+        "2019-07-02T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IEEE_Xplore"
+    ],
+    "IG Publishing eBook": [
+        "2020-08-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IG_Publishing_eBook"
+    ],
+    "IGAKU-SHOIN Library": [
+        "2011-11-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IGAKU-SHOIN_Library"
+    ],
+    "IGI Global": [
+        "2019-10-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IGI_Global"
+    ],
+    "IHS ESDU": [
+        "2019-12-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IHS_ESDU"
+    ],
+    "IHS Markit Connect": [
+        "2020-08-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IHS_Connect"
+    ],
+    "IHS Standards Expert": [
+        "2017-04-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IHS_Standards_Expert"
+    ],
+    "IMentor": [
+        "2015-03-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/iMentor"
+    ],
+    "INFORMS PubsOnline": [
+        "2018-01-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/INFORMS_PubsOnline"
+    ],
+    "INGENTAconnect": [
+        "2020-07-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/INGENTAconnect"
+    ],
+    "IOS Press": [
+        "2018-11-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IOS_Press"
+    ],
+    "IPolitics": [
+        "2019-12-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/iPolitics"
+    ],
+    "IWA Publishing": [
+        "2019-12-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IWA_Publishing"
+    ],
+    "Ibuk": [
+        "2013-03-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Ibuk"
+    ],
+    "Ichushi-Web": [
+        "2019-02-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Ichushi-Web"
+    ],
+    "ImageQuest": [
+        "2018-03-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ImageQuest"
+    ],
+    "Incision": [
+        "2020-09-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Incision"
+    ],
+    "Inderscience Online": [
+        "2019-11-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Inderscience_Online"
+    ],
+    "IndiaStat": [
+        "2010-11-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IndiaStat"
+    ],
+    "Indo-European Studies": [
+        "2019-10-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Indo-European_Studies"
+    ],
+    "Infobaselearning": [
+        "2015-11-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Infobaselearning"
+    ],
+    "Informa Healthcare": [
+        "2015-03-30T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Informa_Healthcare"
+    ],
+    "Informaworld": [
+        "2010-06-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/informaworld"
+    ],
+    "Informed Librarian Online": [
+        "2018-07-02T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Informed_Librarian_Online"
+    ],
+    "Informit": [
+        "2020-04-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Informit"
+    ],
+    "Inovestor": [
+        "2020-06-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Inovestor"
+    ],
+    "Institute of Physics": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Institute_of_Physics"
+    ],
+    "Institution of Engineering and Technology, The": [
+        "2015-10-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/theiet"
+    ],
+    "Intelecom": [
+        "2018-09-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Intelecom"
+    ],
+    "Intelex Past Masters": [
+        "2016-07-27T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Intelex_Past_Masters"
+    ],
+    "Inter-Research Science Publisher": [
+        "2019-10-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Inter-Research_Science_Publisher"
+    ],
+    "International Association for Energy Economics (IAEE)": [
+        "2018-09-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/iaee"
+    ],
+    "International Journal of Childbirth Education": [
+        "2012-08-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/icea"
+    ],
+    "International Monetary Fund (IMF)": [
+        "2020-08-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/IMF"
+    ],
+    "International Press": [
+        "2019-10-02T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/International_Press"
+    ],
+    "Invert": [
+        "2019-08-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/invert"
+    ],
+    "Iter: Gateway to the Middle Ages and Renaissance": [
+        "2019-10-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/iter"
+    ],
+    "J-STAGE": [
+        "2020-05-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/jstage"
+    ],
+    "JAMA": [
+        "2017-03-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/JAMA"
+    ],
+    "JISC": [
+        "2015-10-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/JISC"
+    ],
+    "JOMI Surgical Video Journal": [
+        "2020-05-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/JOMI_Surgical_Video_Journal"
+    ],
+    "JSTOR": [
+        "2019-06-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/JSTOR"
+    ],
+    "Jane's Online Service": [
+        "2020-09-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Janes_Online_Service"
+    ],
+    "JapanKnowledge": [
+        "2014-05-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/JapanKnowledge"
+    ],
+    "Jaypee Digital": [
+        "2016-01-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Jaypee_Digital"
+    ],
+    "Jeugd LiteRom": [
+        "2020-03-02T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Jeugd_LiteRom"
+    ],
+    "JoVE": [
+        "2017-07-27T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/JoVE"
+    ],
+    "John Benjamins": [
+        "2015-10-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/John_Benjamins"
+    ],
+    "John Benjamins e-Platform": [
+        "2019-08-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/jbeplatform"
+    ],
+    "John Libbey Eurotext": [
+        "2019-12-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/John_Libbey_Eurotext"
+    ],
+    "Johns Hopkins Guide to Literary Theory and Criticism": [
+        "2015-06-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/litguide-press-jhu"
+    ],
+    "Joint Commission Resources": [
+        "2017-06-27T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Joint_Commission_Resources"
+    ],
+    "Journal of Animal Science and Animal Frontiers": [
+        "2016-07-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/animalsciencepublications"
+    ],
+    "Journal of Bone and Joint Surgery, American Volume, The": [
+        "2020-02-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/jbjs"
+    ],
+    "Journal of Chinese Medicine": [
+        "2019-12-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Journal_of_Chinese_Medicine"
+    ],
+    "Journal of Heart Valve Disease, The": [
+        "2020-01-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Journal_of_Heart_Valve_Disease"
+    ],
+    "Journal of Jewish Studies": [
+        "2015-08-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Journal_Jewish_Studies"
+    ],
+    "Journal of Neuroscience, The": [
+        "2019-10-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Journal_of_Neuroscience"
+    ],
+    "Journal of Neurosurgery": [
+        "2020-01-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Journal_of_Neurosurgery"
+    ],
+    "Journal of Opioid Management": [
+        "2018-07-30T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Journal_of_Opioid_Management"
+    ],
+    "Journal of Orthopaedic and Sports Physical Therapy": [
+        "2018-10-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/jospt"
+    ],
+    "Journal of Wildlife Diseases": [
+        "2020-05-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Journal_Wildlife_Diseases"
+    ],
+    "Journal of Zoo and Wildlife Medicine": [
+        "2015-08-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Journal_Zoo_Wildlife_Medicine"
+    ],
+    "Journal of the American Animal Hospital Association": [
+        "2019-12-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Journal_of_the_American_Animal_Hospital_Association"
+    ],
+    "Journal of the Motherhood Initiative": [
+        "2015-11-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/jarm"
+    ],
+    "Journal on Excellence in College Teaching": [
+        "2020-02-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Journal_on_Excellence_in_College_Teaching"
+    ],
+    "Jus Mundi - Academic Research with Brill": [
+        "2020-01-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/jusmundi"
+    ],
+    "JustCite": [
+        "2015-05-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/JustCite"
+    ],
+    "Justis": [
+        "2020-09-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Justis"
+    ],
+    "Kaltura": [
+        "2017-06-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Kaltura"
+    ],
+    "Kanopy": [
+        "2018-04-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Kanopy"
+    ],
+    "Karger": [
+        "2017-11-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Karger"
+    ],
+    "Keesings Historisch Archief": [
+        "2016-10-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Keesings_Historisch_Archief"
+    ],
+    "Key Note": [
+        "2016-07-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Key_Note"
+    ],
+    "KinoDen eBook": [
+        "2020-06-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/kinoden"
+    ],
+    "Kiss, Bow, or Shake Hands": [
+        "2016-08-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Kiss_Bow_Shake_Hands"
+    ],
+    "Kluwer Arbitration": [
+        "2020-07-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Kluwer_Arbitration"
+    ],
+    "Kluwer Competition Law": [
+        "2020-07-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Kluwer_Competition_Law"
+    ],
+    "Kluwer Corporate Counsel Dispute Resolution": [
+        "2012-08-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/kluwerccdr"
+    ],
+    "Kluwer IP Law": [
+        "2020-07-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Kluwer_IP_Law"
+    ],
+    "Kluwer Law": [
+        "2020-04-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Kluwer_Law"
+    ],
+    "Kluwer Navigator": [
+        "2020-07-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Kluwer_Navigator"
+    ],
+    "Kluwer Online": [
+        "2015-06-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Kluwer_Online"
+    ],
+    "Kluwer Patent Law": [
+        "2012-08-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Kluwer_Patent_Law"
+    ],
+    "Knovel": [
+        "2017-10-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Knovel"
+    ],
+    "Kompass": [
+        "2014-07-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Kompass"
+    ],
+    "Kotar Library": [
+        "2020-07-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Kotar_Library"
+    ],
+    "L'Annee Philologique": [
+        "2014-12-02T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/annee-philologique"
+    ],
+    "LLMC Digital": [
+        "2019-07-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/LLMC_Digital"
+    ],
+    "LWW Health Library": [
+        "2020-03-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/LWW_Health_Library"
+    ],
+    "Lamyline": [
+        "2010-11-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Lamyline"
+    ],
+    "Latin-American Studies": [
+        "2019-05-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Latin-American_Studies"
+    ],
+    "Law Journal Press": [
+        "2018-07-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Law_Journal_Press"
+    ],
+    "Lawtel": [
+        "2015-07-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Lawtel"
+    ],
+    "Lawyer's Daily Academic, The": [
+        "2017-09-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Lawyer's_Daily_Academic"
+    ],
+    "Leadership Connect": [
+        "2020-06-30T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Leadership_Connect"
+    ],
+    "Learning and Technology Library, The": [
+        "2016-02-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Learning_Technology_Library"
+    ],
+    "LearningExpress Library 3.0": [
+        "2015-10-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/LearningExpress_Library3"
+    ],
+    "Lexbase": [
+        "2020-09-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Lexbase"
+    ],
+    "Lexis Advance Quicklaw": [
+        "2018-04-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Lexis_Advance_Quicklaw"
+    ],
+    "LexisNexis": [
+        "2019-10-02T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/LexisNexis"
+    ],
+    "LexisNexis Legal AU": [
+        "2016-03-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/LexisNexis_Legal_AU"
+    ],
+    "Lextenso": [
+        "2019-11-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Lextenso"
+    ],
+    "LibLynx": [
+        "2019-06-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/LibLynx"
+    ],
+    "Library Journal": [
+        "2019-09-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Library_Journal"
+    ],
+    "Library of Congress": [
+        "2020-04-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Library_of_Congress"
+    ],
+    "Liebert": [
+        "2019-04-30T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Liebert"
+    ],
+    "Lingo Lite": [
+        "2018-07-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Lingo_Lite"
+    ],
+    "Literary Encyclopedia, The": [
+        "2015-07-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Literary_Encyclopedia"
+    ],
+    "Livedgar": [
+        "2006-03-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/livedgar"
+    ],
+    "Liverpool University Press": [
+        "2019-10-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Liverpool_University_Press"
+    ],
+    "Loeb Classics": [
+        "2020-08-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Loeb_Classics"
+    ],
+    "LoisLaw": [
+        "2014-11-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/LoisLaw"
+    ],
+    "London Review of Books": [
+        "2016-01-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/London_Review_of_Books"
+    ],
+    "Love the Work": [
+        "2020-07-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Love_the_Work"
+    ],
+    "Lyell Collection": [
+        "2019-03-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Lyell_Collection"
+    ],
+    "Lynda.com": [
+        "2017-03-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Lynda"
+    ],
+    "MD Consult": [
+        "2013-09-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/MD_Consult"
+    ],
+    "MERIP": [
+        "2020-05-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/MERIP"
+    ],
+    "MGG Online": [
+        "2020-04-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/MGG_Online"
+    ],
+    "MIT Press Direct": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/MIT_Press_Direct"
+    ],
+    "MIT Press Journals": [
+        "2018-01-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/MIT_Press_Journals"
+    ],
+    "Malaysiakini": [
+        "2012-01-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Malaysiakini"
+    ],
+    "Manchester Hive": [
+        "2020-09-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Manchester_Hive"
+    ],
+    "Maney Online": [
+        "2014-12-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Maney_Online"
+    ],
+    "Mango Languages": [
+        "2016-04-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mango_Languages"
+    ],
+    "Mark Allen Group": [
+        "2018-01-02T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mark_Allen_Group"
+    ],
+    "Market Intelligence Platform (formerly SNL)": [
+        "2020-09-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SNL"
+    ],
+    "MarketLine Advantage": [
+        "2019-04-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/MarketLine_Advantage"
+    ],
+    "MarketResearch.com Academic": [
+        "2017-03-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/MarketResearch_com_Academic"
+    ],
+    "Marketing Week": [
+        "2019-11-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Marketing_Week"
+    ],
+    "Marketscope Advisor - CFRA": [
+        "2018-06-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Marketscope_Advisor-CFRA"
+    ],
+    "Marquis Biographies Online": [
+        "2015-10-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Marquis_Biographies_Online"
+    ],
+    "Material ConneXion": [
+        "2018-05-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Material_ConneXion"
+    ],
+    "MathSciNet": [
+        "2017-12-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/MathSciNet"
+    ],
+    "Mathematical Sciences Publishers": [
+        "2018-02-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mathematical_Sciences_Publishers"
+    ],
+    "Matthew Bender Online": [
+        "2006-03-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Matthew_Bender_Online"
+    ],
+    "Max Planck Encyclopedia of Public International Law": [
+        "2015-10-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ouplaw"
+    ],
+    "McGraw-Hill Medical": [
+        "2020-01-02T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/McGraw-Hill_Medical"
+    ],
+    "McGraw-Hill eBook Library": [
+        "2019-07-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/McGraw-Hill_eBook_Library"
+    ],
+    "Medcom Trainex": [
+        "2015-06-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Medcom_Trainex"
+    ],
+    "Media Source Incorporated": [
+        "2019-10-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Media_Source_Incorporated"
+    ],
+    "Medical Journals": [
+        "2019-10-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Medical_Journals"
+    ],
+    "Medici.tv EDU": [
+        "2018-06-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Medici_tv_EDU"
+    ],
+    "Medieval and Early Modern Sources Online": [
+        "2020-04-06T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Medieval_and_Early_Modern_Sources_Online"
+    ],
+    "Mergent Archives": [
+        "2018-06-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mergent_Archives"
+    ],
+    "Mergent Bond Viewer": [
+        "2019-10-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mergent_Bond_Viewer"
+    ],
+    "Mergent First Research": [
+        "2015-10-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mergent_First_Research"
+    ],
+    "Mergent Hoovers": [
+        "2018-12-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mergent_Hoovers"
+    ],
+    "Mergent Intellect": [
+        "2013-04-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mergent_Intellect"
+    ],
+    "Mergent Key Business Ratios": [
+        "2015-11-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mergent_Key_Business_Ratios"
+    ],
+    "Mergent MDDI": [
+        "2015-11-06T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mergent_MDDI"
+    ],
+    "Mergent Online": [
+        "2015-11-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mergent_Online"
+    ],
+    "Metapress": [
+        "2015-03-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Metapress"
+    ],
+    "MethodsNow": [
+        "2016-08-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/MethodsNow"
+    ],
+    "Metropolitan Opera on Demand": [
+        "2019-05-02T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Metropolitan_Opera_on_Demand"
+    ],
+    "Microbiology Society Journals": [
+        "2019-03-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Microbiology_Society_Journals"
+    ],
+    "Micromedex": [
+        "2011-06-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Micromedex"
+    ],
+    "Military Periscope": [
+        "2016-02-06T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Military_Periscope"
+    ],
+    "Mintel": [
+        "2020-08-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mintel"
+    ],
+    "Mission Nexus": [
+        "2020-06-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mission_Nexus"
+    ],
+    "Modern Language Association": [
+        "2015-07-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Modern_Language_Association"
+    ],
+    "Mohr Siebeck": [
+        "2019-08-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mohr_Siebeck"
+    ],
+    "Mometrix eLibrary": [
+        "2020-03-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mometrix_eLibrary"
+    ],
+    "Morningstar": [
+        "2020-05-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Morningstar"
+    ],
+    "MusicID ARP (formerly Academic Rights Press)": [
+        "2020-08-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Academic_Rights_Press"
+    ],
+    "MyiLibrary": [
+        "2015-08-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/MyiLibrary"
+    ],
+    "NBC Learn": [
+        "2018-12-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NBC_Learn"
+    ],
+    "NEJM Catalyst": [
+        "2020-10-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NEJM_Catalyst"
+    ],
+    "NEJM Journal Watch": [
+        "2018-03-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NEJM_Journal_Watch"
+    ],
+    "NEN Connect": [
+        "2015-11-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NEN_Connect"
+    ],
+    "NFPA Codes Online": [
+        "2018-01-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NFPA_Codes_Online"
+    ],
+    "NRC Research Press": [
+        "2020-10-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NRC_Research_Press"
+    ],
+    "NRIT Media": [
+        "2015-06-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NRIT_Media"
+    ],
+    "Naace": [
+        "2015-03-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Naace"
+    ],
+    "Nachschlage.NET": [
+        "2010-05-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/nachschlageNET"
+    ],
+    "National Bureau of Economic Research": [
+        "2019-05-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/National_Bureau_of_Economic_Research"
+    ],
+    "National Council of Teachers of English": [
+        "2020-04-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ncte"
+    ],
+    "National Council of Teachers of Mathematics": [
+        "2020-08-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/National_Council_of_Teachers_of_Mathematics"
+    ],
+    "National Film Board of Canada": [
+        "2016-01-27T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/nfb"
+    ],
+    "National Journal": [
+        "2019-08-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NationalJournal"
+    ],
+    "National Technical Information Service (NTIS)": [
+        "2007-05-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ntis"
+    ],
+    "Natural Medicines": [
+        "2017-03-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Natural_Medicines"
+    ],
+    "Nature Publishing": [
+        "2019-05-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Nature_Publishing"
+    ],
+    "Naxos": [
+        "2018-12-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Naxos"
+    ],
+    "Naxos Sheet Music Library": [
+        "2017-02-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Naxos_Sheet_Music_Library"
+    ],
+    "Nederlands Tijdschrift voor Geneeskunde": [
+        "2015-06-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ntvg"
+    ],
+    "Nederlandse Artikelendatabank voor de Zorg": [
+        "2015-09-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/vakliteratuur"
+    ],
+    "Nederlandse Documentatie Fiscaal Recht": [
+        "2020-01-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ndfr"
+    ],
+    "NetAnatomy": [
+        "2015-02-27T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NetAnatomy"
+    ],
+    "New England Journal of Medicine": [
+        "2018-04-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/New_England_Journal_of_Medicine"
+    ],
+    "New Generation Research": [
+        "2020-03-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/New_Generation_Research"
+    ],
+    "New Left Review": [
+        "2015-06-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/New_Left_Review"
+    ],
+    "New Play Exchange": [
+        "2019-02-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/New_Play_Exchange"
+    ],
+    "New York Review of Books": [
+        "2018-07-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/nybooks"
+    ],
+    "New York Times (NYT)": [
+        "2020-04-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/New_York_Times"
+    ],
+    "NewsBank": [
+        "2018-05-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NewsBank"
+    ],
+    "Newspaper Archive": [
+        "2017-03-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Newspaper_Archive"
+    ],
+    "Nexis Uni": [
+        "2020-08-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Nexis_Uni"
+    ],
+    "Nikkei Telecom": [
+        "2019-12-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Nikkei_Telecom"
+    ],
+    "Nomos eLibrary": [
+        "2019-01-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Nomos_eLibrary"
+    ],
+    "NoodleTools": [
+        "2020-03-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Noodletools"
+    ],
+    "Now Publishers": [
+        "2020-03-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Now_Publishers"
+    ],
+    "Nursing Consult": [
+        "2015-09-02T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Nursing_Consult"
+    ],
+    "Nutrition Care Manual": [
+        "2009-09-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Nutrition_Care_Manual"
+    ],
+    "OCLC ArchiveGrid": [
+        "2018-01-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OCLC_ArchiveGrid"
+    ],
+    "OCLC FirstSearch": [
+        "2018-08-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/firstsearch"
+    ],
+    "OCLC WorldCat Discovery": [
+        "2015-10-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OCLC_WorldCat_Discovery"
+    ],
+    "OCLC WorldCat Local": [
+        "2018-11-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OCLC_WorldCat_Local"
+    ],
+    "OCLC WorldCat.org": [
+        "2018-11-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OCLC_WorldCat_org"
+    ],
+    "OECD iLibrary": [
+        "2018-05-30T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OECD_iLibrary"
+    ],
+    "Odesi": [
+        "2016-03-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Odesi"
+    ],
+    "Oil Gas & Energy Law Intelligence": [
+        "2020-02-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oil_Gas_Energy_Law_Intelligence"
+    ],
+    "Omega Sources": [
+        "2015-06-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Omega_Sources"
+    ],
+    "Oncology Nursing Society": [
+        "2020-09-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oncology_Nursing_Society"
+    ],
+    "OnePetro (formerly Society of Petroleum Engineers)": [
+        "2015-05-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OnePetro"
+    ],
+    "OneSource Global Business Browser": [
+        "2016-08-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OneSource_Global_Business_Browser"
+    ],
+    "Open Book Publishers": [
+        "2017-07-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Open_Book_Publishers"
+    ],
+    "OpenEdition": [
+        "2019-03-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OpenEdition"
+    ],
+    "OpenLibrary": [
+        "2011-12-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OpenLibrary"
+    ],
+    "OpenThesis": [
+        "2011-01-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OpenThesis"
+    ],
+    "Opinion Archives": [
+        "2014-06-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Opinion_Archives"
+    ],
+    "Orbis": [
+        "2017-08-30T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Orbis"
+    ],
+    "Origins Online": [
+        "2011-07-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Origins_Online"
+    ],
+    "Osiris": [
+        "2015-05-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Osiris"
+    ],
+    "OverDrive": [
+        "2006-07-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OverDrive"
+    ],
+    "Ovid": [
+        "2020-06-02T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Ovid"
+    ],
+    "OvidChinese": [
+        "2020-07-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OvidChinese"
+    ],
+    "OvidEspanol": [
+        "2020-07-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OvidEspanol"
+    ],
+    "OvidFrancais": [
+        "2020-07-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OvidFrancais"
+    ],
+    "Oxford Art Online": [
+        "2020-02-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Art_Online"
+    ],
+    "Oxford Bibliographies": [
+        "2020-01-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Bibliographies"
+    ],
+    "Oxford Clinical Psychology": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Clinical_Psychology"
+    ],
+    "Oxford Dictionaries": [
+        "2016-10-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Dictionaries"
+    ],
+    "Oxford Dictionary of National Biography": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/oxforddnb"
+    ],
+    "Oxford English Dictionary (OED)": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/oed"
+    ],
+    "Oxford First Source": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_First_Source"
+    ],
+    "Oxford Handbooks Online": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Handbooks_Online"
+    ],
+    "Oxford History of Western Music": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_History_of_Western_Music"
+    ],
+    "Oxford Islamic Studies": [
+        "2013-03-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Islamic_Studies"
+    ],
+    "Oxford Journals": [
+        "2019-04-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Journals"
+    ],
+    "Oxford Language Dictionaries": [
+        "2015-06-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Language_Dictionaries"
+    ],
+    "Oxford Law Trove": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Law_Trove"
+    ],
+    "Oxford Medicine Online": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Medicine_Online"
+    ],
+    "Oxford Music Online": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Music_Online"
+    ],
+    "Oxford Politics Trove": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Politics_Trove"
+    ],
+    "Oxford Reference": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Reference"
+    ],
+    "Oxford Research Encyclopedia": [
+        "2019-10-02T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Research_Encyclopedia"
+    ],
+    "Oxford Scholarly Editions Online": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Scholarly_Editions_Online"
+    ],
+    "Oxford Scholarship Online (OSO)": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/oso"
+    ],
+    "Oxford Social Work": [
+        "2015-01-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Social_Work"
+    ],
+    "Oxford University Press Law": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_University_Press_Law"
+    ],
+    "Palgrave Connect": [
+        "2015-05-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Palgrave_Connect"
+    ],
+    "Palgrave Journals": [
+        "2016-07-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Palgrave_Journals"
+    ],
+    "Panjiva": [
+        "2020-06-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Panjiva"
+    ],
+    "Paris Legal Publishers": [
+        "2018-07-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Paris_Legal_Publishers"
+    ],
+    "Passport (Euromonitor International)": [
+        "2020-09-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Passport_Euromonitor_International"
+    ],
+    "Peeters Publishers": [
+        "2019-08-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Peeters_Publishers"
+    ],
+    "Pharmaceutical Press": [
+        "2018-05-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Pharmaceutical_Press"
+    ],
+    "Pharmacy Library": [
+        "2020-03-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Pharmacy_Library"
+    ],
+    "Philosophia Reformata": [
+        "2014-11-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Philosophia_Reformata"
+    ],
+    "Philosophy Documentation Center": [
+        "2019-07-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Philosophy_Documentation_Center"
+    ],
+    "Philosophy Now": [
+        "2019-10-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Philosophy_Now"
+    ],
+    "Physical Society of Japan": [
+        "2019-11-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Physical_Society_of_Japan"
+    ],
+    "PiCarta": [
+        "2017-04-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/PiCarta"
+    ],
+    "Piano Media": [
+        "2014-03-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Piano_Media"
+    ],
+    "Plant Management Network": [
+        "2014-04-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Plant_Management_Network"
+    ],
+    "Plunkett Research Online": [
+        "2017-10-06T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Plunkett_Research_Online"
+    ],
+    "Policy Map": [
+        "2015-09-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Policy_Map"
+    ],
+    "Politico Pro": [
+        "2019-07-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Politico_Pro"
+    ],
+    "Politique \u00e9trang\u00e8re": [
+        "2020-02-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/peg"
+    ],
+    "Portico": [
+        "2020-08-06T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Portico"
+    ],
+    "Portland Press Limited": [
+        "2020-05-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Portland_Press_Limited"
+    ],
+    "Practical Law": [
+        "2019-06-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Practical_Law"
+    ],
+    "Praeger Security International": [
+        "2011-05-06T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Praeger_Security_International"
+    ],
+    "Preqin": [
+        "2019-08-06T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Preqin"
+    ],
+    "PressReader": [
+        "2020-07-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/PressReader"
+    ],
+    "Primark (including Global Access)": [
+        "2002-11-06T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Primark"
+    ],
+    "PrimateLit": [
+        "2016-12-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/PrimateLit"
+    ],
+    "PrivCo": [
+        "2019-01-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/privco"
+    ],
+    "ProQuest": [
+        "2019-07-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ProQuest"
+    ],
+    "Proceedings of the National Academy of Sciences": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/pnas"
+    ],
+    "Project Euclid": [
+        "2017-07-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Project_Euclid"
+    ],
+    "Project Muse": [
+        "2019-09-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Project_Muse"
+    ],
+    "Prometheus": [
+        "2011-11-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Prometheus"
+    ],
+    "Pronunciator": [
+        "2017-10-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Pronunciator"
+    ],
+    "PsycCRITIQUES": [
+        "2006-06-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/PsycCRITIQUES"
+    ],
+    "Psychiatrist.com": [
+        "2019-08-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Psychiatrist"
+    ],
+    "PsychiatryOnline": [
+        "2017-12-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/PsychiatryOnline"
+    ],
+    "Psychotherapy.net": [
+        "2020-09-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Psychotherapy_net"
+    ],
+    "PubMed": [
+        "2018-03-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/PubMed"
+    ],
+    "Public Information Online": [
+        "2019-02-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Public_Information_Online"
+    ],
+    "Public Library of Science": [
+        "2015-10-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Public_Library_of_Science"
+    ],
+    "Qinsight": [
+        "2019-10-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Qinsight"
+    ],
+    "Quintessence Publishing": [
+        "2019-01-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Quintessence_Publishing"
+    ],
+    "Quorum": [
+        "2019-07-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Quorum"
+    ],
+    "R2 Digital Library": [
+        "2010-10-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/R2_Digital_Library"
+    ],
+    "RAND State Statistics": [
+        "2020-05-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/RAND_State_Statistics"
+    ],
+    "RBdigital Audiobooks and Ebooks": [
+        "2019-07-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/RBdigital"
+    ],
+    "RCN Publishing": [
+        "2018-05-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/RCN_Publishing"
+    ],
+    "RIA Checkpoint": [
+        "2017-07-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/RIA_Checkpoint"
+    ],
+    "RICS isurv": [
+        "2015-05-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/RICS_isurv"
+    ],
+    "RIPM Jazz Periodicals": [
+        "2020-04-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/RIPM_Jazz_Periodicals"
+    ],
+    "Radiological Society of North America": [
+        "2016-08-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/RSNA"
+    ],
+    "Reach - Bureau van Dijk": [
+        "2015-08-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Reach-Bureau_van_Dijk"
+    ],
+    "Reaxys": [
+        "2019-09-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Reaxys"
+    ],
+    "Rechtsorde": [
+        "2015-09-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Rechtsorde"
+    ],
+    "Redbooks": [
+        "2012-09-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Redbooks"
+    ],
+    "RefWorks": [
+        "2017-09-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/RefWorks"
+    ],
+    "Reference Universe": [
+        "2018-04-02T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Reference_Universe"
+    ],
+    "ReferenceUSA": [
+        "2016-02-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ReferenceUSA"
+    ],
+    "ResearchNow": [
+        "2015-06-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ResearchNow"
+    ],
+    "Richard K. Miller & Associates": [
+        "2017-06-27T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Richard_K_Miller_Associates"
+    ],
+    "Rock's Backpages": [
+        "2015-05-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Rocks_Backpages"
+    ],
+    "Rockefeller University Press": [
+        "2020-04-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Rockefeller_University_Press"
+    ],
+    "Roper iPoll": [
+        "2020-03-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Roper_iPoll"
+    ],
+    "Roubini Global Economics": [
+        "2015-10-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Roubini_Global_Economics"
+    ],
+    "Routledge Encyclopedia of Modernism": [
+        "2016-05-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Routledge_Encyclopedia_Modernism"
+    ],
+    "Routledge Encyclopedia of Philosophy": [
+        "2015-06-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Routledge_Encyclopedia_of_Philosophy"
+    ],
+    "Routledge Handbooks Online": [
+        "2016-07-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Routledge_Handbooks_Online"
+    ],
+    "Routledge Historical Resources: History of Feminism": [
+        "2016-11-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/History_Feminism"
+    ],
+    "Routledge Online": [
+        "2014-07-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Routledge_Online"
+    ],
+    "Routledge Performance Archive": [
+        "2018-05-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Routledge_Performance_Archive"
+    ],
+    "Royal Aeronautical Society": [
+        "2017-07-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Royal_Aeronautical_Society"
+    ],
+    "Royal Boom Publishing": [
+        "2019-11-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Royal_Boom_Publishing"
+    ],
+    "Royal College of Physicians": [
+        "2019-10-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Royal_College_of_Physicians"
+    ],
+    "Royal Society Publishing, The": [
+        "2019-10-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Royal_Society_Publishing_The"
+    ],
+    "Royal Society of Chemistry and Chemistry World": [
+        "2019-02-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Royal_Society_of_Chemistry_and_Chemistry_World"
+    ],
+    "Ruimte + Wonen": [
+        "2020-10-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Ruimte_Wonen"
+    ],
+    "S&P Global Capital IQ": [
+        "2018-06-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/S_P_Global_Capital_IQ"
+    ],
+    "S&P Global NetAdvantage": [
+        "2018-07-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/S_P_Global_NetAdvantage"
+    ],
+    "SAE International": [
+        "2020-04-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/saeinternational"
+    ],
+    "SAE MOBILUS": [
+        "2020-04-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/sae"
+    ],
+    "SAGE Publications and Journals": [
+        "2020-10-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SAGE_Journals"
+    ],
+    "SAI Global (Australian Standards Online)": [
+        "2019-07-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SAI_Global"
+    ],
+    "SAM.gov (beta)": [
+        "2019-12-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/sam_gov"
+    ],
+    "SDU": [
+        "2020-05-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SDU"
+    ],
+    "SFDE": [
+        "2019-11-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/sfde"
+    ],
+    "SIPRI Yearbook Online": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SIPRI_Yearbook_Online"
+    ],
+    "SIRS": [
+        "2015-10-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SIRS"
+    ],
+    "SPIE Digital Library": [
+        "2017-08-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SPIE_Digital_Library"
+    ],
+    "SRDS": [
+        "2019-08-06T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SRDS"
+    ],
+    "STAT!Ref": [
+        "2014-11-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/statref"
+    ],
+    "STRATFOR": [
+        "2015-03-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/STRATFOR"
+    ],
+    "SVAR": [
+        "2016-08-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SVAR"
+    ],
+    "Sabinet Reference": [
+        "2018-04-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Sabinet_Reference"
+    ],
+    "Safari Books Online": [
+        "2020-05-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Safari_Books_Online"
+    ],
+    "Saishin Kango Sakuin Web": [
+        "2019-02-21T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/saishin"
+    ],
+    "Salem Press": [
+        "2017-11-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Salem_Press"
+    ],
+    "Sampling Theory and Image Processing": [
+        "2019-12-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Sampling_Theory_and_Image_Processing"
+    ],
+    "Sanford Guide Web Edition": [
+        "2020-09-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Sanford_Guide_Web_Edition"
+    ],
+    "Schattauer Publishers": [
+        "2016-07-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Schattauer_Publishers"
+    ],
+    "Scholarly Digital Editions": [
+        "2018-01-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Scholarly_Digital_Editions"
+    ],
+    "Scholastic Learning Zone": [
+        "2019-07-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Scholastic_Learning_Zone"
+    ],
+    "Schulz-Kirchner Verlag": [
+        "2020-01-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Schulz-Kirchner_Verlag"
+    ],
+    "SciFinder": [
+        "2020-09-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SciFinder"
+    ],
+    "SciVal": [
+        "2019-01-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SciVal"
+    ],
+    "Science - AAAS": [
+        "2019-03-19T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ScienceAAAS"
+    ],
+    "Science Signaling": [
+        "2014-04-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Science_Signaling"
+    ],
+    "Science Translational Medicine": [
+        "2014-04-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Science_Translational_Medicine"
+    ],
+    "ScienceFlix": [
+        "2016-07-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ScienceFlix"
+    ],
+    "ScienceXpress": [
+        "2014-04-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ScienceXpress"
+    ],
+    "Scientific American": [
+        "2019-05-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Scientific_American"
+    ],
+    "Scientific American Medicine": [
+        "2014-11-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Scientific_American_Medicine"
+    ],
+    "Scientific American Surgery": [
+        "2014-11-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Scientific_American_Surgery"
+    ],
+    "Sciquest": [
+        "2019-12-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Sciquest"
+    ],
+    "Scitation": [
+        "2017-02-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Scitation"
+    ],
+    "Screenonline": [
+        "2015-07-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Screenonline"
+    ],
+    "Sesame Street eBooks Library": [
+        "2016-05-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Sesame_Street_eBooks_Library"
+    ],
+    "Sheet Music Now": [
+        "2008-03-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Sheet_Music_Now"
+    ],
+    "Siku Quanshu": [
+        "2006-08-06T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Siku_Quanshu"
+    ],
+    "SimplyAnalytics": [
+        "2019-11-27T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SimplyAnalytics"
+    ],
+    "Sixteenth Century Journal": [
+        "2015-09-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Sixteenth_Century_Journal"
+    ],
+    "Skillsoft - Skillport": [
+        "2018-04-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Skillsoft-Skillport"
+    ],
+    "Social Explorer": [
+        "2019-12-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Social_Explorer"
+    ],
+    "Sociological Research Online": [
+        "2019-12-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Sociological_Research_Online"
+    ],
+    "Source Magpies Magazine, The": [
+        "2013-03-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/The_Source_Magpies_Magazine"
+    ],
+    "Southern Medical Association": [
+        "2015-10-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Southern_Medical_Association"
+    ],
+    "Sports Market Analytics": [
+        "2019-02-06T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Sports_Market_Analytics"
+    ],
+    "Springer Nature Experiments (formerly Springer Protocols)": [
+        "2019-05-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Springer_Nature_Experiments"
+    ],
+    "Springer Publishing Company Connect": [
+        "2020-03-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Springer_Publishing_Company_Connect"
+    ],
+    "SpringerLink": [
+        "2020-08-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SpringerLink"
+    ],
+    "SpringerMaterials": [
+        "2015-04-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SpringerMaterials"
+    ],
+    "St Jerome Publishing": [
+        "2015-05-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/St_Jerome_Publishing"
+    ],
+    "Standards New Zealand": [
+        "2016-03-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Standards_New_Zealand"
+    ],
+    "Statista": [
+        "2019-12-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Statista"
+    ],
+    "Strada Lex": [
+        "2020-03-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Strada_Lex"
+    ],
+    "Structural Engineer": [
+        "2019-12-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Structural_Engineer"
+    ],
+    "Swank Digital Campus": [
+        "2020-05-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Swank_Digital_Campus"
+    ],
+    "Sydney Morning Herald & Australian Financial Review Digital Subscriptions": [
+        "2019-04-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/smh"
+    ],
+    "Symptom Media": [
+        "2019-05-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SymptomMedia"
+    ],
+    "TMC Asser Instituut": [
+        "2019-11-27T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/TMC_Asser_Instituut"
+    ],
+    "Taxnet Pro": [
+        "2014-03-05T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Taxnet_Pro"
+    ],
+    "Taylor & Francis eBooks": [
+        "2019-03-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Taylor_Francis_eBooks"
+    ],
+    "Taylor and Francis Online": [
+        "2019-03-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Taylor_Francis_Online"
+    ],
+    "Teaching Times": [
+        "2018-12-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Teaching_Times"
+    ],
+    "Techniques de l'Ing\u00e9nieur": [
+        "2007-12-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/techniques-ingenieur"
+    ],
+    "Teen Health and Wellness": [
+        "2012-12-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Teen_Health_and_Wellness"
+    ],
+    "Telos": [
+        "2019-12-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Telos"
+    ],
+    "The Age (Digital Edition)": [
+        "2019-02-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/theage"
+    ],
+    "The Oklahoman": [
+        "2012-01-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/The_Oklahoman"
+    ],
+    "Theatre Record": [
+        "2018-11-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Theatre_Record"
+    ],
+    "Thesaurus Linguae Graecae": [
+        "2016-03-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Thesaurus_Linguae_Graecae"
+    ],
+    "Thieme": [
+        "2020-07-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Thieme"
+    ],
+    "Thieme MedOne": [
+        "2020-07-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Thieme_MedOne"
+    ],
+    "Thinkmap: Visual Thesaurus": [
+        "2011-11-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Thinkmap_Visual_Thesaurus"
+    ],
+    "Thomson ONE": [
+        "2011-07-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Thomson_ONE"
+    ],
+    "Thomson ONE Banker": [
+        "2015-09-02T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Thomson_ONE_Banker"
+    ],
+    "Torpedo Ultra": [
+        "2006-11-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Torpedo_Ultra"
+    ],
+    "Torrossa Casalini Full Text Platform": [
+        "2020-02-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Torrossa"
+    ],
+    "Transnational Dispute Management": [
+        "2020-02-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Transnational_Dispute_Management"
+    ],
+    "Transparent Language": [
+        "2017-03-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Transparent_Language"
+    ],
+    "Treaty Of Waitangi": [
+        "2016-04-08T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Treaty_Of_Waitangi"
+    ],
+    "TrueFlix": [
+        "2018-10-25T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/TrueFlix"
+    ],
+    "Tugg Streaming": [
+        "2018-03-23T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Tugg_Streaming"
+    ],
+    "Tumblebooks": [
+        "2020-05-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Tumblebooks"
+    ],
+    "Turnitin": [
+        "2011-01-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Turnitin"
+    ],
+    "U.S. Documents Masterfile": [
+        "2018-04-02T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/U_S_Documents_Masterfile"
+    ],
+    "Ulrichsweb": [
+        "2017-06-27T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Ulrichsweb"
+    ],
+    "Understanding Hate in America": [
+        "2019-12-20T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Understanding_Hate_in_America"
+    ],
+    "University Press Scholarship Online": [
+        "2020-07-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/University_Press_Scholarship_Online"
+    ],
+    "University of Buckingham Press": [
+        "2019-12-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/University_of_Buckingham_Press"
+    ],
+    "University of California Press": [
+        "2020-07-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ucpress"
+    ],
+    "University of Chicago Press": [
+        "2018-05-02T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/University_of_Chicago_Press"
+    ],
+    "University of Illinois Press": [
+        "2020-05-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/U_Illinois_Press"
+    ],
+    "University of Pennsylvania Press Journals": [
+        "2020-07-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/University_of_Pennsylvania_Press_Journals"
+    ],
+    "University of Texas Press Journals": [
+        "2018-04-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/University_Texas_Press_Journals"
+    ],
+    "University of Toronto Press Journals": [
+        "2020-07-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/University_of_Toronto_Press_Journals"
+    ],
+    "University of Wisconsin Press": [
+        "2015-06-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/uwpress"
+    ],
+    "UpToDate": [
+        "2017-06-27T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/UpToDate"
+    ],
+    "VLex": [
+        "2020-09-07T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/vLex"
+    ],
+    "Value Line": [
+        "2014-11-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Value_Line"
+    ],
+    "Vandenhoeck & Ruprecht": [
+        "2017-07-12T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Vandenhoeck_Ruprecht"
+    ],
+    "Vanderbilt Television News Archive": [
+        "2016-11-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Vanderbilt_Television_News_Archive"
+    ],
+    "Veritrade": [
+        "2019-03-26T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Veritrade"
+    ],
+    "Very Short Introductions": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Very_Short_Introductions"
+    ],
+    "Vie des Arts": [
+        "2019-09-18T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Vie_des_Arts"
+    ],
+    "Visible Body": [
+        "2020-05-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Visible_Body"
+    ],
+    "WGSN Creative Intelligence": [
+        "2017-04-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/WGSN_Creative_Intelligence"
+    ],
+    "WWD (Women's Wear Daily)": [
+        "2016-09-22T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/WWD"
+    ],
+    "Wageningen Academic": [
+        "2020-10-13T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Wageningen_Academic"
+    ],
+    "Warc": [
+        "2016-12-16T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Warc"
+    ],
+    "Washington Post, The": [
+        "2020-10-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/The_Washington_Post"
+    ],
+    "Web of Knowledge": [
+        "2020-06-15T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Web_of_Knowledge"
+    ],
+    "WestLawNext Canada": [
+        "2015-05-01T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/WestLawNext_Canada"
+    ],
+    "Westlaw": [
+        "2018-10-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Westlaw"
+    ],
+    "Westlaw China": [
+        "2018-10-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Westlaw_China"
+    ],
+    "WestlawNext": [
+        "2020-07-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/WestlawNext"
+    ],
+    "Wharton Research Data Services (WRDS)": [
+        "2019-10-09T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Wharton_Research_Data_Services_WRDS"
+    ],
+    "Who\u2019s Who": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Whos_Who"
+    ],
+    "Wiley Online Library": [
+        "2020-07-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Wiley_Online_Library"
+    ],
+    "WisersOne": [
+        "2020-09-17T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/WisersOne"
+    ],
+    "Wolters Kluwer Cheetah": [
+        "2019-05-24T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Wolters_Kluwer_Cheetah"
+    ],
+    "Wolters Kluwer Online Deutschland": [
+        "2020-04-28T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Wolters_Kluwer_Online_Deutschland"
+    ],
+    "Women's Pregnancy and Breastfeeding Medicines Guide": [
+        "2018-10-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Womens_Pregnancy_and_Breastfeeding_Medicines_Guide"
+    ],
+    "World Bank eLibrary": [
+        "2017-11-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/World_Bank_eLibrary"
+    ],
+    "World Book Encyclopedia": [
+        "2019-04-10T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/worldbookonline"
+    ],
+    "World Scientific Publishing": [
+        "2018-11-30T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/World_Scientific_Publishing"
+    ],
+    "World Shakespeare Bibliography": [
+        "2019-10-14T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/World_Shakespeare_Bibliography"
+    ],
+    "World Tourism Organization (WTO)": [
+        "2019-08-29T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/World_Tourism_Organization_WTO"
+    ],
+    "World Trade REF": [
+        "2018-07-11T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/World_Trade_REF"
+    ],
+    "WorldTradeLaw": [
+        "2016-06-03T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/WorldTradeLaw"
+    ],
+    "Zephyr": [
+        "2015-08-31T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Zephyr"
+    ],
+    "Zero to Three": [
+        "2019-09-04T00:00:00",
+        "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Zero_to_Three"
+    ]
+}

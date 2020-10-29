@@ -59,3 +59,56 @@ def get_stanzas():
   with open(json_file, 'w') as f:
     json.dump(stanzas, f, indent=4)
   return stanzas
+
+def load_config_stanzas():
+    conf_file = "config.txt"
+
+    with open(conf_file, "r") as f:
+        lines = f.readlines()
+
+    current_stanzas = []
+
+    for line in lines:
+        if re.match(r'^Title .+ \(updated .+\)$', line):
+            title = re.search(r'Title (.+) \(', line).group(1).strip()
+            date = re.search(r'[0-9]{8}', line).group()
+            try:
+                last_updated = datetime.strptime(date, "%Y%m%d")
+            except:
+                print("Fix this date: " + title)
+
+            if date and title:
+                #print(title)
+                current_stanzas.append((title, last_updated))
+            else:
+                print("This doesn't have title or date")
+
+    return current_stanzas
+
+
+
+def run():
+    print("TEST")
+    current_stanzas = load_config_stanzas()
+    new_stanzas = get_stanzas()
+
+    #for s in new_stanzas.keys():
+        #print("WEB STANZA " + s + "-" + str(len(s)))
+
+    ct = 0
+    for stanza in current_stanzas:
+        stanza_name = stanza[0]
+        stanza_date = stanza[1]
+        
+        
+
+        if stanza_name not in current_stanzas:
+            ct += 1
+            print("NAME NOT IN WEB TITLES: " + stanza_name)
+      
+    print(ct)
+
+
+
+if __name__ == "__main__":
+    run()

@@ -17,10 +17,9 @@ def gen_web_stanzas():
             lines = tag.text.split('\n')
             for line in lines:
                 if re.match(r'^Title (.+)$', line):
-                    title = re.search(r'Title (.+)[\(]?', line)
-                    print(line)
-                    date = re.search(r'[0-9]{8}', line).group()
-                    print("Title: " + title + "-" + date)
+                    title = re.search(r'Title ([^(]+)\s?(\(updated .+\))?$', line).group(1).strip()
+                    print(title)
+                    #print("Title: " + title + "-" + date)
 
 
 if __name__ == "__main__":

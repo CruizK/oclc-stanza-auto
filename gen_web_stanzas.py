@@ -1,9 +1,9 @@
 from bs4 import BeautifulSoup
-import requests
-import re
 from main import get_stanzas
 from datetime import datetime
 from multiprocessing import Pool
+import requests
+import re
 import os.path
 import json
 
@@ -28,26 +28,35 @@ def check_file():
             json.dump(links, f, indent=4)
             return links
 
-
-def gen_web_stanzas():
-    stanza_data = check_file()
-
+def get_not_updated(stanza_data):
     not_updated_subset = []
     for key in stanza_data:
         if 'last_updated' not in stanza_data[key]:
             not_updated_subset.append(key)
+    return not_updated_subset
 
-    
-    with Pool(5) as p:
-        results = [p.apply_async(parsePage, args=(i,)) for i in not_updated_subset[:5]]
-        arr = [result.get() for result in results]
-        for i in arr:
-            if i['link'] in stanza_data:
-                stanza_data[i['link']].update(i)
-        
-        with open(json_file, "w") as f:
-            json.dump(stanza_data, f, indent=4)
 
+
+def gen_web_stanzas():
+    stanza_data = check_file()
+
+    links = get_not_updated(stanza_data)[:2]
+    link = "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ASTM_Compass"
+    print(parsePage(link))
+    """
+    with Pool(2) as p:
+        while(len(links) > 0):
+            results = [p.apply_async(parsePage, args=(i,)) for i in links]
+            arr = [result.get() for result in results]
+            for i in arr:
+                if i['link'] in stanza_data:
+                    stanza_data[i['link']].update(i)
+            
+            with open(json_file, "w") as f:
+                json.dump(stanza_data, f, indent=4)
+
+            links = get_not_updated(stanza_data)[:2]
+"""
 
 def parsePage(link):
     page = requests.get(link)
@@ -63,9 +72,10 @@ def parsePage(link):
         lines = tag.text.split('\n')
         is_title_tag = False
         for line in lines:
-            if re.match(r'^Title (.+)$', line):
+            if re.match(r'^Title (?!.*-hide)(.+)$', line):
                 is_title_tag = True
                 print(line)
+                # NOTE: Certain updates seem to be structured as Title blahblah (OCLC Include File updated xxxxxxxx)
                 search = re.search(r'^Title ((?:(?! \(updated).)*) \(updated (\d{8})\)', line)  # Wow so beautiful
 
                 if search == None: # Make the assumption that it has no (updated) format ex: Title 123Library

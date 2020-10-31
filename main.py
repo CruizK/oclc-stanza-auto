@@ -8,7 +8,6 @@ import os.path
 json_file = 'new_stanzas.json'
 
 def check_file():
-  
   if os.path.exists(json_file):
     with open(json_file, "r") as f:
       data = json.load(f)

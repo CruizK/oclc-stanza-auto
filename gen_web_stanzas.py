@@ -22,11 +22,9 @@ def check_file():
             return data
     else:
         with open(json_file, "w") as f:
-            web_stanzas = get_stanzas()
-            links = {web_stanzas[key][1]: {'web_title': key}
-                     for key in web_stanzas}
-            json.dump(links, f, indent=4)
-            return links
+            data = {}
+            json.dump(data, f, indent=4)
+            return data
 
 def get_not_updated(stanza_data):
     not_updated_subset = []
@@ -38,11 +36,17 @@ def get_not_updated(stanza_data):
 
 
 def gen_web_stanzas():
+    web_stanzas = get_stanzas()
+    all_links = [web_stanzas[key][1] for key in web_stanzas]
     stanza_data = check_file()
 
     links = get_not_updated(stanza_data)[:2]
-    link = "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ASTM_Compass"
-    print(parsePage(link))
+    #link = "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ASTM_Compass"
+    link = "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Gale_InfoTrac"
+    page_data = parsePage(link, stanza_data)
+    with open(json_file, "w") as f:
+        stanza_data.update(page_data)
+        json.dump(stanza_data, f, indent=4)
     """
     with Pool(2) as p:
         while(len(links) > 0):
@@ -58,23 +62,39 @@ def gen_web_stanzas():
             links = get_not_updated(stanza_data)[:2]
 """
 
-def parsePage(link):
+def parsePage(link, stanza_data):
     page = requests.get(link)
     soup = BeautifulSoup(page.text, 'html.parser')
     pre_tags = soup.find_all('pre')
     
-    main_stanza_text = ""
-    other_text = []
+    total_stanzas = {}
+
+    stanza_text = ""
     last_updated = ""
     title = ""
 
     for tag in pre_tags:
-        lines = tag.text.split('\n')
-        is_title_tag = False
+        lines = tag.text.split('\n')[1:]
+        if "IncludeFile" in tag.text:
+            continue
         for line in lines:
-            if re.match(r'^Title (?!.*-hide)(.+)$', line):
-                is_title_tag = True
+            # If it's A title line, then read in the title and date and save it
+            if line == "" and stanza_text != "":
+                if title in total_stanzas:
+                    total_stanzas[title]['stanza_text'] += stanza_text
+                elif title != "":
+                    total_stanzas[title] = {
+                        'title': title,
+                        'last_updated': str(last_updated),
+                        'stanza_text': stanza_text
+                    }
+                else:
+                    print("Stanza without title")
+                stanza_text = ""
+                continue
+            if re.match(r'^Title (.+)$', line):
                 print(line)
+
                 # NOTE: Certain updates seem to be structured as Title blahblah (OCLC Include File updated xxxxxxxx)
                 search = re.search(r'^Title ((?:(?! \(updated).)*) \(updated (\d{8})\)', line)  # Wow so beautiful
 
@@ -88,16 +108,9 @@ def parsePage(link):
                     last_updated = datetime.strptime(search.group(2), "%Y%m%d")
                 except:
                     last_updated = "No Data"
-        if is_title_tag == False:
-            other_text.append(str(tag.text))
-
-    return {
-        'title': title,
-        'last_updated': str(last_updated),
-        'main_stanza_text': main_stanza_text,
-        'other_text': other_text,
-        'link': link
-    }
+            stanza_text += line + "\n"
+    return total_stanzas
+        
 
 
 if __name__ == "__main__":

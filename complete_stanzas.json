@@ -1,27 +1,674 @@
 {
+    "123Library": {
+        "title": "123Library",
+        "last_updated": "2014-06-05 00:00:00",
+        "stanza_text": "Title 123Library\nURL https://www.123library.org\nName ezproxy.my-institution.ac.uk\nOption ProxyByHostname\nLoginPort 80\nLoginPortSSL 443\n*.ezproxy 3600 IN A 111.222.333.444\nezproxy 3600 IN A 111.222.333.444\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/123Library"
+    },
+    "5 Minute Consult": {
+        "title": "5 Minute Consult",
+        "last_updated": "2019-12-12 00:00:00",
+        "stanza_text": "Title 5 Minute Consult\nURL http://5minuteconsult.com\nHJ 5minuteconsult.com\nHJ https://5minuteconsult.com\nDJ 5minuteconsult.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/5_Minute_Consult"
+    },
+    "A-R Music Anthology": {
+        "title": "A-R Music Anthology",
+        "last_updated": "2020-09-30 00:00:00",
+        "stanza_text": "Title A-R Music Anthology (updated 20200930)\nURL https://www.armusicanthology.com\nHJ www.armusicanthology.com\nDJ www.armusicanthology.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Online_Music_Anthology"
+    },
+    "AACN Journals": {
+        "title": "AACN Journals",
+        "last_updated": "2020-04-14 00:00:00",
+        "stanza_text": "Title AACN Journals (updated 20200414)\nURL https://aacnjournals.org/\nHJ aacnjournals.org\nDJ aacnjournals.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AACN_Journals"
+    },
+    "AAIDD Online Journals": {
+        "title": "AAIDD Online Journals",
+        "last_updated": "2019-04-10 00:00:00",
+        "stanza_text": "Option DomainCookieOnly\nTitle AAIDD Online Journals (updated 20190410)\nURL https://www.aaiddjournals.org\nH 65.156.1.66\nHJ aaiddjournals.org\nHJ https://aaiddjournals.org\nHJ https://pinnacle-secure.allenpress.com\nHJ https://www.aaiddjournals.org\nHJ www.aaiddjournals.org\nDJ aaiddjournals.org\nDJ pinnacle-secure.allenpress.com\nOption Cookie\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AAIDD_Online_Journals"
+    },
+    "AAO Ebooks Library": {
+        "title": "AAO Ebooks Library",
+        "last_updated": "2019-04-18 00:00:00",
+        "stanza_text": "Title AAO Ebooks Library (updated 20190418)\nURL http://elibrary.aao.org\nHJ elibrary.aao.org\nHJ https://elibrary.aao.org\nDJ aao.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AAO_Ebooks_Library"
+    },
+    "ABC Lingo Lite": {
+        "title": "ABC Lingo Lite",
+        "last_updated": "2018-07-11 00:00:00",
+        "stanza_text": "Title ABC Lingo Lite (updated 20180711)\nURL https://www.abclingolite.com\nHJ www.abclingolite.com\nDJ abclingolite.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ABC_Lingo_Lite"
+    },
+    "ABC Maps Online": {
+        "title": "ABC Maps Online",
+        "last_updated": "2018-07-11 00:00:00",
+        "stanza_text": "Title ABC Maps Online (updated 20180711)\nURL https://www.abcmapsonline.com\nHJ www.abcmapsonline.com\nDJ abcmapsonline.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ABC_Maps_Online"
+    },
+    "ABC World Culture": {
+        "title": "ABC World Culture",
+        "last_updated": "2018-07-11 00:00:00",
+        "stanza_text": "Title ABC World Culture (updated 20180711)\nURL https://www.abcworldculture.com\nHJ www.abcworldculture.com\nDJ abcworldculture.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ABC_World_Culture"
+    },
+    "ABC World Food": {
+        "title": "ABC World Food",
+        "last_updated": "2018-07-11 00:00:00",
+        "stanza_text": "Title ABC World Food (updated 20180711)\nURL https://www.abcworldfood.com\nHJ www.abcworldfood.com\nDJ abcworldfood.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ABC_World_Food"
+    },
+    "ABC the USA": {
+        "title": "ABC the USA",
+        "last_updated": "2018-07-11 00:00:00",
+        "stanza_text": "Title ABC the USA (updated 20180711)\nURL https://www.abctheusa.com\nHJ www.abctheusa.com\nDJ abctheusa.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ABC_the_USA"
+    },
+    "ABC-CLIO Databases and Ebooks": {
+        "title": "ABC-CLIO Databases and Ebooks",
+        "last_updated": "2018-07-26 00:00:00",
+        "stanza_text": "Title ABC-CLIO Databases and Ebooks (updated 20180726)\nURL http://databases.abc-clio.com\nHJ https://databases.abc-clio.com\nHJ africanamerican.abc-clio.com\nHJ africanamerican2.abc-clio.com\nHJ americangovernment.abc-clio.com\nHJ americangovernment2.abc-clio.com\nHJ americanhistory.abc-clio.com\nHJ americanhistory2.abc-clio.com\nHJ americanindian.abc-clio.com\nHJ americanindian2.abc-clio.com\nHJ ancienthistory.abc-clio.com\nHJ ancienthistory2.abc-clio.com\nHJ dailylife.abc-clio.com\nHJ dailylife2.abc-clio.com\nHJ databases.abc-clio.com\nHJ ebooks.abc-clio.com\nHJ guidetoamericanforeignrelations.abc-clio.com\nHJ issues.abc-clio.com\nHJ issues2.abc-clio.com\nHJ latinoamerican.abc-clio.com\nHJ latinoamerican2.abc-clio.com\nHJ legacy.abc-clio.com\nHJ metrics.abc-clio.com\nHJ moderngenocide.abc-clio.com\nHJ moderngenocide2.abc-clio.com\nHJ popculture.abc-clio.com\nHJ popculture2.abc-clio.com\nHJ publisher.abc-clio.com\nHJ religion.abc-clio.com\nHJ religion2.abc-clio.com\nHJ sb2.abc-clio.com\nHJ serials.abc-clio.com\nHJ usatwar.abc-clio.com\nHJ usgeography.abc-clio.com\nHJ worldatwar.abc-clio.com\nHJ worldatwar2.abc-clio.com\nHJ worldgeography.abc-clio.com\nHJ worldgeography2.abc-clio.com\nHJ worldhistory.abc-clio.com\nHJ worldhistory2.abc-clio.com\nHJ www.africanamerican.abc-clio.com\nHJ www.africanamerican2.abc-clio.com\nHJ www.americangovernment.abc-clio.com\nHJ www.americangovernment2.abc-clio.com\nHJ www.americanhistory.abc-clio.com\nHJ www.americanhistory2.abc-clio.com\nHJ www.americanindian.abc-clio.com\nHJ www.americanindian2.abc-clio.com\nHJ www.ancienthistory.abc-clio.com\nHJ www.ancienthistory2.abc-clio.com\nHJ www.dailylife.abc-clio.com\nHJ www.dailylife2.abc-clio.com\nHJ www.databases.abc-clio.com\nHJ www.ebooks.abc-clio.com\nHJ www.issues.abc-clio.com\nHJ www.issues2.abc-clio.com\nHJ www.latinoamerican.abc-clio.com\nHJ www.latinoamerican2.abc-clio.com\nHJ www.metrics.abc-clio.com\nHJ www.moderngenocide.abc-clio.com\nHJ www.moderngenocide2.abc-clio.com\nHJ www.popculture.abc-clio.com\nHJ www.popculture2.abc-clio.com\nHJ www.religion.abc-clio.com\nHJ www.religion2.abc-clio.com\nHJ www.sb2.abc-clio.com\nHJ www.serials.abc-clio.com\nHJ www.usatwar.abc-clio.com\nHJ www.usgeography.abc-clio.com\nHJ www.worldatwar.abc-clio.com\nHJ www.worldatwar2.abc-clio.com\nHJ www.worldgeography.abc-clio.com\nHJ www.worldgeography2.abc-clio.com\nHJ www.worldhistory.abc-clio.com\nHJ www.worldhistory2.abc-clio.com\nHJ www.abc-clio.com\nHJ abc-clio.com\nDJ abc-clio.com\nHJ psi.praeger.com\nDJ praeger.com\nHJ authors4teens.com\nDJ authors4teens.com\nHJ arba.librariesunlimited.com\nHJ www.librariesunlimited.com\nHJ librariesunlimited.com\nDJ librariesunlimited.com\nHJ www.readersadvisoronline.com\nHJ readersadvisoronline.com\nDJ readersadvisoronline.com\nHJ folklore.greenwood.com\nHJ ebooks.greenwood.com\nHJ gem.greenwood.com\nHJ www.greenwood.com\nHJ greenwood.com\nDJ greenwood.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ABC-CLIO"
+    },
+    "ACM Digital Library": {
+        "title": "ACM Digital Library",
+        "last_updated": "2020-09-29 00:00:00",
+        "stanza_text": "Option X-Forwarded-For\nTitle ACM Digital Library (updated 20200929)\nURL http://dl.acm.org\nHJ https://dl.acm.org\nHJ https://dlnext.acm.org\nHJ dlnext.acm.org\nHJ acm.org\nHJ acmtecs.acm.org\nHJ books.acm.org\nHJ cacm.acm.org\nHJ campus.acm.org\nHJ delivery.acm.org\nHJ doi.acm.org\nHJ interactions.acm.org\nHJ jacm.acm.org\nHJ jdiq.acm.org\nHJ jetc.acm.org\nHJ jocch.acm.org\nHJ networker.acm.org\nHJ portal.acm.org\nHJ surveys.acm.org\nHJ taas.acm.org\nHJ taco.acm.org\nHJ talg.acm.org\nHJ talip.acm.org\nHJ teac.acm.org\nHJ technews.acm.org\nHJ tiis.acm.org\nHJ tissec.acm.org\nHJ tist.acm.org\nHJ tmis.acm.org\nHJ tochi.acm.org\nHJ toce.acm.org\nHJ tocl.acm.org\nHJ tocs.acm.org\nHJ toct.acm.org\nHJ todaes.acm.org\nHJ tods.acm.org\nHJ tog.acm.org\nHJ tois.acm.org\nHJ toit.acm.org\nHJ tomacs.acm.org\nHJ tomm.acm.org\nHJ toms.acm.org\nHJ topc.acm.org\nHJ toplas.acm.org\nHJ tos.acm.org\nHJ tosem.acm.org\nHJ tosn.acm.org\nHJ tsas.acm.org\nHJ tslp.acm.org\nHJ tweb.acm.org\nHJ www.acm.org\nHJ www.jea.acm.org\nHJ xrds.acm.org\nDJ acm.org\nOption NoX-Forwarded-For\nNeverProxy idp.acm.org\nNeverProxy acm-prod-streaming.literatumonline.com\nNeverProxy acm-prod-cdn.literatumonline.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ACM_Digital_Library"
+    },
+    "ACSESS Digital Library": {
+        "title": "ACSESS Digital Library",
+        "last_updated": "2018-02-28 00:00:00",
+        "stanza_text": "Title ACSESS Digital Library (updated 20180228)\nURL https://dl.sciencesocieties.org/\nHJ dl.sciencesocieties.org\nHJ www.sciencesocieties.org\nHJ sciencesocieties.org\nHJ https://portal.sciencesocieties.org\nHJ portal.sciencesocieties.org\nDJ sciencesocieties.org\nHJ www.agronomy.org\nDJ agronomy.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ACSESS_Digital_Library"
+    },
+    "AHA Journals (Lippincott Williams & Wilkins-LWW)": {
+        "title": "AHA Journals (Lippincott Williams & Wilkins-LWW)",
+        "last_updated": "2020-10-23 00:00:00",
+        "stanza_text": "Title AHA Journals (Lippincott Williams & Wilkins-LWW) (updated 20201023)\nURL http://atvb.ahajournals.org/\nH advisor.lww.com\nH atvb.ahajournals.org\nH circep.ahajournals.org\nH circgenetics.ahajournals.org\nH circheartfailure.ahajournals.org\nH circinterventions.ahajournals.org\nH circoutcomes.ahajournals.org\nH circ.ahajournals.org\nH circimaging.ahajournals.org\nH circres.ahajournals.org\nH cp.neurology.org\nH https://advisor.lww.com\nH https://journals.lww.com\nH https://procedures.lww.com\nH https://thepoint.lww.com\nH thepoint.lww.com\nH hyper.ahajournals.org\nH jaha.ahajournals.org\nH journals.lww.com\nH procedures.lww.com\nH ovidsp.ovid.com\nH stroke.ahajournals.org\nH www.anesthesia-analgesia.org\nH www.jvir.org\nH www.nephrologytimes.com\nH www.neurology.org\nH www.newslettersonline.com\nH www.ovid.com\nH www.psychosomaticmedicine.org\nH www.smajournalonline.com\nH https://www.ahajournals.org\nH https://ahajournals.org\nH www.ahajournals.org\nH ahajournals.org\nDJ ahajournals.org\nDJ neurology.org\nDJ lww.com\nDJ ovid.com\nDJ anesthesia-analgesia.org\nDJ jvir.org\nDJ nephrologytimes.com\nDJ newslettersonline.com\nDJ psychosomaticmedicine.org\nDJ smajournalonline.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AHA_Journals"
+    },
+    "AHA eBooks Library": {
+        "title": "AHA eBooks Library",
+        "last_updated": "2016-05-13 00:00:00",
+        "stanza_text": "Title AHA eBooks Library (updated 20160513)\nURL https://ahainst.ipublishcentral.com\nDJ ipublishcentral.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AHA_eBooks_Library"
+    },
+    "ALA Journals": {
+        "title": "ALA Journals",
+        "last_updated": "2016-08-09 00:00:00",
+        "stanza_text": "Title ALA Journals (updated 20160809)\nURL https://journals.ala.org/\nHJ journals.ala.org\nHJ www.journals.ala.org\nHJ https://journals.ala.org\nHJ https://www.journals.ala.org\nDJ ala.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ALA_Journals"
+    },
+    "AMA Manual of Style": {
+        "title": "AMA Manual of Style",
+        "last_updated": "2019-04-10 00:00:00",
+        "stanza_text": "Title AMA Manual of Style (updated 20190410)\nURL https://www.amamanualofstyle.com\nHJ https://www.amamanualofstyle.com\nHJ https://amamanualofstyle.com\nHJ amamanualofstyle.com\nHJ www.amamanualofstyle.com\nDJ amamanualofstyle.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AMA_Manual_of_Style"
+    },
+    "AOU & COS Publications": {
+        "title": "AOU & COS Publications",
+        "last_updated": "2015-09-17 00:00:00",
+        "stanza_text": "Title AOU & COS Publications (updated 20150917)\nURL http://www.aoucospubs.org\nHJ aoucospubs.org\nHJ www.aoucospubs.org\nDJ aoucospubs.org \n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AOU_COS_Publications"
+    },
+    "AP Images": {
+        "title": "AP Images",
+        "last_updated": "2014-11-24 00:00:00",
+        "stanza_text": "Title AP Images (updated 20141124)\nURL http://apimages.ap.org/unsecured/logip.aspx\nDomain ap.org\nDJ accuweather.com\nDJ apimages.com\nHost apimages.ap.org\nHost apimages.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AP_Photo_Archive"
+    },
+    "APA PsycNET": {
+        "title": "APA PsycNET",
+        "last_updated": "2019-07-23 00:00:00",
+        "stanza_text": "Title APA PsycNET (updated 20190723)\nURL https://psycnet.apa.org\nHJ content.apa.org\nHJ doi.apa.org\nHJ my.apa.org\nHJ proxies.apa.org\nHJ psycinfo.com\nHJ psycnet.apa.org\nHJ psyctherapy.apa.org\nHJ psyctherapyalpha.apa.org\nHJ search.apa.org\nHJ www.apa.org\nHJ www.psycinfo.com\nHJ http://psycnet.apa.org\nHJ https://psyctherapy.apa.org\nHJ https://psyctherapyalpha.apa.org/\nHJ https://psycnet.apa.org\nHJ https://www.apa.org\nDJ apa.org\nDJ psycinfo.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/APA_PsycNET"
+    },
+    "APS Journals": {
+        "title": "APS Journals",
+        "last_updated": "2019-09-20 00:00:00",
+        "stanza_text": "Title APS Journals (updated 20190920)\nMimeFilter application/json .* javascript\nURL https://publish.aps.org\nHJ https://journals.aps.org\nHJ https://link.aps.org\nHJ https://physics.aps.org\nHJ https://www.aps.org\nHJ archive.aps.org\nHJ focus.aps.org\nHJ journals.aps.org\nHJ link.aps.org\nHJ physics.aps.org\nHJ pra.aps.org\nHJ prb.aps.org\nHJ prc.aps.org\nHJ prd.aps.org\nHJ pre.aps.org\nHJ prl.aps.org\nHJ prola.aps.org\nHJ prst-ab.aps.org\nHJ prst-per.aps.org\nHJ publish.aps.org\nHJ rmp.aps.org\nHJ searchapi.aps.org\nHJ www.aps.org\nDJ aps.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/APS_Journals"
+    },
+    "ARTstor Digital Library (ADL)": {
+        "title": "ARTstor Digital Library (ADL)",
+        "last_updated": "2020-08-07 00:00:00",
+        "stanza_text": "Title ARTstor Digital Library (ADL) (updated 20200807)\nHTTPHeader -request -process X-*\nHTTPHeader -request -process Accept-Encoding\nHTTPHeader -request -process Access-Control-Allow-Origin\nHTTPMethod PUT\nHTTPMethod PATCH\nHTTPMethod OPTIONS\nHTTPMethod DELETE\nAnonymousUrl +.jar\nAnonymousUrl +.class\nAnonymousUrl +.gif\nAnonymousUrl +.jpg\nURL https://library.artstor.org\nHJ library.artstor.org\nHJ https://tsprod.artstor.org\nHJ https://mdxdv.artstor.org\nDJ artstor.org\nDJ mdxdv.artstor.org\nFind //tsprod\nReplace https://tsprod\nNeverProxy tsprod.artstor.org\nNeverProxy kaltura.artstor.org\nNeverProxy kts.artstor.org\nNeverProxy viewer.artstor.org\nNeverProxy viewer2.artstor.org\nNeverProxy library.stanford.edu\nNeverProxy stor.artstor.org\nAnonymousUrl -*\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Artstor"
+    },
+    "ASM International (20200129)": {
+        "title": "ASM International (20200129)",
+        "last_updated": "2020-01-29 00:00:00",
+        "stanza_text": "Title ASM International (20200129)\nURL https://dl.asminternational.org/\nHJ https://dl.asminternational.org\nHJ dl.asminternational.org\nHJ https://amp.asminternational.org\nHJ amp.asminternational.org\nDJ asminternational.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ASM_International"
+    },
+    "ASME Digital Collection": {
+        "title": "ASME Digital Collection",
+        "last_updated": "2018-03-12 00:00:00",
+        "stanza_text": "Title ASME Digital Collection (updated 20180312)\nURL http://asmedigitalcollection.asme.org\nHJ appliedmechanics.asmedigitalcollection.asme.org\nHJ appliedmechanicsreviews.asmedigitalcollection.asme.org\nHJ asmedigitalcollection.asme.org\nHJ asmedl.org\nHJ biomechanical.asmedigitalcollection.asme.org\nHJ computationalnonlinear.asmedigitalcollection.asme.org\nHJ computingengineering.asmedigitalcollection.asme.org\nHJ dynamicsystems.asmedigitalcollection.asme.org\nHJ ebooks.asmedigitalcollection.asme.org\nHJ electrochemical.asmedigitalcollection.asme.org\nHJ electronicpackaging.asmedigitalcollection.asme.org\nHJ energyresources.asmedigitalcollection.asme.org\nHJ fluidsengineering.asmedigitalcollection.asme.org\nHJ fuelcellscience.asmedigitalcollection.asme.org\nHJ gasturbinespower.asmedigitalcollection.asme.org\nHJ heattransfer.asmedigitalcollection.asme.org\nHJ https://appliedmechanics.asmedigitalcollection.asme.org\nHJ https://appliedmechanicsreviews.asmedigitalcollection.asme.org\nHJ https://asme.org\nHJ https://asmedigitalcollection.asme.org\nHJ https://biomechanical.asmedigitalcollection.asme.org\nHJ https://computationalnonlinear.asmedigitalcollection.asme.org\nHJ https://computingengineering.asmedigitalcollection.asme.org\nHJ https://dynamicsystems.asmedigitalcollection.asme.org\nHJ https://ebooks.asmedigitalcollection.asme.org\nHJ https://electrochemical.asmedigitalcollection.asme.org\nHJ https://electronicpackaging.asmedigitalcollection.asme.org\nHJ https://energyresources.asmedigitalcollection.asme.org\nHJ https://fluidsengineering.asmedigitalcollection.asme.org\nHJ https://gasturbinespower.asmedigitalcollection.asme.org\nHJ https://heattransfer.asmedigitalcollection.asme.org\nHJ https://manufacturingscience.asmedigitalcollection.asme.org\nHJ https://materialstechnology.asmedigitalcollection.asme.org\nHJ https://mechanicaldesign.asmedigitalcollection.asme.org\nHJ https://mechanismsrobotics.asmedigitalcollection.asme.org\nHJ https://medicaldevices.asmedigitalcollection.asme.org\nHJ https://medicaldiagnostics.asmedigitalcollection.asme.org\nHJ https://micronanomanufacturing.asmedigitalcollection.asme.org\nHJ https://nanoengineeringmedical.asmedigitalcollection.asme.org\nHJ https://nondestructive.asmedigitalcollection.asme.org\nHJ https://nuclearengineering.asmedigitalcollection.asme.org\nHJ https://offshoremechanics.asmedigitalcollection.asme.org\nHJ https://pressurevesseltech.asmedigitalcollection.asme.org\nHJ https://proceedings.asmedigitalcollection.asme.org\nHJ https://risk.asmedigitalcollection.asme.org\nHJ https://solarenergyengineering.asmedigitalcollection.asme.org\nHJ https://thermalscienceapplication.asmedigitalcollection.asme.org\nHJ https://tribology.asmedigitalcollection.asme.org\nHJ https://turbomachinery.asmedigitalcollection.asme.org\nHJ https://verification.asmedigitalcollection.asme.org\nHJ https://vibrationacoustics.asmedigitalcollection.asme.org\nHJ https://www.asme.org\nHJ journals.asmedigitalcollection.asme.org\nHJ manufacturingscience.asmedigitalcollection.asme.org\nHJ materialstechnology.asmedigitalcollection.asme.org\nHJ mechanicaldesign.asmedigitalcollection.asme.org\nHJ mechanismsrobotics.asmedigitalcollection.asme.org\nHJ medicaldevices.asmedigitalcollection.asme.org\nHJ medicaldiagnostics.asmedigitalcollection.asme.org\nHJ micronanomanufacturing.asmedigitalcollection.asme.org\nHJ nanoengineeringmedical.asmedigitalcollection.asme.org\nHJ nondestructive.asmedigitalcollection.asme.org\nHJ nuclearengineering.asmedigitalcollection.asme.org\nHJ offshoremechanics.asmedigitalcollection.asme.org\nHJ pressurevesseltech.asmedigitalcollection.asme.org\nHJ proceedings.asmedigitalcollection.asme.org\nHJ risk.asmedigitalcollection.asme.org\nHJ solarenergyengineering.asmedigitalcollection.asme.org\nHJ thermalscienceapplication.asmedigitalcollection.asme.org\nHJ tribology.asmedigitalcollection.asme.org\nHJ turbomachinery.asmedigitalcollection.asme.org\nHJ verification.asmedigitalcollection.asme.org\nHJ vibrationacoustics.asmedigitalcollection.asme.org\nHJ www.asme.org\nHJ www.asmedigitalcollection.asme.org\nHJ www.asmedl.org\nDJ asmedigitalcollection.asme.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/asme"
+    },
+    "ASPET Journals Online": {
+        "title": "ASPET Journals Online",
+        "last_updated": "2019-12-23 00:00:00",
+        "stanza_text": "Title ASPET Journals Online (updated 20191223)\nURL http://www.aspetjournals.org/\nHJ aspet.org\nHJ aspetjournals.org\nHJ dmd.aspetjournals.org\nHJ https://www.aspet.org\nHJ jpet.aspetjournals.org\nHJ molpharm.aspetjournals.org\nHJ pharmrev.aspetjournals.org\nHJ www.aspet.org\nHJ www.aspetjournals.org\nDJ aspet.org\nDJ aspetjournals.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ASPET_Journals_Online"
+    },
+    "AST Publications": {
+        "title": "AST Publications",
+        "last_updated": "2020-08-12 00:00:00",
+        "stanza_text": "Title AST Publications (updated 20200812)\nURL https://astpublications.com\nHJ https://artsongtranspositions.com\nHJ http://artsongtranspositions.com\nHJ http://astpublications.com\nDJ astpublications.com\nDJ artsongtranspositions.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AST_Publications"
+    },
     "ASTM Compass": {
         "title": "ASTM Compass",
         "last_updated": "2019-07-29 00:00:00",
-        "stanza_text": "Option CookiePassThrough\nTitle ASTM Compass (updated 20190729)\nURL https://compass.astm.org\nHJ compass.astm.org\nDJ compass.astm.org\nFind .indexOf(\"compass\") > -1\nReplace .indexOf(\".\") > -1\nFind .indexOf(\"compass.astm.org\") > -1\nReplace .indexOf(\".\") > -1\nFind domain=.astm.org\nReplace domain=^d\nFind host=.astm.org\nReplace host=^d\nFind imgloc != \"\"\nReplace false\nFind \"url\":\"http://\nReplace \"url\":\"http://^A\n"
+        "stanza_text": "Option CookiePassThrough\nTitle ASTM Compass (updated 20190729)\nURL https://compass.astm.org\nHJ compass.astm.org\nDJ compass.astm.org\nFind .indexOf(\"compass\") > -1\nReplace .indexOf(\".\") > -1\nFind .indexOf(\"compass.astm.org\") > -1\nReplace .indexOf(\".\") > -1\nFind domain=.astm.org\nReplace domain=^d\nFind host=.astm.org\nReplace host=^d\nFind imgloc != \"\"\nReplace false\nFind \"url\":\"http://\nReplace \"url\":\"http://^A\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ASTM_Compass"
     },
     "Enterprise ASTM": {
         "title": "Enterprise ASTM",
         "last_updated": "2019-07-29 00:00:00",
-        "stanza_text": "Title Enterprise ASTM (updated 20190729)\nURL http://enterprise.astm.org\nDJ enterprise.astm.org\nFind .indexOf(\"enterprise\") > -1\nReplace .indexOf(\".\") > -1\nFind .indexOf(\"enterprise.astm.org\") > -1\nReplace .indexOf(\".\") > -1\nFind domain=.astm.org\nReplace domain=^d\nFind host=.astm.org\nReplace host=^d\n"
+        "stanza_text": "Title Enterprise ASTM (updated 20190729)\nURL http://enterprise.astm.org\nDJ enterprise.astm.org\nFind .indexOf(\"enterprise\") > -1\nReplace .indexOf(\".\") > -1\nFind .indexOf(\"enterprise.astm.org\") > -1\nReplace .indexOf(\".\") > -1\nFind domain=.astm.org\nReplace domain=^d\nFind host=.astm.org\nReplace host=^d\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ASTM_Compass"
     },
     "-hide MyASTM": {
         "title": "-hide MyASTM",
         "last_updated": "2019-07-29 00:00:00",
-        "stanza_text": "Title -hide MyASTM (updated 20190729)\nURL http://myastm.astm.org\nDJ myastm.astm.org\nFind .indexOf(\"myastm\") > -1\nReplace .indexOf(\".\") > -1\nFind domain=.astm.org\nReplace domain=^d\nFind host=.astm.org\nReplace host=^d\n"
+        "stanza_text": "Title -hide MyASTM (updated 20190729)\nURL http://myastm.astm.org\nDJ myastm.astm.org\nFind .indexOf(\"myastm\") > -1\nReplace .indexOf(\".\") > -1\nFind domain=.astm.org\nReplace domain=^d\nFind host=.astm.org\nReplace host=^d\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ASTM_Compass"
     },
     "-hide ASTM": {
         "title": "-hide ASTM",
         "last_updated": "2019-07-29 00:00:00",
-        "stanza_text": "Title -hide ASTM (updated 20190729)\nURL https://www.astm.org\nHJ www.astm.org\nDJ astm.org\nDJ micronexx.com\nFind domain=.astm.org\nReplace domain=^d\nFind host=.astm.org\nReplace host=^d\noption cookie\n"
+        "stanza_text": "Title -hide ASTM (updated 20190729)\nURL https://www.astm.org\nHJ www.astm.org\nDJ astm.org\nDJ micronexx.com\nFind domain=.astm.org\nReplace domain=^d\nFind host=.astm.org\nReplace host=^d\noption cookie\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ASTM_Compass"
     },
-    "-hide Gale/Infotrac/PowerSearch Databases": {
-        "title": "-hide Gale/Infotrac/PowerSearch Databases",
-        "last_updated": "2019-07-18 00:00:00",
-        "stanza_text": "Title -hide Gale/Infotrac/PowerSearch Databases (updated 20190718)\nURL http://infotrac.gale.com/\nHJ access.gale.com\nHJ auth.go.gale.com\nHJ bi.gale.com\nHJ bna.gale.com\nHJ careertransitions.gale.com\nHJ cyberadmin.gofullstack.net\nHJ education.gale.com\nHJ cyber.gale.com\nHJ find.gale.com\nHJ galeauth.gale.com\nHJ galenet.gale.com\nHJ galesites.com\nHJ galesupport.com\nHJ gdc.gale.com\nHJ gdc.gale.com\nHJ go.gale.com\nHJ ic.gale.com\nHJ infotrac.galenet.com\nHJ infotrac.london.gale.com\nHJ link.gale.com\nHJ natgeo.gale.com\nHJ ncco.gale.com\nHJ ncco.tu.gale.com\nHJ pdfserve.gale.com\nHJ sa.gale.com\nHJ shakespeare.gale.com\nHJ support.gale.com\nHJ tinygaleurl.com\nHJ tinyurl.gale.com\nHJ vs.gale.com\nHJ www.chiltonlibrary.com\nHJ www.galenet.com\nHJ www.galepages.com\nHJ www.galesupport.com\nHJ www.infotrac.london.gale.com\nHJ www.mygovernment.us\nHJ api.cyber-anatomy.com\nHJ galeapps.gale.com\nHJ worldscholar.gale.com\nHJ https://access.gale.com\nHJ https://auth.go.gale.com\nHJ https://bi.gale.com\nHJ https://bna.gale.com\nHJ https://careertransitions.gale.com\nHJ https://cyberadmin.gofullstack.net\nHJ https://education.gale.com\nHJ https://find.gale.com\nHJ https://cyber.gale.com\nHJ https://galeauth.gale.com\nHJ https://galenet.gale.com\nHJ https://galesites.com\nHJ https://galesupport.com\nHJ https://gdc.gale.com\nHJ https://gdc.gale.com\nHJ https://go.gale.com\nHJ https://ic.gale.com\nHJ https://infotrac.gale.com\nHJ https://infotrac.galenet.com\nHJ https://infotrac.london.gale.com\nHJ https://link.gale.com\nHJ https://natgeo.gale.com\nHJ https://ncco.gale.com\nHJ https://ncco.tu.gale.com\nHJ https://pdfserve.gale.com\nHJ https://sa.gale.com\nHJ https://shakespeare.gale.com\nHJ https://support.gale.com\nHJ https://tinygaleurl.com\nHJ https://tinyurl.gale.com\nHJ https://vs.gale.com\nHJ https://www.chiltonlibrary.com\nHJ https://www.galenet.com\nHJ https://www.galepages.com\nHJ https://www.infotrac.london.gale.com\nHJ https://www.mygovernment.us\nHJ https://api.cyber-anatomy.com\nHJ https://worldscholar.gale.com\nDJ chiltonlibrary.com\nDJ gale.com\nDJ galenet.com\nDJ galepages.com\nDJ galesites.com\nDJ galesupport.com\nDJ gofullstack.net\nDJ mygovernment.us\nDJ readspeaker.com\nDJ tinygaleurl.com\nDJ readspeaker.com\nNeverProxy library.demographicsnow.com\nNeverProxy apis.google.com\nNeverProxy rs.find.gale.com\nNeverProxy terc.nelnetsolutions.com\n# Lines below support Legacy Gale/Infotrac/PowerSearch Databases which operate on the galegroup domain.\nHJ auth.go.galegroup.com\nHJ bi.galegroup.com\nHJ bna.galegroup.com\nHJ careertransitions.galegroup.com\nHJ cyber.galegroup.com\nHJ find.galegroup.com\nHJ galeauth.galegroup.com\nHJ galenet.galegroup.com\nHJ gdc.galegroup.com\nHJ go.galegroup.com\nHJ ic.galegroup.com\nHJ infotrac.galegroup.com\nHJ infotrac.london.galegroup.com\nHJ link.galegroup.com\nHJ natgeo.galegroup.com\nHJ ncco.galegroup.com\nHJ ncco.tu.galegroup.com\nHJ pdfserve.galegroup.com\nHJ sa.galegroup.com\nHJ shakespeare.galegroup.com\nHJ tinyurl.galegroup.com\nHJ vs.galegroup.com\nHJ www.infotrac.london.galegroup.com\nHJ galeapps.galegroup.com\nHJ worldscholar.galegroup.com\nHJ https://auth.go.galegroup.com\nHJ https://bi.galegroup.com\nHJ https://bna.galegroup.com\nHJ https://careertransitions.galegroup.com\nHJ https://find.galegroup.com\nHJ https://cyber.galegroup.com\nHJ https://galeauth.galegroup.com\nHJ https://galenet.galegroup.com\nHJ https://gdc.galegroup.com\nHJ https://go.galegroup.com\nHJ https://ic.galegroup.com\nHJ https://infotrac.galegroup.com\nHJ https://infotrac.london.galegroup.com\nHJ https://link.galegroup.com\nHJ https://natgeo.galegroup.com\nHJ https://ncco.galegroup.com\nHJ https://ncco.tu.galegroup.com\nHJ https://pdfserve.galegroup.com\nHJ https://sa.galegroup.com\nHJ https://shakespeare.galegroup.com\nHJ https://support.gale.com\nHJ https://tinygaleurl.com\nHJ https://tinyurl.galegroup.com\nHJ https://vs.galegroup.com\nHJ https://www.infotrac.london.galegroup.com\nHJ https://worldscholar.galegroup.com\nDJ galegroup.com\nNeverProxy rs.find.galegroup.com\n"
+    "ATLA Religion and ATLA Serials (ATLAS)": {
+        "title": "ATLA Religion and ATLA Serials (ATLAS)",
+        "last_updated": "2016-09-19 00:00:00",
+        "stanza_text": "Title ATLA Religion and ATLA Serials (ATLAS) (updated 20160919)\nURL http://search.atlaonline.com\nDomain atlaonline.com\n# ATLA previously pointed its URLs to purl.org. This\n# \"Host purl.org\" insures that if any sites have starting\n# point URLs that point to purl.org, they will continue to work\nHost purl.org\nDomain purl.org\nHost 63.136.1.22\nHost 63.136.1.23\n# The 66. hosts may no longer be needed, but this has not been verified\n# and their presence will not impair functionality\nHost 66.77.30.29\nHost 66.77.43.9 \n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/atla"
+    },
+    "Academia": {
+        "title": "Academia",
+        "last_updated": "2019-09-13 00:00:00",
+        "stanza_text": "Title Academia  (updated 20190913)\nURL http://www.academia.nl\nHJ academia.nl\nHJ https://www.academia.nl\nHJ www.academia.nl\nHJ https://beeldengeluidopschool.nl\nHJ https://www.beeldengeluidopschool.nl\nHJ beeldengeluidopschool.nl\nHJ www.beeldengeluidopschool.nl\nDJ academia.nl\nDJ beeldengeluidopschool.nl\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Academia"
+    },
+    "Academic Writer": {
+        "title": "Academic Writer",
+        "last_updated": "2020-09-23 00:00:00",
+        "stanza_text": "Option MetaEZproxyRewriting\nTitle Academic Writer (updated 20200923)\nURL https://academicwriter.apa.org\nHJ academicwriter.apa.org\nHJ apa.org\nHJ my.apa.org\nHJ http://academicwriter.apa.org\nHJ https://apa.org\nHJ https://my.apa.org\nDJ apa.org\nNeverProxy aw2static.apa.org\nOption NoMetaEZproxyRewriting\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/apastylecentral"
+    },
+    "Academy of Management": {
+        "title": "Academy of Management",
+        "last_updated": "2019-02-28 00:00:00",
+        "stanza_text": "Title Academy of Management (updated 20190228)\nURL http://aom.org/\nHJ academynews.aom.org\nHJ amd.aom.org\nHJ amj.aom.org\nHJ amle.aom.org\nHJ amp.aom.org\nHJ amr.aom.org\nHJ annals.aom.org\nHJ https://journals.aom.org\nHJ journals.aom.org\nHJ one.aom.org\nHJ proceedings.aom.org\nHJ www.aom.org\nDJ aom.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Academy_of_Management"
+    },
+    "Access Engineering": {
+        "title": "Access Engineering",
+        "last_updated": "2019-07-16 00:00:00",
+        "stanza_text": "Title Access Engineering (updated 20190716)\nURL https://www.accessengineeringlibrary.com\nDJ accessengineeringlibrary.com\nHJ accessengineeringlibrary.com\nHJ https://idp.sams-sigma.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Access_Engineering"
+    },
+    "Access NYT": {
+        "title": "Access NYT",
+        "last_updated": "2015-05-20 00:00:00",
+        "stanza_text": "Title Access NYT (updated 20150520)\nURL http://ezmyaccount.nytimes.com/grouppass/redir\nD ezmyaccount.nytimes.com\nH ezmyaccount.nytimes.com \n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Access_NYT"
+    },
+    "Access Science": {
+        "title": "Access Science",
+        "last_updated": "2019-08-12 00:00:00",
+        "stanza_text": "Title Access Science (updated 20190812)\nURL https://www.accessscience.com\nHJ accessscience.com\nHJ https://accessscience.com\nHJ https://www.accessscience.com\nHJ www.accessscience.com\nDJ accessscience.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Access_Science"
+    },
+    "Access Video on Demand": {
+        "title": "Access Video on Demand",
+        "last_updated": "2016-01-21 00:00:00",
+        "stanza_text": "Title Access Video on Demand\nURL http://avod.infobase.com\nH https://avod.infobase.com\nH avod.films.com\nH https://secure.films.com\nD infobase.com\nD films.com\nhttp://ezproxy.mylib.org/login?url=http://avod.infobase.com/PortalPlayLists.aspx?wid=###### \nhttp://ezproxy.mylib.org/login?url=http://avod.infobase.com/PortalPlaylists.aspx?wid=######&xtid=#####\nhttp://ezproxy.mylib.org/login?url=http://avod.infobase.com/PortalPlayLists.aspx?aid=######\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Access_Video_Demand"
+    },
+    "Accessible Archives": {
+        "title": "Accessible Archives",
+        "last_updated": "2016-07-13 00:00:00",
+        "stanza_text": "Title Accessible Archives\nURL http://www.accessible-archives.com\nHJ https://www.accessible-archives.com\nHJ accessible-archives.com\nHJ www.accessible.com\nHJ https://www.accessible.com\nHJ accessible.com\nDJ accessible.com\nDJ accessible-archives.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Accessible_Archives"
+    },
+    "The Accountant": {
+        "title": "The Accountant",
+        "last_updated": "2015-05-14 00:00:00",
+        "stanza_text": "Title The Accountant (updated 20150514)\nURL http://www.theaccountant-online.com\nHJ theaccountant-online.com\nHJ www.theaccountant-online.com\nDJ theaccountant-online.com \n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Accountant"
+    },
+    "Acland Anatomy": {
+        "title": "Acland Anatomy",
+        "last_updated": "2019-06-05 00:00:00",
+        "stanza_text": "Title Acland Anatomy (updated 20190605)\nURL http://www.aclandanatomy.com\nHJ aclandanatomy.com\nHJ www.aclandanatomy.com\nHJ https://aclandanatomy.com\nHJ https://www.aclandanatomy.com\nDJ aclandanatomy.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/aclandanatomy"
+    },
+    "Acoustical Society of America": {
+        "title": "Acoustical Society of America",
+        "last_updated": "2016-07-26 00:00:00",
+        "stanza_text": "Title Acoustical Society of America (updated 20160726)\nURL http://www.acousticalsociety.org/\nHJ acousticalsociety.org\nHJ asadl.org\nHJ www.acousticalsociety.org\nHJ www.asadl.org\nDJ acousticalsociety.org\nDJ asadl.org \n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Acoustical_Society_of_America"
+    },
+    "Adam Matthew Digital": {
+        "title": "Adam Matthew Digital",
+        "last_updated": "2020-10-01 00:00:00",
+        "stanza_text": "Title Adam Matthew Digital (updated 20201001)\nURL www.login.amdigital.co.uk\nHJ www.login.amdigital.co.uk\nHJ resources.amdigital.co.uk\nHJ tiles.am-resources.co.uk\nHJ www.exploration.amdigital.co.uk\nHJ www.18thcjournals.amdigital.co.uk\nHJ www.aac.amdigital.co.uk\nHJ www.aap.amdigital.co.uk\nHJ www.africanamericancommunities.amdigital.co.uk\nHJ www.aihc.amdigital.co.uk\nHJ www.amdigital.co.uk\nHJ www.americainworldwartwo.amdigital.co.uk\nHJ www.americanconsumerculture.amdigital.co.uk\nHJ www.americanhistory.amdigital.co.uk\nHJ www.americanindiannewspapers.amdigital.co.uk\nHJ www.americanwest.amdigital.co.uk\nHJ www.am-explorer.com\nHJ www.archivesdirect.amdigital.co.uk\nHJ www.archiveexplorer.amdigital.co.uk\nHJ www.childrensliterature.amdigital.co.uk\nHJ www.china.amdigital.co.uk\nHJ www.chinacultureandsociety.amdigital.co.uk\nHJ www.churchmissionarysociety.amdigital.co.uk\nHJ www.colonialamerica.amdigital.co.uk\nHJ www.consumerculture.amdigital.co.uk\nHJ www.earlymodernengland.amdigital.co.uk\nHJ www.eighteenthcenturydrama.amdigital.co.uk\nHJ www.empire.amdigital.co.uk\nHJ www.eastindiacompany.amdigital.co.uk\nHJ www.ethnomusicology.amdigital.co.uk\nHJ www.everydaylife.amdigital.co.uk\nHJ www.firstworldwar.amdigital.co.uk\nHJ www.foodanddrink.amdigital.co.uk\nHJ www.frontierlife.amdigital.co.uk\nHJ www.gender.amdigital.co.uk\nHJ www.genderidentityandsocialchange.amdigital.co.uk\nHJ www.globalcommodities.amdigital.co.uk\nHJ www.grandtour.amdigital.co.uk\nHJ www.indiaraj.amdigital.co.uk\nHJ www.jewishlife.amdigital.co.uk\nHJ www.jwtadvertisingamerica.amdigital.co.uk\nHJ www.literarymanuscriptsberg.amdigital.co.uk\nHJ www.literarymanuscriptsleeds.amdigital.co.uk\nHJ www.literaryprintculture.amdigital.co.uk\nHJ www.londonlowlife.amdigital.co.uk\nHJ www.marketresearch.amdigital.co.uk\nHJ www.massobservation.amdigital.co.uk\nHJ www.massobservationproject.amdigital.co.uk\nHJ www.masstourism.amdigital.co.uk\nHJ www.medicalservicesandwarfare.amdigital.co.uk\nHJ www.medievalfamilylife.amdigital.co.uk\nHJ www.medievaltravel.amdigital.co.uk\nHJ www.migration.amdigital.co.uk\nHJ www.nineteenthcenturyliterarysociety.amdigital.co.uk\nHJ www.perditamanuscripts.amdigital.co.uk\nHJ www.popularmedicine.amdigital.co.uk\nHJ www.povertyinvictorianbritain.amdigital.co.uk\nHJ www.racerelations.amdigital.co.uk\nHJ www.researchsource.amdigital.co.uk\nHJ www.rockandroll.amdigital.co.uk\nHJ www.romanticism.amdigital.co.uk\nHJ www.servicenewspapers.amdigital.co.uk\nHJ www.sexandsexuality.amdigital.co.uk\nHJ www.shakespeareinperformance.amdigital.co.uk\nHJ www.shakespearesglobearchive.amdigital.co.uk\nHJ www.slavery.amdigital.co.uk\nHJ www.socialismonfilm.amdigital.co.uk\nHJ www.tradecatalogues.amdigital.co.uk\nHJ www.travelwriting.amdigital.co.uk\nHJ www.victorianpopularculture.amdigital.co.uk\nHJ www.virginiacompanyarchives.amdigital.co.uk\nHJ www.worldsfairs.amdigital.co.uk\nHJ https://www.massobservationproject.amdigital.co.uk\nHJ www.massobservationproject.amdigital.co.uk\nHJ massobservationproject.amdigital.co.uk\nDJ amdigital.co.uk\nFind \"http://\"+getPrefix()+\".massobservation.amdigital.co.uk/\nReplace \"http://^pmassobservation.amdigital.co.uk^/\nNeverProxy am-resources.co.uk\nNeverProxy schemas.microsoft.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Adam_Matthew_Digital"
+    },
+    "Adam Matthew Digital: China, America and the Pacific": {
+        "title": "Adam Matthew Digital: China, America and the Pacific",
+        "last_updated": "2020-10-01 00:00:00",
+        "stanza_text": "Title Adam Matthew Digital: China, America and the Pacific\nURL www.cap.amdigital.co.uk/\nFind www.cap.amdigital.co.uk\nReplace ^pwww.cap.amdigital.co.uk^\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Adam_Matthew_Digital"
+    },
+    "Africa Knowledge Project": {
+        "title": "Africa Knowledge Project",
+        "last_updated": "2016-02-18 00:00:00",
+        "stanza_text": "Title Africa Knowledge Project\nURL http://www.africaknowledgeproject.org\nHJ www.africaknowledgeproject.org\nDJ africaknowledgeproject.org\nFind file=http%3A%2F%2Fwww.africaknowledgeproject.org%2F\nReplace file=http%3A%2F%2F^pwww.africaknowledgeproject.org^%2F\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Africa_Knowledge_Project"
+    },
+    "Africa-Confidential": {
+        "title": "Africa-Confidential",
+        "last_updated": "2016-01-21 00:00:00",
+        "stanza_text": "Title Africa-Confidential (updated 20160121)\nURL http://www.africa-confidential.com\nHJ africa-confidential.com\nDJ africa-confidential.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Africa-Confidential"
+    },
+    "African Journals (Sabinet ePublications)": {
+        "title": "African Journals (Sabinet ePublications)",
+        "last_updated": "2018-10-10 00:00:00",
+        "stanza_text": "Title African Journals (Sabinet ePublications) (updated 20181010)\nURL http://www.journals.co.za/\nH https://journals.co.za\nH https://www.journals.co.za\nH journals.co.za\nH www.journals.co.za\nD journals.co.za\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/African_Journals_formerly_Sabinet_ePublications"
+    },
+    "African Journals Online": {
+        "title": "African Journals Online",
+        "last_updated": "2019-11-08 00:00:00",
+        "stanza_text": "Title African Journals Online (updated 20191108)\nURL http://www.ajol.info/\nHJ ajol.info\nHJ content.ajarchive.org\nHJ https://ajol.info\nHJ https://www.ajol.info\nHJ www.ajol.info\nDJ ajol.info\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/African_Journals_Online"
+    },
+    "Agriholland": {
+        "title": "Agriholland",
+        "last_updated": "2017-09-26 00:00:00",
+        "stanza_text": "Title Agriholland\nURL http://www.agriholland.nl/\nHJ agriholland.nl\nHJ bollenteelt.agriholland.nl\nHJ boomkwekerij.agriholland.nl\nHJ glastuinbouw.agriholland.nl\nHJ juvi.agriholland.nl\nHJ knhs.agriholland.nl\nHJ melkvee.agriholland.nl\nHJ voeding.agriholland.nl\nHJ webquest.agriholland.nl\nHJ www.agriholland.nl\nDJ agriholland.nl \n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Agriholland"
+    },
+    "Akademiai Kiado": {
+        "title": "Akademiai Kiado",
+        "last_updated": "2020-08-07 00:00:00",
+        "stanza_text": "Title Akademiai Kiado (updated 20200807)\nHTTPHeader -request -process X-Requested-With\nURL https://akjournals.com/\nHJ akademiai.com\nHJ akjournals.com\nHJ https://akademiai.com\nHJ https://akjournals.com\nHJ https://www.akademiai.com\nHJ https://www.akjournals.com\nHJ www.akademiai.com\nHJ www.akjournals.com\nDJ akademiai.com\nDJ akjournals.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Akademiai_Kiado"
+    },
+    "Alexander Street Press": {
+        "title": "Alexander Street Press",
+        "last_updated": "2020-09-10 00:00:00",
+        "stanza_text": "Title Alexander Street Press (updated 20200910)\nURL http://search.alexanderstreet.com\nHost https://search.alexanderstreet.com\nDJ alexanderstreet.com\nHost cdn.alexanderstreet.com\nFind \"http:\\/\\/\nReplace \"http://\nFind \"https:\\/\\/\nReplace \"https://\nFind domain=\"*.alexanderstreet.com\"\nReplace domain=\"*\"\nNeverProxy media.proquest.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Alexander_Street_Press"
+    },
+    "Alexander Street": {
+        "title": "Alexander Street",
+        "last_updated": "2020-09-10 00:00:00",
+        "stanza_text": "Title Alexander Street\nURL https://alexanderstreet.com/\nHJ alexanderstreet.com\nHJ https://search.alexanderstreet.com\nHJ search.alexanderstreet.com\nDomain alexanderstreet.com\nHJ aadr.alexanderstreet.com\nHJ aamr.alexanderstreet.com\nHJ adli.alexanderstreet.com\nHJ afso.alexanderstreet.com\nHJ ahiv.alexanderstreet.com\nHJ amso.alexanderstreet.com\nHJ ant1.alexanderstreet.com\nHJ anth.alexanderstreet.com\nHJ anto.alexanderstreet.com\nHJ area.alexanderstreet.com\nHJ artv.alexanderstreet.com\nHJ atho.alexanderstreet.com\nHJ ativ.alexanderstreet.com\nHJ bakr.alexanderstreet.com\nHJ bart.alexanderstreet.com\nHJ bld2.alexanderstreet.com\nHJ bldr.alexanderstreet.com\nHJ blfi.alexanderstreet.com\nHJ blst.alexanderstreet.com\nHJ blsv.alexanderstreet.com\nHJ bltc.alexanderstreet.com\nHJ blww.alexanderstreet.com\nHJ busv.alexanderstreet.com\nHJ bwl2.alexanderstreet.com\nHJ bwld.alexanderstreet.com\nHJ cali.alexanderstreet.com\nHJ cjiv.alexanderstreet.com\nHJ clmu.alexanderstreet.com\nHJ clmv.alexanderstreet.com\nHJ comx.alexanderstreet.com\nHJ cpho.alexanderstreet.com\nHJ ctiv.alexanderstreet.com\nHJ curv.alexanderstreet.com\nHJ cwdb.alexanderstreet.com\nHJ cwld.alexanderstreet.com\nHJ cwo2.alexanderstreet.com\nHJ daiv.alexanderstreet.com\nHJ divo.alexanderstreet.com\nHJ dkbl.alexanderstreet.com\nHJ dlcr.alexanderstreet.com\nHJ dntl.alexanderstreet.com\nHJ ediv.alexanderstreet.com\nHJ eena.alexanderstreet.com\nHJ eenz.alexanderstreet.com\nHJ fash.alexanderstreet.com\nHJ feat.alexanderstreet.com\nHJ flms.alexanderstreet.com\nHJ flon.alexanderstreet.com\nHJ gild.alexanderstreet.com\nHJ glmu.alexanderstreet.com\nHJ glnd.alexanderstreet.com\nHJ harp.alexanderstreet.com\nHJ hist.alexanderstreet.com\nHJ hlth.alexanderstreet.com\nHJ humv.alexanderstreet.com\nHJ ibio.alexanderstreet.com\nHJ imld.alexanderstreet.com\nHJ ind2.alexanderstreet.com\nHJ indr.alexanderstreet.com\nHJ iwrp.alexanderstreet.com\nHJ jazz.alexanderstreet.com\nHJ ladd.alexanderstreet.com\nHJ lado.alexanderstreet.com\nHJ lali.alexanderstreet.com\nHJ lawv.alexanderstreet.com\nHJ laww.alexanderstreet.com\nHJ lgbt.alexanderstreet.com\nHJ linc.alexanderstreet.com\nHJ lit.alexanderstreet.com\nHJ litv.alexanderstreet.com\nHJ lrho.alexanderstreet.com\nHJ mcom.alexanderstreet.com\nHJ media.alexanderstreet.com\nHJ mediaplus.alexanderstreet.com\nHJ moto.alexanderstreet.com\nHJ muco.alexanderstreet.com\nHJ music.alexanderstreet.com\nHJ mwld.alexanderstreet.com\nHJ nad2.alexanderstreet.com\nHJ nadr.alexanderstreet.com\nHJ nwld.alexanderstreet.com\nHJ opiv.alexanderstreet.com\nHJ orhi.alexanderstreet.com\nHJ phlv.alexanderstreet.com\nHJ psyc.alexanderstreet.com\nHJ psyv.alexanderstreet.com\nHJ radr.alexanderstreet.com\nHJ rom2.alexanderstreet.com\nHJ romr.alexanderstreet.com\nHJ rout.alexanderstreet.com\nHJ rtiv.alexanderstreet.com\nHJ sali.alexanderstreet.com\nHJ sciv.alexanderstreet.com\nHJ search.alexanderstreet.com\nHJ shmu.alexanderstreet.com\nHJ silf.alexanderstreet.com\nHJ sixt.alexanderstreet.com\nHJ soth.alexanderstreet.com\nHJ spex.alexanderstreet.com\nHJ sth2.alexanderstreet.com\nHJ swrp.alexanderstreet.com\nHJ tcpt.alexanderstreet.com\nHJ tcr1.alexanderstreet.com\nHJ tcr2.alexanderstreet.com\nHJ tcr3.alexanderstreet.com\nHJ tcrb.alexanderstreet.com\nHJ tcrt.alexanderstreet.com\nHJ vasc.alexanderstreet.com\nHJ vast.alexanderstreet.com\nHJ video.alexanderstreet.com\nHJ wasi.alexanderstreet.com\nHJ wasm.alexanderstreet.com\nHJ wass.alexanderstreet.com\nHJ whiv.alexanderstreet.com\nHJ wlid.alexanderstreet.com\nHJ wlit.alexanderstreet.com\nHJ wnrv.alexanderstreet.com\nHJ wodr.alexanderstreet.com\nHJ womu.alexanderstreet.com\nHJ womv.alexanderstreet.com\nHJ wwav.alexanderstreet.com\nHJ www.alexanderstreet.com\nHJ ui-7264.lazr.ci.alexanderstreet.com\nHJ solomon.aadr.alexanderstreet.com\nHJ solomon.aamr.alexanderstreet.com\nHJ solomon.adli.alexanderstreet.com\nHJ solomon.afso.alexanderstreet.com\nHJ solomon.ahiv.alexanderstreet.com\nHJ solomon.amso.alexanderstreet.com\nHJ solomon.ant1.alexanderstreet.com\nHJ solomon.anth.alexanderstreet.com\nHJ solomon.anto.alexanderstreet.com\nHJ solomon.area.alexanderstreet.com\nHJ solomon.artv.alexanderstreet.com\nHJ solomon.atho.alexanderstreet.com\nHJ solomon.ativ.alexanderstreet.com\nHJ solomon.bakr.alexanderstreet.com\nHJ solomon.bart.alexanderstreet.com\nHJ solomon.bld2.alexanderstreet.com\nHJ solomon.bldr.alexanderstreet.com\nHJ solomon.blfi.alexanderstreet.com\nHJ solomon.blst.alexanderstreet.com\nHJ solomon.blsv.alexanderstreet.com\nHJ solomon.bltc.alexanderstreet.com\nHJ solomon.blww.alexanderstreet.com\nHJ solomon.busv.alexanderstreet.com\nHJ solomon.bwl2.alexanderstreet.com\nHJ solomon.bwld.alexanderstreet.com\nHJ solomon.cali.alexanderstreet.com\nHJ solomon.cjiv.alexanderstreet.com\nHJ solomon.clmu.alexanderstreet.com\nHJ solomon.clmv.alexanderstreet.com\nHJ solomon.comx.alexanderstreet.com\nHJ solomon.cpho.alexanderstreet.com\nHJ solomon.ctiv.alexanderstreet.com\nHJ solomon.curv.alexanderstreet.com\nHJ solomon.cwdb.alexanderstreet.com\nHJ solomon.cwld.alexanderstreet.com\nHJ solomon.cwo2.alexanderstreet.com\nHJ solomon.daiv.alexanderstreet.com\nHJ solomon.divo.alexanderstreet.com\nHJ solomon.dkbl.alexanderstreet.com\nHJ solomon.dlcr.alexanderstreet.com\nHJ solomon.dntl.alexanderstreet.com\nHJ solomon.ediv.alexanderstreet.com\nHJ solomon.eena.alexanderstreet.com\nHJ solomon.eenz.alexanderstreet.com\nHJ solomon.fash.alexanderstreet.com\nHJ solomon.feat.alexanderstreet.com\nHJ solomon.flms.alexanderstreet.com\nHJ solomon.flon.alexanderstreet.com\nHJ solomon.gild.alexanderstreet.com\nHJ solomon.glmu.alexanderstreet.com\nHJ solomon.glnd.alexanderstreet.com\nHJ solomon.harp.alexanderstreet.com\nHJ solomon.hist.alexanderstreet.com\nHJ solomon.hlth.alexanderstreet.com\nHJ solomon.humv.alexanderstreet.com\nHJ solomon.ibio.alexanderstreet.com\nHJ solomon.imld.alexanderstreet.com\nHJ solomon.ind2.alexanderstreet.com\nHJ solomon.indr.alexanderstreet.com\nHJ solomon.iwrp.alexanderstreet.com\nHJ solomon.jazz.alexanderstreet.com\nHJ solomon.lali.alexanderstreet.com\nHJ solomon.lawv.alexanderstreet.com\nHJ solomon.laww.alexanderstreet.com\nHJ solomon.lgbt.alexanderstreet.com\nHJ solomon.linc.alexanderstreet.com\nHJ solomon.lit.alexanderstreet.com\nHJ solomon.litv.alexanderstreet.com\nHJ solomon.lrho.alexanderstreet.com\nHJ solomon.mcom.alexanderstreet.com\nHJ solomon.moto.alexanderstreet.com\nHJ solomon.muco.alexanderstreet.com\nHJ solomon.music.alexanderstreet.com\nHJ solomon.mwld.alexanderstreet.com\nHJ solomon.nad2.alexanderstreet.com\nHJ solomon.nadr.alexanderstreet.com\nHJ solomon.nwld.alexanderstreet.com\nHJ solomon.opiv.alexanderstreet.com\nHJ solomon.orhi.alexanderstreet.com\nHJ solomon.phlv.alexanderstreet.com\nHJ solomon.psyc.alexanderstreet.com\nHJ solomon.psyv.alexanderstreet.com\nHJ solomon.radr.alexanderstreet.com\nHJ solomon.rom2.alexanderstreet.com\nHJ solomon.romr.alexanderstreet.com\nHJ solomon.rout.alexanderstreet.com\nHJ solomon.rtiv.alexanderstreet.com\nHJ solomon.sali.alexanderstreet.com\nHJ solomon.sciv.alexanderstreet.com\nHJ solomon.search.alexanderstreet.com\nHJ solomon.shmu.alexanderstreet.com\nHJ solomon.silf.alexanderstreet.com\nHJ solomon.sixt.alexanderstreet.com\nHJ solomon.soth.alexanderstreet.com\nHJ solomon.spex.alexanderstreet.com\nHJ solomon.sth2.alexanderstreet.com\nHJ solomon.swrp.alexanderstreet.com\nHJ solomon.tcpt.alexanderstreet.com\nHJ solomon.tcr1.alexanderstreet.com\nHJ solomon.tcr2.alexanderstreet.com\nHJ solomon.tcrb.alexanderstreet.com\nHJ solomon.tcrt.alexanderstreet.com\nHJ solomon.vasc.alexanderstreet.com\nHJ solomon.vast.alexanderstreet.com\nHJ solomon.video.alexanderstreet.com\nHJ solomon.wasi.alexanderstreet.com\nHJ solomon.wasm.alexanderstreet.com\nHJ solomon.wass.alexanderstreet.com\nHJ solomon.whiv.alexanderstreet.com\nHJ solomon.wlid.alexanderstreet.com\nHJ solomon.wlit.alexanderstreet.com\nHJ solomon.wnrv.alexanderstreet.com\nHJ solomon.wodr.alexanderstreet.com\nHJ solomon.womu.alexanderstreet.com\nHJ solomon.womv.alexanderstreet.com\nHJ solomon.wwav.alexanderstreet.com\nHJ asp6new.alexanderstreet.com\nHJ https://aadr.alexanderstreet.com\nHJ https://aamr.alexanderstreet.com\nHJ https://adli.alexanderstreet.com\nHJ https://afso.alexanderstreet.com\nHJ https://ahiv.alexanderstreet.com\nHJ https://amso.alexanderstreet.com\nHJ https://ant1.alexanderstreet.com\nHJ https://anth.alexanderstreet.com\nHJ https://anto.alexanderstreet.com\nHJ https://area.alexanderstreet.com\nHJ https://artv.alexanderstreet.com\nHJ https://atho.alexanderstreet.com\nHJ https://ativ.alexanderstreet.com\nHJ https://bakr.alexanderstreet.com\nHJ https://bart.alexanderstreet.com\nHJ https://bld2.alexanderstreet.com\nHJ https://bldr.alexanderstreet.com\nHJ https://blfi.alexanderstreet.com\nHJ https://blst.alexanderstreet.com\nHJ https://blsv.alexanderstreet.com\nHJ https://bltc.alexanderstreet.com\nHJ https://blww.alexanderstreet.com\nHJ https://busv.alexanderstreet.com\nHJ https://bwl2.alexanderstreet.com\nHJ https://bwld.alexanderstreet.com\nHJ https://cali.alexanderstreet.com\nHJ https://cjiv.alexanderstreet.com\nHJ https://clmu.alexanderstreet.com\nHJ https://clmv.alexanderstreet.com\nHJ https://comx.alexanderstreet.com\nHJ https://cpho.alexanderstreet.com\nHJ https://ctiv.alexanderstreet.com\nHJ https://curv.alexanderstreet.com\nHJ https://cwdb.alexanderstreet.com\nHJ https://cwld.alexanderstreet.com\nHJ https://cwo2.alexanderstreet.com\nHJ https://daiv.alexanderstreet.com\nHJ https://divo.alexanderstreet.com\nHJ https://dkbl.alexanderstreet.com\nHJ https://dlcr.alexanderstreet.com\nHJ https://dntl.alexanderstreet.com\nHJ https://ediv.alexanderstreet.com\nHJ https://eena.alexanderstreet.com\nHJ https://eenz.alexanderstreet.com\nHJ https://fash.alexanderstreet.com\nHJ https://feat.alexanderstreet.com\nHJ https://flms.alexanderstreet.com\nHJ https://flon.alexanderstreet.com\nHJ https://gild.alexanderstreet.com\nHJ https://glmu.alexanderstreet.com\nHJ https://glnd.alexanderstreet.com\nHJ https://harp.alexanderstreet.com\nHJ https://hist.alexanderstreet.com\nHJ https://hlth.alexanderstreet.com\nHJ https://humv.alexanderstreet.com\nHJ https://ibio.alexanderstreet.com\nHJ https://imld.alexanderstreet.com\nHJ https://ind2.alexanderstreet.com\nHJ https://indr.alexanderstreet.com\nHJ https://iwrp.alexanderstreet.com\nHJ https://jazz.alexanderstreet.com\nHJ https://ladd.alexanderstreet.com\nHJ https://lali.alexanderstreet.com\nHJ https://lawv.alexanderstreet.com\nHJ https://laww.alexanderstreet.com\nHJ https://lgbt.alexanderstreet.com\nHJ https://linc.alexanderstreet.com\nHJ https://lit.alexanderstreet.com\nHJ https://litv.alexanderstreet.com\nHJ https://lrho.alexanderstreet.com\nHJ https://mcom.alexanderstreet.com\nHJ https://moto.alexanderstreet.com\nHJ https://muco.alexanderstreet.com\nHJ https://music.alexanderstreet.com\nHJ https://mwld.alexanderstreet.com\nHJ https://nad2.alexanderstreet.com\nHJ https://nadr.alexanderstreet.com\nHJ https://nwld.alexanderstreet.com\nHJ https://opiv.alexanderstreet.com\nHJ https://orhi.alexanderstreet.com\nHJ https://phlv.alexanderstreet.com\nHJ https://psyc.alexanderstreet.com\nHJ https://psyv.alexanderstreet.com\nHJ https://radr.alexanderstreet.com\nHJ https://rom2.alexanderstreet.com\nHJ https://romr.alexanderstreet.com\nHJ https://rout.alexanderstreet.com\nHJ https://rtiv.alexanderstreet.com\nHJ https://sali.alexanderstreet.com\nHJ https://sciv.alexanderstreet.com\nHJ https://search.alexanderstreet.com\nHJ https://shmu.alexanderstreet.com\nHJ https://silf.alexanderstreet.com\nHJ https://sixt.alexanderstreet.com\nHJ https://soth.alexanderstreet.com\nHJ https://spex.alexanderstreet.com\nHJ https://sth2.alexanderstreet.com\nHJ https://swrp.alexanderstreet.com\nHJ https://tcpt.alexanderstreet.com\nHJ https://tcr1.alexanderstreet.com\nHJ https://tcr2.alexanderstreet.com\nHJ https://tcrb.alexanderstreet.com\nHJ https://tcrt.alexanderstreet.com\nHJ https://vasc.alexanderstreet.com\nHJ https://vast.alexanderstreet.com\nHJ https://video.alexanderstreet.com\nHJ https://wasi.alexanderstreet.com\nHJ https://wasm.alexanderstreet.com\nHJ https://wass.alexanderstreet.com\nHJ https://whiv.alexanderstreet.com\nHJ https://wlid.alexanderstreet.com\nHJ https://wlit.alexanderstreet.com\nHJ https://wnrv.alexanderstreet.com\nHJ https://wodr.alexanderstreet.com\nHJ https://womu.alexanderstreet.com\nHJ https://womv.alexanderstreet.com\nHJ https://wwav.alexanderstreet.com\nHJ https://www.alexanderstreet.com\nHJ https://ui-7264.lazr.ci.alexanderstreet.com\nHJ https://solomon.aadr.alexanderstreet.com\nHJ https://solomon.aamr.alexanderstreet.com\nHJ https://solomon.adli.alexanderstreet.com\nHJ https://solomon.afso.alexanderstreet.com\nHJ https://solomon.ahiv.alexanderstreet.com\nHJ https://solomon.amso.alexanderstreet.com\nHJ https://solomon.ant1.alexanderstreet.com\nHJ https://solomon.anth.alexanderstreet.com\nHJ https://solomon.anto.alexanderstreet.com\nHJ https://solomon.area.alexanderstreet.com\nHJ https://solomon.artv.alexanderstreet.com\nHJ https://solomon.atho.alexanderstreet.com\nHJ https://solomon.ativ.alexanderstreet.com\nHJ https://solomon.bakr.alexanderstreet.com\nHJ https://solomon.bart.alexanderstreet.com\nHJ https://solomon.bld2.alexanderstreet.com\nHJ https://solomon.bldr.alexanderstreet.com\nHJ https://solomon.blfi.alexanderstreet.com\nHJ https://solomon.blst.alexanderstreet.com\nHJ https://solomon.blsv.alexanderstreet.com\nHJ https://solomon.bltc.alexanderstreet.com\nHJ https://solomon.blww.alexanderstreet.com\nHJ https://solomon.busv.alexanderstreet.com\nHJ https://solomon.bwl2.alexanderstreet.com\nHJ https://solomon.bwld.alexanderstreet.com\nHJ https://solomon.cali.alexanderstreet.com\nHJ https://solomon.cjiv.alexanderstreet.com\nHJ https://solomon.clmu.alexanderstreet.com\nHJ https://solomon.clmv.alexanderstreet.com\nHJ https://solomon.comx.alexanderstreet.com\nHJ https://solomon.cpho.alexanderstreet.com\nHJ https://solomon.ctiv.alexanderstreet.com\nHJ https://solomon.curv.alexanderstreet.com\nHJ https://solomon.cwdb.alexanderstreet.com\nHJ https://solomon.cwld.alexanderstreet.com\nHJ https://solomon.cwo2.alexanderstreet.com\nHJ https://solomon.daiv.alexanderstreet.com\nHJ https://solomon.divo.alexanderstreet.com\nHJ https://solomon.dkbl.alexanderstreet.com\nHJ https://solomon.dlcr.alexanderstreet.com\nHJ https://solomon.dntl.alexanderstreet.com\nHJ https://solomon.ediv.alexanderstreet.com\nHJ https://solomon.eena.alexanderstreet.com\nHJ https://solomon.eenz.alexanderstreet.com\nHJ https://solomon.fash.alexanderstreet.com\nHJ https://solomon.feat.alexanderstreet.com\nHJ https://solomon.flms.alexanderstreet.com\nHJ https://solomon.flon.alexanderstreet.com\nHJ https://solomon.gild.alexanderstreet.com\nHJ https://solomon.glmu.alexanderstreet.com\nHJ https://solomon.glnd.alexanderstreet.com\nHJ https://solomon.harp.alexanderstreet.com\nHJ https://solomon.hist.alexanderstreet.com\nHJ https://solomon.hlth.alexanderstreet.com\nHJ https://solomon.humv.alexanderstreet.com\nHJ https://solomon.ibio.alexanderstreet.com\nHJ https://solomon.imld.alexanderstreet.com\nHJ https://solomon.ind2.alexanderstreet.com\nHJ https://solomon.indr.alexanderstreet.com\nHJ https://solomon.iwrp.alexanderstreet.com\nHJ https://solomon.jazz.alexanderstreet.com\nHJ https://solomon.lali.alexanderstreet.com\nHJ https://solomon.lawv.alexanderstreet.com\nHJ https://solomon.laww.alexanderstreet.com\nHJ https://solomon.lgbt.alexanderstreet.com\nHJ https://solomon.linc.alexanderstreet.com\nHJ https://solomon.lit.alexanderstreet.com\nHJ https://solomon.litv.alexanderstreet.com\nHJ https://solomon.lrho.alexanderstreet.com\nHJ https://solomon.mcom.alexanderstreet.com\nHJ https://solomon.moto.alexanderstreet.com\nHJ https://solomon.muco.alexanderstreet.com\nHJ https://solomon.music.alexanderstreet.com\nHJ https://solomon.mwld.alexanderstreet.com\nHJ https://solomon.nad2.alexanderstreet.com\nHJ https://solomon.nadr.alexanderstreet.com\nHJ https://solomon.nwld.alexanderstreet.com\nHJ https://solomon.opiv.alexanderstreet.com\nHJ https://solomon.orhi.alexanderstreet.com\nHJ https://solomon.phlv.alexanderstreet.com\nHJ https://solomon.psyc.alexanderstreet.com\nHJ https://solomon.psyv.alexanderstreet.com\nHJ https://solomon.radr.alexanderstreet.com\nHJ https://solomon.rom2.alexanderstreet.com\nHJ https://solomon.romr.alexanderstreet.com\nHJ https://solomon.rout.alexanderstreet.com\nHJ https://solomon.rtiv.alexanderstreet.com\nHJ https://solomon.sali.alexanderstreet.com\nHJ https://solomon.sciv.alexanderstreet.com\nHJ https://solomon.search.alexanderstreet.com\nHJ https://solomon.shmu.alexanderstreet.com\nHJ https://solomon.silf.alexanderstreet.com\nHJ https://solomon.sixt.alexanderstreet.com\nHJ https://solomon.soth.alexanderstreet.com\nHJ https://solomon.spex.alexanderstreet.com\nHJ https://solomon.sth2.alexanderstreet.com\nHJ https://solomon.swrp.alexanderstreet.com\nHJ https://solomon.tcpt.alexanderstreet.com\nHJ https://solomon.tcr1.alexanderstreet.com\nHJ https://solomon.tcr2.alexanderstreet.com\nHJ https://solomon.tcrb.alexanderstreet.com\nHJ https://solomon.tcrt.alexanderstreet.com\nHJ https://solomon.vasc.alexanderstreet.com\nHJ https://solomon.vast.alexanderstreet.com\nHJ https://solomon.video.alexanderstreet.com\nHJ https://solomon.wasi.alexanderstreet.com\nHJ https://solomon.wasm.alexanderstreet.com\nHJ https://solomon.wass.alexanderstreet.com\nHJ https://solomon.whiv.alexanderstreet.com\nHJ https://solomon.wlid.alexanderstreet.com\nHJ https://solomon.wlit.alexanderstreet.com\nHJ https://solomon.wnrv.alexanderstreet.com\nHJ https://solomon.wodr.alexanderstreet.com\nHJ https://solomon.womu.alexanderstreet.com\nHJ https://solomon.womv.alexanderstreet.com\nHJ https://solomon.wwav.alexanderstreet.com\nHJ https://asp6new.alexanderstreet.com\nHJ https://www.academicvideostore.com\nHJ www.academicvideostore.com\nHost www.aspresolver.com\nHost aspresolver.com\nHost https://www.aspresolver.com\nDomain aspresolver.com\nDJ academicvideostore.com\nHJ cdn.alexanderstreet.com\nFind \"http:\\/\\/\nReplace \"http://\nFind \"https:\\/\\/\nReplace \"https://\nFind domain=\"*.alexanderstreet.com\"\nReplace domain=\"*\"\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Alexander_Street_Press"
+    },
+    "Alexander Street Press MARC Records": {
+        "title": "Alexander Street Press MARC Records",
+        "last_updated": "2017-07-19 00:00:00",
+        "stanza_text": "Title Alexander Street Press MARC Records (updated 20170719)\nURL http://www.aspresolver.com \nDJ aspresolver.com \n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Alexander_Street_Press"
+    },
+    "Alexander Street Video": {
+        "title": "Alexander Street Video",
+        "last_updated": "2020-09-10 00:00:00",
+        "stanza_text": "Title Alexander Street Video (updated 20200910)\nURL https://video.alexanderstreet.com\nDJ video.alexanderstreet.com\nNeverProxy https://dq8wtqudsgu83.cloudfront.net\nNeverProxy media.proquest.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Alexander_Street_Press"
+    },
+    "Alkem Library": {
+        "title": "Alkem Library",
+        "last_updated": "2016-07-13 00:00:00",
+        "stanza_text": "Title Alkem Library\nURL http://www.alkemlibrary.com\nHJ alkemlibrary.com\nHJ amazonaws.com\nDJ alkemlibrary.com\nDJ amazonaws.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Alkem_Library"
+    },
+    "All That Stats": {
+        "title": "All That Stats",
+        "last_updated": "2015-03-20 00:00:00",
+        "stanza_text": "Title All That Stats (updated 20150320)\nURL http://www.allthatstats.com\nHJ allthatstats.com\nHJ www.allthatstats.com\nDJ allthatstats.com \n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/All_That_Stats"
+    },
+    "The Almanac of the Federal Fiduciary": {
+        "title": "The Almanac of the Federal Fiduciary",
+        "last_updated": "2016-09-08 00:00:00",
+        "stanza_text": "HTTPMethod DELETE\nProxyHostnameEdit intelliconnect.cch.com$ intelliconnect\nHTTPHeader X-GWT-*\nHTTPHeader X-ApiKey\nHTTPHeader X-CPID\nTitle The Almanac of the Federal Fiduciary\nURL http://intelliconnect.cch.com\nHJ https://intelliconnect.cch.com\nHJ https://login.intelliconnect.cch.com\nHJ https://login.wolterskluwer.com\nDJ wkcheetah.com\nDJ cch.com\nDJ wolterskluwer.com\nMimeFilter application/json .* javascript\nFind http:\\/\\/\nReplace http://\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Almanac_Federal_Fiduciary"
+    },
+    "Amadeus": {
+        "title": "Amadeus",
+        "last_updated": "2015-08-04 00:00:00",
+        "stanza_text": "Title Amadeus (updated 20150804)\nURL https://amadeus.bvdinfo.com/ip\nHJ https://amadeus.bvdep.com\nHJ https://amadeus.bvdinfo.com\nHJ https://amadeus2.bvdep.com\nHJ amadeus.bvdep.com\nHJ amadeus.bvdinfo.com\nHJ amadeus2.bvdep.com\nDJ bvdep.com\nDJ bvdinfo.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Amadeus"
+    },
+    "Ambrose Digital Video": {
+        "title": "Ambrose Digital Video",
+        "last_updated": "2020-02-03 00:00:00",
+        "stanza_text": "Title Ambrose Digital Video (updated 20200203)\nURL http://videos.ambrosedigital.com\nHJ videos.ambrosedigital.com\nHJ www.ambrosedigital.com\nHJ ambrosevideo.com\nHJ www.ambrosevideo.com\nHJ videos.ambrosevideo.com\nDJ ambrosedigital.com\nDJ ambrosevideo.com\nHJ https://videos.ambrosedigital.com\nHJ https://www.ambrosedigital.com\nHJ https://www.ambrosevideo.com\nHJ https://videos.ambrosevideo.com\nHJ https://ambrosevideo.com\nDJ https://ambrosedigital.com\nDJ https://ambrosevideo.com\nNeverProxy cfph.ambrosevideo.com\nNeverProxy cfpr.ambrosevideo.com\nNeverProxy cfsh.ambrosevideo.com\nNeverProxy cfsr.ambrosevideo.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Ambrose_Digital_Video"
+    },
+    "American Academy of Pediatrics": {
+        "title": "American Academy of Pediatrics",
+        "last_updated": "2019-08-07 00:00:00",
+        "stanza_text": "Title American Academy of Pediatrics (updated 20190807)\nURL http://pediatrics.aappublications.org\nHJ https://pediatrics.aappublications.org\nH aapgrandrounds.aappublications.org\nHJ https://aapgrandrounds.aappublications.org\nH hosppeds.aappublications.org\nHJ https://hosppeds.aappublications.org\nH intl-pediatrics.aappublications.org\nHJ https://intl-pediatrics.aappublications.org\nH neoreviews.aappublications.org\nHJ https://neoreviews.aappublications.org\nH pediatrics.aappublications.org\nHJ https://pediatrics.aappublications.org\nH pediatrics.org\nH pedsinreview.aappublications.org\nHJ https://pedsinreview.aappublications.org\nH www.aap.org\nHJ https://www.aap.org\nH www.aapnews.org\nHJ https://www.aapnews.org\nH www.aappublications.org\nHJ https://www.aappublications.org\nH www.hospitalpediatrics.org\nHJ https://www.hospitalpediatrics.org\nH www.neoreviews.org\nHJ https://www.neoreviews.org\nH www.pedialink.org\nHJ https://www.pedialink.org\nH www.pediatrics.org\nHJ https://www.pediatrics.org\nH www.prepaudio.org\nHJ https://www.prepaudio.org\nDJ aap.org\nDJ aapnews.org\nDJ aappublications.org\nDJ hospitalpediatrics.org\nDJ neoreviews.org\nDJ pedialink.org\nDJ pediatrics.org\nDJ prepaudio.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Academy_of_Pediatrics_formerly_Pediatrics"
+    },
+    "American Association for Cancer Research": {
+        "title": "American Association for Cancer Research",
+        "last_updated": "2019-11-11 00:00:00",
+        "stanza_text": "Title American Association for Cancer Research (updated 20191111)\nURL http://www.aacrjournals.org/\nHJ aacrjournals.org\nHJ cancerdiscovery.aacrjournals.org\nHJ cancerimmunolres.aacrjournals.org\nHJ cancerpreventionresearch.aacrjournals.org\nHJ cancerres.aacrjournals.org\nHJ https://cancerres.aacrjournals.org\nHJ canimmessentials.aacrjournals.org\nHJ canreviews.aacrjournals.org\nHJ cdnews.aacrjournals.org\nHJ cebp.aacrjournals.org\nHJ cgd.aacrjournals.org\nHJ clincancerres.aacrjournals.org\nHJ cme.aacrjournals.org\nHJ educationbook.aacrjournals.org\nHJ intl-preventionportal.aacrjournals.org\nHJ mcr.aacrjournals.org\nHJ mct.aacrjournals.org\nHJ preventionportal.aacrjournals.org\nHJ www.aacrjournals.org\nHJ www.canimmessentials.aacrjournals.org\nDJ aacrjournals.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/aacrjournals"
+    },
+    "American Association for Clinical Chemistry": {
+        "title": "American Association for Clinical Chemistry",
+        "last_updated": "2019-08-22 00:00:00",
+        "stanza_text": "Title American Association for Clinical Chemistry (updated 20190822)\nURL http://clinchem.aaccjnls.org/\nHJ clinchem.aaccjnls.org\nHJ jalm.aaccjnls.org\nHJ d9aqs07uebq07.cloudfront.net\nHJ www.clinchem.org\nHJ aaccjnls.org\nDJ aaccjnls.org\nDJ clinchem.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Association_for_Clinical_Chemistry"
+    },
+    "American Botanical Council": {
+        "title": "American Botanical Council",
+        "last_updated": "2015-05-06 00:00:00",
+        "stanza_text": "Title American Botanical Council (updated 20150506)\nURL http://cms.herbalgram.org\nHJ cms.herbalgram.org\nHJ abc.herbalgram.org\nHJ content.herbalgram.org\nDJ herbalgram.org\nFind document.title += ('RF[+key1+']')\nReplace document.title += ('RF[+key1+']')^A\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Botanical_Council"
+    },
+    "American Chemical Society": {
+        "title": "American Chemical Society",
+        "last_updated": "2017-01-04 00:00:00",
+        "stanza_text": "Title American Chemical Society\nURL http://pubs.acs.org\nHJ acs.org\nHJ cenglobal.acs.org\nHJ https://cenglobal.acs.org\nHJ https://pubs.acs.org\nHJ pubs.acs.org\nHJ www.acs.org\nHJ www.chemistry.org\nHJ www.pubs.acs.org\nDJ acs.org\nFind hostdev=\"pubsdev.acs.org\"\nReplace hostdev=\"^ppubsdev.acs.org^\"\nFind hosttest=\"pubstest.acs.org\"\nReplace hosttest=\"^ppubstest.acs.org^\"\nFind hostprod=\"pubs.acs.org\"\nReplace hostprod=\"^ppubs.acs.org^\"\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Chemical_Society"
+    },
+    "American College of Physicians": {
+        "title": "American College of Physicians",
+        "last_updated": "2020-08-10 00:00:00",
+        "stanza_text": "Title American College of Physicians (updated 20200810)\nURL https://acpjournals.org\nHJ acpjournals.org\nHJ acphospitalist.org\nHJ acpinternist.org\nHJ acpjc.org\nHJ acponline.org\nHJ annals.org\nHJ https://acphospitalist.org\nHJ https://acpinternist.org\nHJ https://acponline.org\nHJ https://annals.org\nHJ https://www.acphospitalist.org\nHJ https://www.acpinternist.org\nHJ https://www.acpjournals.org\nHJ https://www.acponline.org\nHJ https://www.annals.org\nHJ www.acphospitalist.org\nHJ www.acpinternist.org\nHJ www.acpjc.org\nHJ www.acpjournals.org\nHJ www.acponline.org\nHJ www.annals.org\nDJ acpjournals.org\nDJ acphospitalist.org\nDJ acpinternist.org\nDJ acpjc.org\nDJ acponline.org\nDJ annals.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_College_of_Physicians"
+    },
+    "American Concrete Institute": {
+        "title": "American Concrete Institute",
+        "last_updated": "2019-12-09 00:00:00",
+        "stanza_text": "Title American Concrete Institute (updated 20191209)\nURL https://www.concrete.org/\nHJ www.concrete.org\nDJ concrete.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Concrete_Institute"
+    },
+    "American Economic Association": {
+        "title": "American Economic Association",
+        "last_updated": "2020-01-10 00:00:00",
+        "stanza_text": "Title American Economic Association (updated 20200110)\nHTTPHeader -request -process X-CSRF-Token\nHTTPHeader -request -process X-Key\nHTTPHeader -request -process X-Requested-With\nURL https://www.aeaweb.org/\nHJ aeaweb.org\nHJ pubs.aeaweb.org\nHJ www.aeaweb.org\nDJ aeaweb.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Economic_Association"
+    },
+    "American Geophysical Union": {
+        "title": "American Geophysical Union",
+        "last_updated": "2016-01-19 00:00:00",
+        "stanza_text": "Title American Geophysical Union (updated 20160119)\nURL http://www.agu.org\nHJ agu.org\nHJ europa.agu.org\nHJ https://agu.org\nHJ https://publications.agu.org\nHJ https://sites.agu.org\nHJ https://www.agu.org\nHJ publications.agu.org\nHJ sites.agu.org\nHJ www.agu.org\nDJ agu.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Geophysical_Union"
+    },
+    "The American Institute of Aeronautics and Astronautics (AIAA)": {
+        "title": "The American Institute of Aeronautics and Astronautics (AIAA)",
+        "last_updated": "2016-07-04 00:00:00",
+        "stanza_text": "Title The American Institute of Aeronautics and Astronautics (AIAA) (updated 20160704)\nURL http://arc.aiaa.org/\nHJ aiaa-aviation.org\nHJ aiaa-defense.org\nHJ aiaa-propulsionenergy.org\nHJ aiaa-scitech.org\nHJ aiaa-space.org\nHJ aiaa.org\nHJ aiaafoundation.org\nHJ arc.aiaa.org\nHJ https://arc.aiaa.org\nHJ https://info.aiaa.org\nHJ https://lp.aiaa.org\nHJ https://www.aiaa-aviation.org\nHJ https://www.aiaa-defense.org\nHJ https://www.aiaa-propulsionenergy.org\nHJ https://www.aiaa-scitech.org\nHJ https://www.aiaa-space.org\nHJ https://www.aiaa.org\nHJ https://www.aiaafoundation.org\nHJ info.aiaa.org\nHJ lp.aiaa.org\nHJ www.aiaa-aviation.org\nHJ www.aiaa-defense.org\nHJ www.aiaa-propulsionenergy.org\nHJ www.aiaa-scitech.org\nHJ www.aiaa-space.org\nHJ www.aiaa.org\nHJ www.aiaafoundation.org\nDJ aiaa-aviation.org\nDJ aiaa-defense.org\nDJ aiaa-propulsionenergy.org\nDJ aiaa-scitech.org\nDJ aiaa-space.org\nDJ aiaa.org\nDJ aiaafoundation.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/aiaa"
+    },
+    "American Journal of Science": {
+        "title": "American Journal of Science",
+        "last_updated": "2016-01-19 00:00:00",
+        "stanza_text": "Title American Journal of Science (updated 20160119)\nURL http://www.ajsonline.org/\nHJ www.ajsonline.org\nDJ ajsonline.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Journal_of_Science"
+    },
+    "American Marketing Association": {
+        "title": "American Marketing Association",
+        "last_updated": "2018-02-07 00:00:00",
+        "stanza_text": "Title American Marketing Association (updated 20180207)\nURL https://www.ama.org/\nHJ ama.org\nHJ archive.ama.org\nHJ https://ama.org\nHJ https://archive.ama.org\nHJ journals.ama.org\nHJ www.ama.org\nDJ ama.org\nFind journals.ama.org\nReplace ^pjournals.ama.org^\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Marketing_Association"
+    },
+    "American Meteorological Society": {
+        "title": "American Meteorological Society",
+        "last_updated": "2020-06-25 00:00:00",
+        "stanza_text": "Title American Meteorological Society (updated 20200625)\nURL http://journals.ametsoc.org\nHJ https://journals.ametsoc.org\nHJ journals.ametsoc.org\nHJ 52.146.19.226\nDJ ametsoc.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Meteorological_Society"
+    },
+    "American National Biography Online": {
+        "title": "American National Biography Online",
+        "last_updated": "2019-04-10 00:00:00",
+        "stanza_text": "Title American National Biography Online (updated 20190410)\nURL https://www.anb.org\nHJ www.anb.org\nDJ anb.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_National_Biography"
+    },
+    "American Occupational Therapy Association": {
+        "title": "American Occupational Therapy Association",
+        "last_updated": "2017-10-10 00:00:00",
+        "stanza_text": "Title American Occupational Therapy Association\nURL http://www1.aota.org/otsearch/index.asp\nHJ https://www1.aota.org\nHJ www1.aota.org\nHJ https://www.aota.org\nHJ www.aota.org\nHJ otsearch.aota.org\nHJ https://ajot.aota.org\nHJ ajot.aota.org\nHJ https://aota.org\nDJ aota.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Occupational_Therapy_Association"
+    },
+    "American Physical Therapy Association": {
+        "title": "American Physical Therapy Association",
+        "last_updated": "2015-05-07 00:00:00",
+        "stanza_text": "Title American Physical Therapy Association (updated 20150507)\nURL http://www.apta.org/\nH apta.org\nH aptaeducation.org\nH learningcenter.apta.org\nH ptjournal.org\nH ptjournal.apta.org\nH www.apta.org\nH www.aptaeducation.org\nH www.ptjournal.org\nDJ apta.org\nDJ aptaeducation.org\nDJ ptjournal.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/apta"
+    },
+    "American Physiological Society": {
+        "title": "American Physiological Society",
+        "last_updated": "2020-05-13 00:00:00",
+        "stanza_text": "Title American Physiological Society (updated 20200513)\nURL https://journals.physiology.org\nHJ http://www.physiology.org\nHJ journals.physiology.org\nHJ https://journals.physiology.org\nHJ https://d2avczb82rh8fa.cloudfront.net\nHJ d2avczb82rh8fa.cloudfront.net\nDJ physiology.org\nFind physiology.org\\/sites\nReplace ^Pphysiology.org^\\/sites\nFind physiology.org\\/content\\/\nReplace ^Pphysiology.org^\\/content\\/\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/physiology"
+    },
+    "American Phytopathological Society": {
+        "title": "American Phytopathological Society",
+        "last_updated": "2019-10-25 00:00:00",
+        "stanza_text": "Title American Phytopathological Society (updated 20191025)\nURL https://apsjournals.apsnet.org/\nHJ apsjournals.apsnet.org\nHJ www.apsnet.org\nHJ www.plantmanagementnetwork.org\nDJ apsnet.org\nDJ plantmanagementnetwork.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Phytopathological_Society"
+    },
+    "American Public Health Association": {
+        "title": "American Public Health Association",
+        "last_updated": "2020-02-10 00:00:00",
+        "stanza_text": "Title American Public Health Association (updated 20200210)\nURL http://ajph.aphapublications.org/\nHJ ajph.aphapublications.org\nHJ aphapublications.org\nHJ https://ajph.aphapublications.org\nHJ thenationshealth.aphapublications.org\nHJ www.aphapublications.org\nDJ aphapublications.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Public_Health_Association"
+    },
+    "American Society for Biochemistry and Molecular Biology": {
+        "title": "American Society for Biochemistry and Molecular Biology",
+        "last_updated": "2016-08-24 00:00:00",
+        "stanza_text": "Title American Society for Biochemistry and Molecular Biology (updated 20160824)\nURL http://www.asbmb.org\nHJ asbmb.org\nHJ https://mem.asbmb.org\nHJ https://www.asbmb.org\nHJ jbc.org\nHJ jlr.org\nHJ mcponline.org\nHJ mem.asbmb.org\nHJ www.asbmb.org\nHJ www.jbc.org\nHJ www.jlr.org\nHJ www.mcponline.org\nDJ asbmb.org\nDJ jbc.org\nDJ jlr.org\nDJ mcponline.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/asbmb"
+    },
+    "American Society for Cell Biology": {
+        "title": "American Society for Cell Biology",
+        "last_updated": "2019-09-16 00:00:00",
+        "stanza_text": "Title American Society for Cell Biology (updated 20190916)\nURL https://www.lifescied.org/\nHJ https://www.molbiolcell.org\nHJ www.lifescied.org\nHJ www.molbiolcell.org\nDJ lifescied.org\nDJ molbiolcell.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Society_for_Cell_Biology"
+    },
+    "American Society for Clinical Investigation": {
+        "title": "American Society for Clinical Investigation",
+        "last_updated": "2019-08-23 00:00:00",
+        "stanza_text": "Title American Society for Clinical Investigation (updated 20190823)\nURL http://www.jci.org/\nHJ https://www.jci.org\nHJ https://jci.org\nHJ www.jci.org\nHJ jci.org\nDJ jci.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Society_for_Clinical_Investigation"
+    },
+    "American Society for Microbiology": {
+        "title": "American Society for Microbiology",
+        "last_updated": "2019-05-19 00:00:00",
+        "stanza_text": "Title American Society for Microbiology (updated 20190519)\nURL https://www.asm.org/\nHJ aac.asm.org\nHJ aem.asm.org\nHJ asm.org\nHJ cdli.asm.org\nHJ cmr.asm.org\nHJ cvi.asm.org\nHJ ec.asm.org\nHJ genomea.asm.org\nHJ https://aem.asm.org\nHJ https://asm.org\nHJ https://ec.asm.org\nHJ https://jb.asm.org\nHJ https://mcb.asm.org\nHJ https://msystems.asm.org\nHJ https://iai.asm.org\nHJ iai.asm.org\nHJ intl-aac.asm.org\nHJ intl-aem.asm.org\nHJ intl-cmr.asm.org\nHJ intl-cvi.asm.org\nHJ intl-ec.asm.org\nHJ intl-genomea.asm.org\nHJ intl-iai.asm.org\nHJ intl-jb.asm.org\nHJ intl-jcm.asm.org\nHJ intl-journals.asm.org\nHJ intl-jvi.asm.org\nHJ intl-mbio.asm.org\nHJ intl-mcb.asm.org\nHJ intl-msphere.asm.org\nHJ intl-msystems.asm.org\nHJ jb.asm.org\nHJ jcm.asm.org\nHJ journals.asm.org\nHJ jvi.asm.org\nHJ mbio.asm.org\nHJ mcb.asm.org\nHJ mmbr.asm.org\nHJ mra.asm.org\nHJ msphere.asm.org\nHJ msystems.asm.org\nHJ www.asm.org\nHJ www.asmscience.org\nHJ www.journals.asm.org\nDJ asm.org\nDJ asmscience.org\nNeverProxy asm.metastore.ingenta.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Society_for_Microbiology"
+    },
+    "American Society of Civil Engineers": {
+        "title": "American Society of Civil Engineers",
+        "last_updated": "2020-06-19 00:00:00",
+        "stanza_text": "Title American Society of Civil Engineers (updated 20200619)\nURL https://ascelibrary.org\nHJ https://asce.org\nHJ https://ascelibrary.org\nHJ https://www.asce.org\nHJ https://www.ascelibrary.org\nHJ https://www.cedb.asce.org\nHJ asce.org\nHJ ascelibrary.org\nHJ cedb.asce.org\nHJ www.asce.org\nHJ www.ascelibrary.org\nDJ asce.org\nDJ ascelibrary.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Society_of_Civil_Engineers"
+    },
+    "American Society of Clinical Oncology (ASCO)": {
+        "title": "American Society of Clinical Oncology (ASCO)",
+        "last_updated": "2019-04-24 00:00:00",
+        "stanza_text": "Title American Society of Clinical Oncology (ASCO) (updated 20190424)\nURL https://ascopubs.org\nHJ ascopubs.org\nHJ click.broadcastemail.asco.org\nHJ edbook.ascopubs.org\nHJ globaloncologyjournal.org\nHJ https://ascopubs.org\nHJ https://jco.ascopubs.org\nHJ https://jgo.ascopubs.org\nHJ https://jop.ascopubs.org\nHJ https://meetinglibrary.asco.org\nHJ https://www.ascopubs.org\nHJ jco.ascopubs.org\nHJ jgo.ascopubs.org\nHJ jop.ascopubs.org\nHJ meetinglibrary.asco.org\nHJ www.ascopubs.org\nHJ www.globaloncologyjournal.org\nDJ asco.org\nDJ ascopubs.org\nDJ globaloncologyjournal.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Society_of_Clinical_Oncology"
+    },
+    "American Society of Hematology": {
+        "title": "American Society of Hematology",
+        "last_updated": "2019-09-17 00:00:00",
+        "stanza_text": "Title American Society of Hematology (updated 20190917)\nURL https://www.hematology.org/\nHJ http://www.hematology.org\nHJ ash-sap.org\nHJ asheducationbook.hematologylibrary.org\nHJ ashpublications.org\nHJ https://ashpublications.org\nHJ bloodjournal.hematologylibrary.org\nHJ https://hematology.org\nHJ imagebank.hematology.org\nHJ signin.hematology.org\nHJ www.ash-sap.org\nHJ www.ashclinicalnews.org\nHJ https://www.ashclinicalnews.org\nHJ www.asheducationbook.org\nHJ www.bloodjournal.hematologylibrary.org\nHJ www.bloodjournal.org\nHJ www.hematology.org\nHJ https://www.hematology.org\nDJ ash-sap.org\nDJ ashclinicalnews.org\nDJ asheducationbook.org\nDJ bloodjournal.org\nDJ hematology.org\nDJ hematologylibrary.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Society_Hematology"
+    },
+    "American Society of Plant Biologists": {
+        "title": "American Society of Plant Biologists",
+        "last_updated": "2019-09-16 00:00:00",
+        "stanza_text": "Title American Society of Plant Biologists (updated 20190916)\nURL http://www.plantcell.org/\nHJ www.plantcell.org\nHJ www.plantphysiol.org\nDJ plantcell.org\nDJ plantphysiol.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Society_of_Plant_Biologists"
+    },
+    "American Speech-Language-Hearing Association (ASHA)": {
+        "title": "American Speech-Language-Hearing Association (ASHA)",
+        "last_updated": "2020-08-07 00:00:00",
+        "stanza_text": "Title American Speech-Language-Hearing Association (ASHA) (updated 20200807)\nHTTPHeader -request -process X-Requested-With\nURL http://www.asha.org/publications/\nHJ https://www.asha.org/publications/\nH accperspectives.pubs.asha.org\nH aja.pubs.asha.org\nH ajslp.pubs.asha.org\nH asha.org\nH https://accperspectives.pubs.asha.org\nH https://perspectives.pubs.asha.org\nH https://pubs.asha.org\nH https://journals.ashs.org\nH journals.pubs.asha.org\nH jshd.pubs.asha.org\nH jslhr.pubs.asha.org\nH leader.pubs.asha.org\nH lshss.pubs.asha.org\nH perspectives.pubs.asha.org\nH pubs.asha.org\nH sig1perspectives.pubs.asha.org\nH sig2perspectives.pubs.asha.org\nH sig3perspectives.pubs.asha.org\nH sig4perspectives.pubs.asha.org\nH sig5perspectives.pubs.asha.org\nH sig6perspectives.pubs.asha.org\nH sig7perspectives.pubs.asha.org\nH sig8perspectives.pubs.asha.org\nH sig9perspectives.pubs.asha.org\nH sig10perspectives.pubs.asha.org\nH sig11perspectives.pubs.asha.org\nH sig12perspectives.pubs.asha.org\nH sig13perspectives.pubs.asha.org\nH sig14perspectives.pubs.asha.org\nH sig15perspectives.pubs.asha.org\nH sig16perspectives.pubs.asha.org\nH www.asha.org\nDJ asha.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ASHA"
+    },
+    "American Veterinary Medical Association": {
+        "title": "American Veterinary Medical Association",
+        "last_updated": "2019-11-27 00:00:00",
+        "stanza_text": "Title American Veterinary Medical Association (updated 20191127)\nURL https://avmajournals.avma.org/\nHJ avmajournals.avma.org\nDJ avma.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/American_Veterinary_Medical_Association"
+    },
+    "Anatomedia Online": {
+        "title": "Anatomedia Online",
+        "last_updated": "2019-06-21 00:00:00",
+        "stanza_text": "Title Anatomedia Online (updated 20190621)\nURL http://anatomediaonline.com/amedia/index.html\nHJ anatomediaonline.com\nDJ anatomediaonline.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Anatomedia_Online"
+    },
+    "Ancestry Library": {
+        "title": "Ancestry Library",
+        "last_updated": "2017-11-20 00:00:00",
+        "stanza_text": "Title Ancestry Library\nURL https://ancestrylibrary.proquest.com\nHJ https://ancestrylibrary.proquest.com\nDJ ancestrylibrary.proquest.com\nNeverProxy www.ancestrylibrary.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Ancestry_Library"
+    },
+    "Annual Reviews": {
+        "title": "Annual Reviews",
+        "last_updated": "2018-02-20 00:00:00",
+        "stanza_text": "Title Annual Reviews (updated 20180220)\nURL https://www.annualreviews.org/\nHJ annualreviews.org\nHJ anchem.annualreviews.org\nHJ animal.annualreviews.org\nHJ anthro.annualreviews.org\nHJ arcompsci.annualreviews.org\nHJ arjournals.annualreviews.org\nHJ arplant.annualreviews.org\nHJ astro.annualreviews.org\nHJ biochem.annualreviews.org\nHJ bioeng.annualreviews.org\nHJ biophys.annualreviews.org\nHJ cellbio.annualreviews.org\nHJ chembioeng.annualreviews.org\nHJ clinpsy.annualreviews.org\nHJ conmatphys.annualreviews.org\nHJ earth.annualreviews.org\nHJ ecolsys.annualreviews.org\nHJ economics.annualreviews.org\nHJ energy.annualreviews.org\nHJ ento.annualreviews.org\nHJ financial.annualreviews.org\nHJ fluid.annualreviews.org\nHJ food.annualreviews.org\nHJ genet.annualreviews.org\nHJ genom.annualreviews.org\nHJ http://www.annualreviews.org\nHJ immunol.annualreviews.org\nHJ lawsocsci.annualreviews.org\nHJ linguistics.annualreviews.org\nHJ marine.annualreviews.org\nHJ matsci.annualreviews.org\nHJ med.annualreviews.org\nHJ micro.annualreviews.org\nHJ neuro.annualreviews.org\nHJ nucl.annualreviews.org\nHJ nutr.annualreviews.org\nHJ orgpsych.annualreviews.org\nHJ pathmechdis.annualreviews.org\nHJ pharmtox.annualreviews.org\nHJ physchem.annualreviews.org\nHJ physiol.annualreviews.org\nHJ phyto.annualreviews.org\nHJ plant.annualreviews.org\nHJ polisci.annualreviews.org\nHJ psych.annualreviews.org\nHJ publhealth.annualreviews.org\nHJ resource.annualreviews.org\nHJ soc.annualreviews.org\nHJ statistics.annualreviews.org\nHJ virology.annualreviews.org\nHJ vision.annualreviews.org\nHJ www.annualreviews.org\nDJ annualreviews.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Annual_Reviews"
+    },
+    "AnthroSource": {
+        "title": "AnthroSource",
+        "last_updated": "2015-06-22 00:00:00",
+        "stanza_text": "Title AnthroSource\nURL http://www.anthrosource.net\nHJ www.anthrosource.net\nDJ anthrosource.net \n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AnthroSource"
+    },
+    "AnthroSource 2.0": {
+        "title": "AnthroSource 2.0",
+        "last_updated": "2015-07-23 00:00:00",
+        "stanza_text": "Title AnthroSource 2.0 (updated 20150723)\nURL http://anthrosource.onlinelibrary.wiley.com\nHJ anthrosource.onlinelibrary.wiley.com\nDJ wiley.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AnthroSource2"
+    },
+    "The Arabidopsis Information Resource": {
+        "title": "The Arabidopsis Information Resource",
+        "last_updated": "2016-01-28 00:00:00",
+        "stanza_text": "Title The Arabidopsis Information Resource (updated 20160128)\nURL https://www.arabidopsis.org/\nHJ arabidopsis.org\nHJ gbrowse.arabidopsis.org\nHJ https://arabidopsis.org\nHJ https://gbrowse.arabidopsis.org\nHJ https://seqviewer.arabidopsis.org\nHJ https://www.arabidopsis.org\nHJ seqviewer.arabidopsis.org\nHJ www.arabidopsis.org\nDJ arabidopsis.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Arabidopsis_Information_Resource"
+    },
+    "The Architects Journal": {
+        "title": "The Architects Journal",
+        "last_updated": "2015-05-07 00:00:00",
+        "stanza_text": "Title The Architects Journal (updated 20150507)\nURL http://www.theaj.co.uk\nHJ architectsjournal.co.uk\nHJ theaj.co.uk\nHJ www.architectsjournal.co.uk\nHJ www.theaj.co.uk\nDJ architectsjournal.co.uk\nDJ theaj.co.uk\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Architects_Journal"
+    },
+    "Archivaria": {
+        "title": "Archivaria",
+        "last_updated": "2020-08-25 00:00:00",
+        "stanza_text": "Title Archivaria (updated 20200825)\nURL http://archivaria.ca/index.php/archivaria/issue/archive  \nHJ http://archivaria.ca\nHJ https://archivaria.ca\nDJ archivaria.ca\nFind archivaria.ca\nReplace ^sarchivaria.ca^\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Archivaria"
+    },
+    "ArsAequi": {
+        "title": "ArsAequi",
+        "last_updated": "2020-05-22 00:00:00",
+        "stanza_text": "AnonymousURL +https://bzp04q7cwf-1.algolianet.com/*\nAnonymousURL +https://bzp04q7cwf-2.algolianet.com/*\nAnonymousURL +https://bzp04q7cwf-3.algolianet.com/*\nTitle ArsAequi (updated 20200522)\nURL https://arsaequi.nl/home/\nHJ arsaequi.nl\nHJ https://arsaequi.nl\nHJ https://bzp04q7cwf-1.algolianet.com\nHJ https://bzp04q7cwf-2.algolianet.com\nHJ https://bzp04q7cwf-3.algolianet.com\nHJ https://bzp04q7cwf-dsn.algolia.net\nHJ https://cdn.jsdelivr.net\nHJ https://juridischeuitgeverij.nl\nHJ https://www.arsaequi.nl\nHJ juridischeuitgeverij.nl\nHJ www.arsaequi.nl\nDJ arsaequi.nl\nFind this.hosts.write=[this.applicationID+\".algolia.net\"]\nReplace this.hosts.write=[this.applicationID+\"-algolia-net.^H\"]\nFind p=(!1===r.dsn?\"\":\"-dsn\")+\".algolia.net\"\nReplace p=(!1===r.dsn?\"\":\"-dsn\")+\"-algolia-net.^H\"\nFind {return e+\"-\"+t+\".algolianet.com\"}\nReplace {return e+\"-\"+t+\"-algolianet-com.^H\"}\nAnonymousURL -*\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ArsAequi"
+    },
+    "Artifex Press": {
+        "title": "Artifex Press",
+        "last_updated": "2018-09-12 00:00:00",
+        "stanza_text": "Title Artifex Press (updated 20180912)\nHTTPHeader -request -process X-CSRF-Token\nURL https://www.artifexpress.com\nHJ http://www.artifexpress.com\nDJ artifexpress.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Artifex_Press"
+    },
+    "Artists Information Group": {
+        "title": "Artists Information Group",
+        "last_updated": "2015-12-01 00:00:00",
+        "stanza_text": "Title Artists Information Group (updated 20151201)\nURL https://www.a-n.co.uk/\nHJ a-n.co.uk\nHJ https://a-n.co.uk\nHJ https://www.a-n.co.uk\nHJ www.a-n.co.uk\nDJ a-n.co.uk\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Artists_Information_Group"
+    },
+    "Arts Professional": {
+        "title": "Arts Professional",
+        "last_updated": "2020-01-13 00:00:00",
+        "stanza_text": "Title Arts Professional  (updated 20200113)\nURL https://www.artsprofessional.co.uk/\nHJ www.artsprofessional.co.uk\nDJ artsprofessional.co.uk\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Arts_Professional"
+    },
+    "Arts-Search": {
+        "title": "Arts-Search",
+        "last_updated": "2020-05-04 00:00:00",
+        "stanza_text": "Title Arts-Search (updated 20200504)\nURL http://arts-search.com/database/\nHJ www.arts-search.com/\nHJ arts-search.com\nDJ arts-search.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Arts-Search"
+    },
+    "Asia-Studies": {
+        "title": "Asia-Studies",
+        "last_updated": "2019-05-16 00:00:00",
+        "stanza_text": "Title Asia-Studies (updated 20190516)\nURL http://www.asia-studies.com\nHJ www.asia-studies.com\nDJ asia-studies.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Asia-Studies"
+    },
+    "AspenLaw eBooks": {
+        "title": "AspenLaw eBooks",
+        "last_updated": "2019-06-26 00:00:00",
+        "stanza_text": "Title AspenLaw eBooks (updated 20190626)\nURL https://ebooks.aspenlaw.com/\nHJ ebooks.aspenlaw.com\nDJ aspenlaw.com\nNeverProxy d3t0z66hbmymka.cloudfront.net\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AspenLaw_eBooks"
+    },
+    "Association of Teachers of Mathematics": {
+        "title": "Association of Teachers of Mathematics",
+        "last_updated": "2019-12-18 00:00:00",
+        "stanza_text": "Title Association of Teachers of Mathematics (updated 20191218)\nURL https://www.atm.org.uk/\nHJ www.atm.org.uk\nDJ atm.org.uk\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Association_of_Teachers_of_Mathematics"
+    },
+    "AtoZ Maps Online": {
+        "title": "AtoZ Maps Online",
+        "last_updated": "2018-07-11 00:00:00",
+        "stanza_text": "Title AtoZ Maps Online (updated 20180711)\nURL https://www.atozmapsonline.com\nHJ www.atozmapsonline.com\nDJ atozmapsonline.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AtoZ_Maps_Online"
+    },
+    "AtoZ World Business": {
+        "title": "AtoZ World Business",
+        "last_updated": "2018-07-11 00:00:00",
+        "stanza_text": "Title AtoZ World Business (updated 20180711)\nURL https://www.atozworldbusiness.com\nHJ www.atozworldbusiness.com\nDJ atozworldbusiness.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AtoZ_World_Business"
+    },
+    "AtoZ World Culture": {
+        "title": "AtoZ World Culture",
+        "last_updated": "2018-07-11 00:00:00",
+        "stanza_text": "Title AtoZ World Culture (updated 20180711)\nURL https://www.atozworldculture.com\nHJ www.atozworldculture.com\nDJ atozworldculture.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AtoZ_World_Culture"
+    },
+    "AtoZ World Food": {
+        "title": "AtoZ World Food",
+        "last_updated": "2018-07-11 00:00:00",
+        "stanza_text": "Title AtoZ World Food (updated 20180711)\nURL https://www.atozworldfood.com\nHJ www.atozworldfood.com\nDJ atozworldfood.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AtoZ_World_Food"
+    },
+    "AtoZ World Travel": {
+        "title": "AtoZ World Travel",
+        "last_updated": "2018-07-11 00:00:00",
+        "stanza_text": "Title AtoZ World Travel (updated 20180711)\nURL https://www.atozworldtravel.com\nHJ www.atozworldtravel.com\nDJ atozworldtravel.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AtoZ_World_Travel"
+    },
+    "AtoZ the USA": {
+        "title": "AtoZ the USA",
+        "last_updated": "2018-07-11 00:00:00",
+        "stanza_text": "Title AtoZ the USA (updated 20180711)\nURL https://www.atoztheusa.com\nHJ www.atoztheusa.com\nDJ atoztheusa.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/AtoZ_the_USA"
+    },
+    "Atomic Learning": {
+        "title": "Atomic Learning",
+        "last_updated": "2007-11-16 00:00:00",
+        "stanza_text": "Title Atomic Learning\nURL -form=post atomiclearning https://secure.atomiclearning.com/movies/\nFormVariable username= yourusername\nFormVariable password= yourpassword \n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Atomic_Learning"
     }
 }

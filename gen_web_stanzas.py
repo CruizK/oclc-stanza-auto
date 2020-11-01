@@ -16,7 +16,8 @@ def check_file():
             data = json.load(f)
             for d in data:
                 try:
-                    d['last_updated'] = datetime.fromisoformat(data['last_updated'])
+                    d['last_updated'] = datetime.fromisoformat(
+                        data['last_updated'])
                 except:
                     pass
             return data
@@ -26,43 +27,51 @@ def check_file():
             json.dump(data, f, indent=4)
             return data
 
-def get_not_updated(stanza_data):
+
+def get_not_updated(web_stanzas, stanza_data):
     not_updated_subset = []
-    for key in stanza_data:
-        if 'last_updated' not in stanza_data[key]:
-            not_updated_subset.append(key)
+
+    for stanza in web_stanzas:
+        should_update = True
+        link = web_stanzas[stanza][1]
+        for key in stanza_data:
+            if stanza_data[key]['link'] == link:
+                should_update = False
+                break
+        if should_update == True:
+            not_updated_subset.append(web_stanzas[stanza])
     return not_updated_subset
 
 
-
-def gen_web_stanzas():
-    web_stanzas = get_stanzas()
-    all_links = [web_stanzas[key][1] for key in web_stanzas]
-    stanza_data = check_file()
-
+"""
     links = get_not_updated(stanza_data)[:2]
-    #link = "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ASTM_Compass"
+    # link = "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ASTM_Compass"
     link = "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Gale_InfoTrac"
     page_data = parsePage(link, stanza_data)
     with open(json_file, "w") as f:
         stanza_data.update(page_data)
         json.dump(stanza_data, f, indent=4)
-    """
-    with Pool(2) as p:
-        while(len(links) > 0):
-            results = [p.apply_async(parsePage, args=(i,)) for i in links]
-            arr = [result.get() for result in results]
-            for i in arr:
-                if i['link'] in stanza_data:
-                    stanza_data[i['link']].update(i)
-            
-            with open(json_file, "w") as f:
-                json.dump(stanza_data, f, indent=4)
-
-            links = get_not_updated(stanza_data)[:2]
 """
 
-def parsePage(link, stanza_data):
+
+def gen_web_stanzas():
+    web_stanzas = get_stanzas()
+
+    stanza_data = check_file()
+
+    links = get_not_updated(web_stanzas, stanza_data)[:50]
+    #print(links)
+    with Pool(10) as p:
+        results = [p.apply_async(parsePage, args=(i[1],i[0])) for i in links]
+        stanza_arr = [result.get() for result in results]
+        for stanza in stanza_arr:
+            stanza_data.update(stanza)
+        with open(json_file, "w") as f:
+            json.dump(stanza_data, f, indent=4)
+
+        #links = get_not_updated(all_links, stanza_data)[:5]
+
+def parsePage(link, stanza_updated):
     page = requests.get(link)
     soup = BeautifulSoup(page.text, 'html.parser')
     pre_tags = soup.find_all('pre')
@@ -83,14 +92,19 @@ def parsePage(link, stanza_data):
                 if title in total_stanzas:
                     total_stanzas[title]['stanza_text'] += stanza_text
                 elif title != "":
+                    # If last_updated was not found in the stanza text fallback to the web one we scraped
+                    if last_updated == "":
+                        last_updated = stanza_updated
                     total_stanzas[title] = {
                         'title': title,
                         'last_updated': str(last_updated),
-                        'stanza_text': stanza_text
+                        'stanza_text': stanza_text,
+                        'link': link
                     }
                 else:
                     print("Stanza without title")
                 stanza_text = ""
+                last_updated = ""
                 continue
             if re.match(r'^Title (.+)$', line):
                 print(line)
@@ -107,7 +121,7 @@ def parsePage(link, stanza_data):
                 try:
                     last_updated = datetime.strptime(search.group(2), "%Y%m%d")
                 except:
-                    last_updated = "No Data"
+                    last_updated = ""
             stanza_text += line + "\n"
     return total_stanzas
         

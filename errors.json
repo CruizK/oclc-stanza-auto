@@ -1,0 +1,106 @@
+{
+    "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Axis360": [
+        {
+            "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Axis360",
+            "stanza_text": "RedirectSafe http://XXXX.axis360.baker-taylor.com\nRedirectSafe http://m.XXXX.axis360.baker-taylor.com\n",
+            "last_updated": "",
+            "tag_text": "\nRedirectSafe http://XXXX.axis360.baker-taylor.com\nRedirectSafe http://m.XXXX.axis360.baker-taylor.com\n\nTitle Axis360\nURL -Form=post Axis360 http://XXXX.axis360.baker-taylor.com/Account/EZproxy\nFormVariable -expr username=session:user\nFormVariable returnPage\nFormVariable returnAction\nFormVariable returnItemID\nFormVariable flag\nFormVariable bookFlag\nFormVariable bookItemID\nFormVariable token\n\nTitle Axis360 Mobile\nURL -Form=post Axis360Mobile http://m.XXXX.axis360.baker-taylor.com/Account/EZproxy\nFormVariable -expr username=session:user\nFormVariable returnPage\nFormVariable token\n",
+            "msg": "Could not parse a Title xxxxxx from this tag_text"
+        }
+    ],
+    "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BiblioBoard": [
+        {
+            "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BiblioBoard",
+            "stanza_text": "# Requires v5.2 (Aug 2009)\nHTTPHeader X-Biblio-*\nHTTPHeader X-Auth-Token\nHTTPHeader X-Total-Count\nHTTPHeader Origin\nHTTPHeader Access-Control-*\n",
+            "last_updated": "",
+            "tag_text": "\n# Requires v5.2 (Aug 2009)\nHTTPHeader X-Biblio-*\nHTTPHeader X-Auth-Token\nHTTPHeader X-Total-Count\nHTTPHeader Origin\nHTTPHeader Access-Control-*\n\nHTTPMethod PATCH\nHTTPMethod PUT\nHTTPMethod DELETE\nHTTPMethod OPTIONS\n\nOption HttpsHyphens\nTitle BiblioBoard Library (library.biblioboard.com) (updated 20151203)\nURL https://library.biblioboard.com\nDJ library.biblioboard.com\n",
+            "msg": "Could not parse a Title xxxxxx from this tag_text"
+        },
+        {
+            "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/BiblioBoard",
+            "stanza_text": "HTTPMethod PATCH\nHTTPMethod PUT\nHTTPMethod DELETE\nHTTPMethod OPTIONS\n",
+            "last_updated": "",
+            "tag_text": "\n# Requires v5.2 (Aug 2009)\nHTTPHeader X-Biblio-*\nHTTPHeader X-Auth-Token\nHTTPHeader X-Total-Count\nHTTPHeader Origin\nHTTPHeader Access-Control-*\n\nHTTPMethod PATCH\nHTTPMethod PUT\nHTTPMethod DELETE\nHTTPMethod OPTIONS\n\nOption HttpsHyphens\nTitle BiblioBoard Library (library.biblioboard.com) (updated 20151203)\nURL https://library.biblioboard.com\nDJ library.biblioboard.com\n",
+            "msg": "Could not parse a Title xxxxxx from this tag_text"
+        }
+    ],
+    "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Economist_Intelligence_Unit": [
+        {
+            "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Economist_Intelligence_Unit",
+            "stanza_text": "T EIU Portal\nU http://www.eiu.com/default.aspx\nH www.eiu.com\nHJ https://portal.eiu.com\nHJ eiu.com\nHJ country.eiu.com\nHJ portal.eiu.com\nHJ search.eiu.com\nHJ data.eiu.com\nHJ graphics.eiu.com\nHJ gfs.eiu.com\nHJ pages.eiu.com\nHJ service.eiu.com\nHJ [For clients with corporate landing pages, the unique, full URL of EIU corporate landing page goes here.  URL example:  http://www.eiu.com/site_info.asp?info_name=corporate_landing_account_name  -- see techsupport@eiu.comfor assistance]\nHJ [For clients with corporate landing pages, the shortcut URL the landing page goes here. URL example: http://eiu.com/client_name-- see techsupport@eiu.comfor assistance]\nD eiu.com\nDJ EIU.com   \nT EIU Viewswire\nU http://viewswire.eiu.com\nH viewswire.eiu.com\nHJ viewswire.com\nHJ www.viewswire.com\nHJ search.eiu.com\nHJ data.eiu.com\nHJ graphics.eiu.com\nHJ service.eiu.com\nD viewswire.com\nDJ viewswire.eiu.com   \nT Economist.com via corporate IP portal\nU (Unique client URL goes here, contact techsupport@eiu.com for assistance)\nH economist.com\nHJ www.economist.com\nHJ stage.economist.com\nD economist.com\nDJ economist.com   \nT EIU Dataservices Alacra (global product landing page)\nU http://www.alacra.com/cgi-bin/login.exe?app=login&msg=ExecContent&product=17\nD alacra.com\nH www.alacra.com\nHJ eiu.alacra.com\nHJ alacra.com\nDJ www.alacra.com   \nT EIU BvD (multiple products)\nU http://eiu.bvdep.com/ipall\nD eiu.bvdep.com\nH eiu.bvdep.com\nHJ bvdep.com\nDJ eiu.bvdep.com   \nT EIU MIF BvD\nU https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=103&user=ipaddress\nD eiu.bvdep.com\nH eiu.bvdep.com\nHJ bvdep.com\nDJ eiu.bvdep.com   \nT EIU Country Data BvD\nU https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=102&user=ipaddress\nD eiu.bvdep.com\nH eiu.bvdep.com\nHJ bvdep.com\nDJ eiu.bvdep.com   \nT EIU City Data BvD\nU https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=102&user=ipaddress\nD eiu.bvdep.com\nH eiu.bvdep.com\nHJ bvdep.com\nDJ eiu.bvdep.com   \nT EIU Risk Model BvD\nU https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=105&user=ipaddress\nD eiu.bvdep.com\nH eiu.bvdep.com\nHJ bvdep.com\nDJ eiu.bvdep.com   \nT EIU WIS BvD\nU https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=106&user=ipaddress\nD eiu.bvdep.com\nH eiu.bvdep.com\nHJ bvdep.com\nDJ eiu.bvdep.com   \nT EIU Country Risk Model BvD\nU https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=105&user=ipaddress\nD eiu.bvdep.com\nH eiu.bvdep.com\nHJ bvdep.com\nDJ eiu.bvdep.com   \nT EIU Operational Risk Model BvD\nU https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=109&user=ipaddress\nD eiu.bvdep.com\nH eiu.bvdep.com\nHJ bvdep.com\nDJ eiu.bvdep.com\n",
+            "last_updated": "",
+            "tag_text": "\nT EIU Portal\nU http://www.eiu.com/default.aspx\nH www.eiu.com\nHJ https://portal.eiu.com\nHJ eiu.com\nHJ country.eiu.com\nHJ portal.eiu.com\nHJ search.eiu.com\nHJ data.eiu.com\nHJ graphics.eiu.com\nHJ gfs.eiu.com\nHJ pages.eiu.com\nHJ service.eiu.com\nHJ [For clients with corporate landing pages, the unique, full URL of EIU corporate landing page goes here.  URL example:  http://www.eiu.com/site_info.asp?info_name=corporate_landing_account_name  -- see techsupport@eiu.comfor assistance]\nHJ [For clients with corporate landing pages, the shortcut URL the landing page goes here. URL example: http://eiu.com/client_name-- see techsupport@eiu.comfor assistance]\nD eiu.com\nDJ EIU.com   \nT EIU Viewswire\nU http://viewswire.eiu.com\nH viewswire.eiu.com\nHJ viewswire.com\nHJ www.viewswire.com\nHJ search.eiu.com\nHJ data.eiu.com\nHJ graphics.eiu.com\nHJ service.eiu.com\nD viewswire.com\nDJ viewswire.eiu.com   \nT Economist.com via corporate IP portal\nU (Unique client URL goes here, contact techsupport@eiu.com for assistance)\nH economist.com\nHJ www.economist.com\nHJ stage.economist.com\nD economist.com\nDJ economist.com   \nT EIU Dataservices Alacra (global product landing page)\nU http://www.alacra.com/cgi-bin/login.exe?app=login&msg=ExecContent&product=17\nD alacra.com\nH www.alacra.com\nHJ eiu.alacra.com\nHJ alacra.com\nDJ www.alacra.com   \nT EIU BvD (multiple products)\nU http://eiu.bvdep.com/ipall\nD eiu.bvdep.com\nH eiu.bvdep.com\nHJ bvdep.com\nDJ eiu.bvdep.com   \nT EIU MIF BvD\nU https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=103&user=ipaddress\nD eiu.bvdep.com\nH eiu.bvdep.com\nHJ bvdep.com\nDJ eiu.bvdep.com   \nT EIU Country Data BvD\nU https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=102&user=ipaddress\nD eiu.bvdep.com\nH eiu.bvdep.com\nHJ bvdep.com\nDJ eiu.bvdep.com   \nT EIU City Data BvD\nU https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=102&user=ipaddress\nD eiu.bvdep.com\nH eiu.bvdep.com\nHJ bvdep.com\nDJ eiu.bvdep.com   \nT EIU Risk Model BvD\nU https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=105&user=ipaddress\nD eiu.bvdep.com\nH eiu.bvdep.com\nHJ bvdep.com\nDJ eiu.bvdep.com   \nT EIU WIS BvD\nU https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=106&user=ipaddress\nD eiu.bvdep.com\nH eiu.bvdep.com\nHJ bvdep.com\nDJ eiu.bvdep.com   \nT EIU Country Risk Model BvD\nU https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=105&user=ipaddress\nD eiu.bvdep.com\nH eiu.bvdep.com\nHJ bvdep.com\nDJ eiu.bvdep.com   \nT EIU Operational Risk Model BvD\nU https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=109&user=ipaddress\nD eiu.bvdep.com\nH eiu.bvdep.com\nHJ bvdep.com\nDJ eiu.bvdep.com\n",
+            "msg": "Could not parse a Title xxxxxx from this tag_text"
+        }
+    ],
+    "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Freegal_Music_Service": [
+        {
+            "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Freegal_Music_Service",
+            "stanza_text": "IncludeIP 0.0.0.0-255.255.255.255\nSSO -Secret=somesecret -URL=http://www.freegalmusic.com/users/sso?libname=site freegalmusic\n",
+            "last_updated": "",
+            "tag_text": "\nIncludeIP 0.0.0.0-255.255.255.255\nSSO -Secret=somesecret -URL=http://www.freegalmusic.com/users/sso?libname=site freegalmusic\n",
+            "msg": "Could not parse a Title xxxxxx from this tag_text"
+        }
+    ],
+    "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Kluwer_Patent_Law": [
+        {
+            "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Kluwer_Patent_Law",
+            "stanza_text": "URL http://www.kluwerpatentlaw.com\nHJ www.kluwerpatentlaw.com\nDJ kluwerpatentlaw.com \n",
+            "last_updated": "",
+            "tag_text": "\nURL http://www.kluwerpatentlaw.com\nHJ www.kluwerpatentlaw.com\nDJ kluwerpatentlaw.com \n",
+            "msg": "Could not parse a Title xxxxxx from this tag_text"
+        }
+    ],
+    "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/MD_Consult": [
+        {
+            "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/MD_Consult",
+            "stanza_text": "URL http://home.mdconsult.com\nHJ home.mdconsult.com\nHJ www.mdconsult.com\nHJ personal.mdconsult.com\nHJ m.mdconsult.com\nDJ mdconsult.com\n",
+            "last_updated": "",
+            "tag_text": "\nURL http://home.mdconsult.com\nHJ home.mdconsult.com\nHJ www.mdconsult.com\nHJ personal.mdconsult.com\nHJ m.mdconsult.com\nDJ mdconsult.com\n\nTitle Books and Clinics Kernel MDConsult\nURL http://booksandclinics.mdconsult.com\nHJ booksandclinics.mdconsult.com\nHJ personal.mdconsult.com\nDJ mdconsult.com\n\nTitle PBOO (Perpetual Books Only Online) Kernel MDConsult\nURL http://books.mdconsult.com\nHJ books.mdconsult.com\nHJ personal.mdconsult.com\nDJ mdconsult.com\n",
+            "msg": "Could not parse a Title xxxxxx from this tag_text"
+        }
+    ],
+    "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OverDrive": [
+        {
+            "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OverDrive",
+            "stanza_text": "OverDriveSite -URL= url -Secret= secret -ILSName= ilsname -LibraryID= libraryid sitename\n",
+            "last_updated": "",
+            "tag_text": "\nOverDriveSite -URL= url -Secret= secret -ILSName= ilsname -LibraryID= libraryid sitename\n",
+            "msg": "Could not parse a Title xxxxxx from this tag_text"
+        },
+        {
+            "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/OverDrive",
+            "stanza_text": "http://ezproxy.yourlib.org:2048/OverDrive/yourlib \n",
+            "last_updated": "",
+            "tag_text": "\nhttp://ezproxy.yourlib.org:2048/OverDrive/yourlib \n",
+            "msg": "Could not parse a Title xxxxxx from this tag_text"
+        }
+    ],
+    "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Skillsoft-Skillport": [
+        {
+            "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Skillsoft-Skillport",
+            "stanza_text": "SSO -Secret={secret} -HASH=SHA256 -URL={url} skillport\n",
+            "last_updated": "",
+            "tag_text": "\nSSO -Secret={secret} -HASH=SHA256 -URL={url} skillport\n",
+            "msg": "Could not parse a Title xxxxxx from this tag_text"
+        }
+    ],
+    "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Value_Line": [
+        {
+            "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Value_Line",
+            "stanza_text": "ProxyHostnameEdit www.google.com$ www-google-com\nT Value Line (updated 20141124)\nMimeFilter application/json .* javascript\nU https://research.valueline.com/secure/research\nHJ research.valueline.com\nHJ www.valueline.com\nHJ www3.valueline.com\nHJ jump.valueline.com\nHJ skip.valueline.com\nHJ https://jump.valueline.com\nDJ valueline.com\nDJ www.google.com\nDJ googleapis.com\nFind name=\"RelayState\" value=\"https://\nReplace name=\"RelayState\" value=\"https://^A\nFind name='RelayState' value='https://\nReplace name='RelayState' value='https://^A\nFind 'http:\\x2F\\x2F\nReplace 'http://\nFind \"//www.google.com/\nReplace \"https://www.google.com/\nFind googleSearchDomain = \"www.google.com\";\nReplace googleSearchDomain = \"^pwww.google.com^\"; \n",
+            "last_updated": "",
+            "tag_text": "\nProxyHostnameEdit www.google.com$ www-google-com\nT Value Line (updated 20141124)\nMimeFilter application/json .* javascript\nU https://research.valueline.com/secure/research\nHJ research.valueline.com\nHJ www.valueline.com\nHJ www3.valueline.com\nHJ jump.valueline.com\nHJ skip.valueline.com\nHJ https://jump.valueline.com\nDJ valueline.com\nDJ www.google.com\nDJ googleapis.com\nFind name=\"RelayState\" value=\"https://\nReplace name=\"RelayState\" value=\"https://^A\nFind name='RelayState' value='https://\nReplace name='RelayState' value='https://^A\nFind 'http:\\x2F\\x2F\nReplace 'http://\nFind \"//www.google.com/\nReplace \"https://www.google.com/\nFind googleSearchDomain = \"www.google.com\";\nReplace googleSearchDomain = \"^pwww.google.com^\"; \n",
+            "msg": "Could not parse a Title xxxxxx from this tag_text"
+        }
+    ],
+    "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/WestLawNext_Canada": [
+        {
+            "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/WestLawNext_Canada",
+            "stanza_text": "Option DomainCookieOnly\nHTTPHeader x-cobalt-*\nHTTPHeader X-Requested-With\nHTTPMethod DELETE\nHTTPMethod PUT\nHTTPMethod PATCH\nT WestlawNext Canada (updated 20150501)\nMimeFilter application/json .* javascript\nU http://www.westlaw.com/search/home.html?rs=WLNC1.0&vr=3.0&sp=U%5FWindsor%2D4000\nHJ 1.next.westlaw.com\nHJ ia-nextcanada.westlaw.com\nDJ nextcanada.westlaw.com\nOption Cookie\n",
+            "last_updated": "",
+            "tag_text": "\nOption DomainCookieOnly\nHTTPHeader x-cobalt-*\nHTTPHeader X-Requested-With\nHTTPMethod DELETE\nHTTPMethod PUT\nHTTPMethod PATCH\nT WestlawNext Canada (updated 20150501)\nMimeFilter application/json .* javascript\nU http://www.westlaw.com/search/home.html?rs=WLNC1.0&vr=3.0&sp=U%5FWindsor%2D4000\nHJ 1.next.westlaw.com\nHJ ia-nextcanada.westlaw.com\nDJ nextcanada.westlaw.com\nOption Cookie\n",
+            "msg": "Could not parse a Title xxxxxx from this tag_text"
+        }
+    ]
+}

@@ -1,27 +1,65 @@
 import re
+import os.path
+import json
+from datetime import datetime
 
 config_file = "config.txt"
+stanza_file = "complete_stanzas.json"
+
+def read_stazas():
+    if os.path.exists(stanza_file):
+        with open(stanza_file, "r") as f:
+            data = json.load(f)
+            for key in data:
+                try:
+                    data[key]['last_updated'] = datetime.strptime(data[key]['last_updated'][:10], "%Y-%m-%d")
+                except:
+                    print("Could not parse date")
+            return data
+    else:
+        print("No local stanza file at: " + stanza_file)
 
 
 def get_outdated_stanzas():
+    data = read_stazas()
+
     with open(config_file, "r") as f:
         lines = f.readlines()
     
     line_count = 0
     #print(lines)
+    total = 0
+    titles_found = 0
     for line in lines:
         if re.match(r'^(Title|T) (.+)$', line, flags=re.I):
+            last_updated = ""
+            title = ""
             search = re.search(r'^(?:Title|T) ((?:(?! \(updated).)*) \(updated (\d{8})\)', line, flags=re.I)
 
-            if search is None:
+            if search == None:
                 search = re.search(r'^(?:Title|T) (.+)$', line, flags=re.I)
-            
-            if search is None:
-                print("Could not find title: " + line)
             else:
-                print(search.group(1).strip())
+                try:
+                    last_updated = datetime.strptime(search.group(2), "%Y%m%d")
+                except:
+                    print("Could not parse date on line: " + str(line_count))
+                    last_updated = ""
+            
+            title = search.group(1).strip()
 
+
+            if search == None:
+                print("Could not find title on line: " + str(line_count))
+            else:      
+                if title in data:
+                    found = data[title]
+                    titles_found += 1
+                    print(str(found['last_updated']) +  "-"   + str(last_updated))
+                else:
+                    print("Could not find title: " + title)
+            total += 1
         line_count += 1
+    print("Total: " + str(total) + " | Found out of total: " + str(titles_found))
 
 
 

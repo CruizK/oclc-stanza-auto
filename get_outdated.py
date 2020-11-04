@@ -6,6 +6,7 @@ from datetime import datetime
 config_file = "config.txt"
 stanza_file = "complete_stanzas.json"
 outdated_txt = "outdated.txt"
+not_found_txt = "notFound.txt"
 
 def read_stazas():
     if os.path.exists(stanza_file):
@@ -28,6 +29,7 @@ def get_outdated_stanzas():
         lines = f.readlines()
     
     line_count = 0
+    not_found = []
     outdated = []
     #print(lines)
     total = 0
@@ -36,6 +38,8 @@ def get_outdated_stanzas():
         if re.match(r'^(Title|T) (.+)$', line, flags=re.I):
             last_updated = ""
             title = ""
+            #Title ((?:(?! \(updated).)*) \((?:updated)?\s?(\d{8})\)
+            #Title EIVillage (updated 20150603)
             search = re.search(r'^(?:Title|T) ((?:(?! \(updated).)*) \(updated (\d+)\)', line, flags=re.I)
 
             if search == None:
@@ -55,83 +59,25 @@ def get_outdated_stanzas():
             else:      
                 if title in data:
                     found = data[title]
+                    if last_updated == "":
+                        txt = "Update title: " + title + " | Old Date: No Data | New Date " + str(found['last_updated'])
+                        outdated.append(txt)
+                    elif last_updated < found['last_updated']:
+                        txt = "Update title: " + title + " | Old Date: " + str(last_updated) + " | New Date " + str(found['last_updated'])
+                        outdated.append(txt)
                     titles_found += 1
-                    print(str(found['last_updated']) +  "-"   + str(last_updated))
                 else:
-                    print("Could not find title: " + title)
-                    outdated.append(title + "-" + str(line_count))
+                    print("Could not find date: " + title)
+                    txt = "Could not find title on line: " + line.replace('\n', '').replace('\r', '') + " : " + str(line_count)
+                    not_found.append(txt)
             total += 1
         line_count += 1
     print("Total: " + str(total) + " | Found out of total: " + str(titles_found))
+    with open(not_found_txt, "w") as f:
+        f.write("\n".join(not_found))
     with open(outdated_txt, "w") as f:
         f.write("\n".join(outdated))
 
-
-
-
-def parseStanza(stanza):
-    page = requests.get(link)
-    soup = BeautifulSoup(page.text, 'html.parser')
-    pre_tags = soup.find_all('pre')
-    
-    total_stanzas = {
-        'ERROR': []
-    }
-
-    stanza_text = ""
-    last_updated = ""
-    title = ""
-    for tag in pre_tags:
-        lines = tag.text.split('\n')[1:]
-        if "IncludeFile" in tag.text:
-            continue
-        for line in lines:
-            # If it's A title line, then read in the title and date and save it
-            if line == "" and stanza_text != "":
-                if title in total_stanzas:
-                    total_stanzas[title]['stanza_text'] += stanza_text
-                elif title != "":
-                    # If last_updated was not found in the stanza text fallback to the web one we scraped
-                    if last_updated == "":
-                        last_updated = stanza_updated
-                    total_stanzas[title] = {
-                        'title': title,
-                        'last_updated': str(last_updated),
-                        'stanza_text': stanza_text,
-                        'link': link
-                    }
-                else:
-                    print("COULD NOT PARSE THE TITLE: LOGGING TO ERROR JSON")
-                    total_stanzas['ERROR'].append({
-                        'link': link, 
-                        'stanza_text': stanza_text, 
-                        'last_updated': str(last_updated),
-                        'tag_text': tag.text,
-                        'msg': "Could not parse a Title xxxxxx from this tag_text"
-                    })
-                stanza_text = ""
-                last_updated = ""
-                continue
-            if re.match(r'^Title (.+)$', line, flags=re.I):
-                
-                print(line)
-
-                # NOTE: Certain updates seem to be structured as Title blahblah (OCLC Include File updated xxxxxxxx)
-                search = re.search(r'^Title ((?:(?! \(updated).)*) \(updated (\d{8})\)', line, flags=re.I)  # Wow so beautiful
-
-                if search == None: # Make the assumption that it has no (updated) format ex: Title 123Library
-                    search = re.search(r'^Title (.+)$', line, flags=re.I)
-                title = search.group(1).strip()
-
-                last_updated = ""
-                main_stanza_text = tag.text
-                try:
-                    last_updated = datetime.strptime(search.group(2), "%Y%m%d")
-                except:
-                    last_updated = ""
-            stanza_text += line + "\n"
-    return total_stanzas
-        
 
 
 if __name__ == "__main__":

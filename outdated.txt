@@ -1,75 +1,43 @@
-Ebook Central Proxied-107
-Thieme Connect-126
-Mergent Investor Edge-438
-Royal Society of Chemistry Publishing-563
-IEEE Xplore (OCLC IncludeFile updated 20190702)-736
-BioOne Complete (launched 20191015)-814
-Kanopy Videostreaming-865
-getitnow-873
-The Chicago Manual-904
-opensiuc-1068
-Physilogy Online-1191
-Crime and Justice-1194
-alexanderstreet databases-1197
-LibWeb-1229
-NLX idk-1232
-Vanderbilt tv-1236
--hide EBSCO LinkSource-1352
-Britannica Online-1461
-InCites Benchmarking, InCites Journal and Highly Cited Data-1467
-Birds of North America-1473
-Serials solutions-1482
-FirstSearch-1488
-Haworth Press-1513
-Academic Video Store-2052
-Triangle journals-2515
-Impan-2519
-Searchbank-2525
-America History and Life-2535
-Historical abstracts-2542
-Microbiology Research-2614
-EI Village & Compendex Web-2622
-EIVillage-2627
-Allen fisheries-2640
-Allen Press-2648
-Facts.com-2664
-Grove Dictionary of Art-2669
-Grove Dictionary of Music & Musicians-2674
-Inter-University Consortium ...-2679
-Kraus-2684
-Index to Music Periodicals-2689
-eHRAF - Human Relations Area Files-2694
-Index to Performing Arts-2706
-Linguistics Abstracts-2725
-Literature Online-2730
-Marcive Web DOCS-2735
-Market Insight-2740
-OUP Journals-2752
-Poole's Plus-2849
-PDR-2856
-CARL Uncover-2863
-Turfgrass Information File-2868
-Web of Knowledge (OCLC IncludeFile updated 20200615)-2918
-Researcher ID-2986
-Net Library-2995
-Blackwell's navigator-3043
-OED Online-3048
-Pubs online-3098
-Kluwer Online-3127
-Sport Business Resource Net-3133
-ERIC E Subscribe-3137
-Naxos-3147
-Oxford Dictionary and Journals-3157
-Forest Production Journal-3303
-Learn a test / Learning Express Library 3.0-3306
-Blood (journal)-3320
--hide DOI System-3381
-Scientific style and format-3400
-Avery Index to Architectural periodicals-3431
-Webfeat-3638
-Pubget-3643
-Duke University Press-3806
-Duke Journals-3815
-Edinburgh University Press-3962
-UC Press-4035
-Misc-4047
+Update title: Ebook Central SSO | Old Date: No Data | New Date 2017-09-08 00:00:00
+Update title: -hide Ebook Central reroute | Old Date: No Data | New Date 2017-09-08 00:00:00
+Update title: ACM Digital Library | Old Date: No Data | New Date 2020-09-29 00:00:00
+Update title: Accessible Archives | Old Date: No Data | New Date 2016-07-13 00:00:00
+Update title: Mergent Archives | Old Date: No Data | New Date 2018-06-20 00:00:00
+Update title: Mergent First Research | Old Date: No Data | New Date 2015-10-29 00:00:00
+Update title: Mergent Key Business Ratios | Old Date: No Data | New Date 2015-11-09 00:00:00
+Update title: Mergent Online | Old Date: No Data | New Date 2015-11-19 00:00:00
+Update title: Mergent Intellect | Old Date: No Data | New Date 2013-04-03 00:00:00
+Update title: Mergent Bond Viewer | Old Date: No Data | New Date 2019-10-31 00:00:00
+Update title: DOI System | Old Date: No Data | New Date 2016-05-09 00:00:00
+Update title: Chemistry World | Old Date: No Data | New Date 2019-02-07 00:00:00
+Update title: EBL | Old Date: No Data | New Date 2017-09-08 00:00:00
+Update title: JAMA Network | Old Date: No Data | New Date 2017-03-15 00:00:00
+Update title: Radiological Society of North America | Old Date: No Data | New Date 2016-08-10 00:00:00
+Update title: University of Chicago Press Journals (20180502) | Old Date: No Data | New Date 2018-05-02 00:00:00
+Update title: Oxford Dictionaries Premium | Old Date: No Data | New Date 2016-10-05 00:00:00
+Update title: MathSciNet | Old Date: No Data | New Date 2017-12-19 00:00:00
+Update title: SpringerLink | Old Date: 2020-06-23 00:00:00 | New Date 2020-08-25 00:00:00
+Update title: EBSCOhost (OCLC Include File updated 20200518) | Old Date: No Data | New Date 2020-05-18 00:00:00
+Update title: Alexander Street | Old Date: No Data | New Date 2020-09-10 00:00:00
+Update title: Alexander Street Video | Old Date: 2020-04-22 00:00:00 | New Date 2020-09-10 00:00:00
+Update title: Nexis Uni | Old Date: No Data | New Date 2020-08-24 00:00:00
+Update title: LexisNexis | Old Date: No Data | New Date 2019-10-02 00:00:00
+Update title: Newsbank/Readex Databases | Old Date: No Data | New Date 2018-05-16 00:00:00
+Update title: ASME Digital Collection | Old Date: No Data | New Date 2018-03-12 00:00:00
+Update title: ASME Digital Collection | Old Date: No Data | New Date 2018-03-12 00:00:00
+Update title: CollegeSource | Old Date: No Data | New Date 2011-07-26 00:00:00
+Update title: EIVillage | Old Date: 2015-06-03 00:00:00 | New Date 2020-03-17 00:00:00
+Update title: Early English Books Online | Old Date: No Data | New Date 2017-06-27 00:00:00
+Update title: Project Euclid | Old Date: No Data | New Date 2017-07-28 00:00:00
+Update title: New England Journal of Medicine | Old Date: No Data | New Date 2018-04-17 00:00:00
+Update title: Scitation | Old Date: No Data | New Date 2017-02-03 00:00:00
+Update title: Taylor & Francis | Old Date: 2018-08-06 00:00:00 | New Date 2019-03-18 00:00:00
+Update title: Wiley Online | Old Date: 2020-06-18 00:00:00 | New Date 2020-07-31 00:00:00
+Update title: Cochrane Library | Old Date: 2020-02-17 00:00:00 | New Date 2020-10-27 00:00:00
+Update title: CABI Resources | Old Date: 2018-03-17 00:00:00 | New Date 2020-01-21 00:00:00
+Update title: Children's Literature Comprehensive Database (CLCD) | Old Date: No Data | New Date 2014-07-07 00:00:00
+Update title: S&P Global NetAdvantage | Old Date: No Data | New Date 2018-07-11 00:00:00
+Update title: Morningstar Investment Research Center | Old Date: 2019-10-31 00:00:00 | New Date 2020-05-19 00:00:00
+Update title: ScienceDirect | Old Date: No Data | New Date 2020-08-07 00:00:00
+Update title: Scopus | Old Date: 2019-01-15 00:00:00 | New Date 2020-07-16 00:00:00
+Update title: -hide Elsevier Identity | Old Date: No Data | New Date 2015-06-03 00:00:00

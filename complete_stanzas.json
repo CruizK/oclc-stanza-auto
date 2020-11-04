@@ -2095,9 +2095,9 @@
     },
     "-hide Elsevier Identity": {
         "title": "-hide Elsevier Identity",
-        "last_updated": "2019-01-15 00:00:00",
-        "stanza_text": "\nTitle -hide Elsevier Identity\nURL https://id.elsevier.com\nHJ https://id.elsevier.com\nHJ id.elsevier.com\nDJ id.elsevier.com\nFind redirect_uri=https://\nReplace redirect_uri=https://^A\n",
-        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SciVal"
+        "last_updated": "2015-06-03 00:00:00",
+        "stanza_text": "Title -hide Elsevier Identity\nURL https://id.elsevier.com\nHJ https://id.elsevier.com\nHJ id.elsevier.com\nDJ id.elsevier.com\nFind redirect_uri=https://\nReplace redirect_uri=https://^A\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Engineering_Village"
     },
     "Elsevier eLibrary APAC": {
         "title": "Elsevier eLibrary APAC",
@@ -2146,12 +2146,6 @@
         "last_updated": "2016-01-21 00:00:00",
         "stanza_text": "Title Endocrine Society\nURL http://press.endocrine.org/\nHJ edrv.endojournals.org\nHJ endo.endojournals.org\nHJ endocrine.org\nHJ endojournals.org\nHJ hoca.endojournals.org\nHJ https://endocrine.org/\nHJ https://press.endocrine.org/\nHJ https://www.endocrine.org/\nHJ intl-endo.endojournals.org\nHJ intl-jcem.endojournals.org\nHJ intl-mend.endojournals.org\nHJ jcem.endojournals.org\nHJ mend.endojournals.org\nHJ press.endocrine.org\nHJ rphr.endojournals.org\nHJ www.endocrine.org\nHJ www.endojournals.org\nDJ endocrine.org\nDJ endojournals.org\n",
         "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Endocrine_Society"
-    },
-    "EIVillage (20200317)": {
-        "title": "EIVillage (20200317)",
-        "last_updated": "2015-06-03 00:00:00",
-        "stanza_text": "Option DomainCookieOnly\nTitle EIVillage (20200317)\nURL http://www.engineeringvillage.com\nHJ https://www.engineeringvillage.com\nHJ engineeringvillage.com\nHJ www.engineeringvillage.com\nHJ www.engineeringvillage2.org\nHJ acw.elsevier.com\nDJ ei.org\nDJ engineeringvillage.com\nDJ referexengineering.elsevier.com\nOption Cookie\n",
-        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Engineering_Village"
     },
     "Equinox Publishing Ltd.": {
         "title": "Equinox Publishing Ltd.",
@@ -5476,5 +5470,11 @@
         "last_updated": "2014-03-05 00:00:00",
         "stanza_text": "Title Taxnet Pro (updated 20140305)\nURL http://www.taxnetpro.com\nHJ www.taxnetpro.com\nHJ v2.taxnetpro.com\nDJ taxnetpro.com\n",
         "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Taxnet_Pro"
+    },
+    "EIVillage": {
+        "title": "EIVillage",
+        "last_updated": "2020-03-17 00:00:00",
+        "stanza_text": "Option DomainCookieOnly\nTitle EIVillage (20200317)\nURL http://www.engineeringvillage.com\nHJ https://www.engineeringvillage.com\nHJ engineeringvillage.com\nHJ www.engineeringvillage.com\nHJ www.engineeringvillage2.org\nHJ acw.elsevier.com\nDJ ei.org\nDJ engineeringvillage.com\nDJ referexengineering.elsevier.com\nOption Cookie\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Engineering_Village"
     }
 }

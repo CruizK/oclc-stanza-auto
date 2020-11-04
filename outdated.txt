@@ -1,43 +1,128 @@
-Update title: Ebook Central SSO | Old Date: No Data | New Date 2017-09-08 00:00:00
-Update title: -hide Ebook Central reroute | Old Date: No Data | New Date 2017-09-08 00:00:00
-Update title: ACM Digital Library | Old Date: No Data | New Date 2020-09-29 00:00:00
-Update title: Accessible Archives | Old Date: No Data | New Date 2016-07-13 00:00:00
-Update title: Mergent Archives | Old Date: No Data | New Date 2018-06-20 00:00:00
-Update title: Mergent First Research | Old Date: No Data | New Date 2015-10-29 00:00:00
-Update title: Mergent Key Business Ratios | Old Date: No Data | New Date 2015-11-09 00:00:00
-Update title: Mergent Online | Old Date: No Data | New Date 2015-11-19 00:00:00
-Update title: Mergent Intellect | Old Date: No Data | New Date 2013-04-03 00:00:00
-Update title: Mergent Bond Viewer | Old Date: No Data | New Date 2019-10-31 00:00:00
-Update title: DOI System | Old Date: No Data | New Date 2016-05-09 00:00:00
-Update title: Chemistry World | Old Date: No Data | New Date 2019-02-07 00:00:00
-Update title: EBL | Old Date: No Data | New Date 2017-09-08 00:00:00
-Update title: JAMA Network | Old Date: No Data | New Date 2017-03-15 00:00:00
-Update title: Radiological Society of North America | Old Date: No Data | New Date 2016-08-10 00:00:00
-Update title: University of Chicago Press Journals (20180502) | Old Date: No Data | New Date 2018-05-02 00:00:00
-Update title: Oxford Dictionaries Premium | Old Date: No Data | New Date 2016-10-05 00:00:00
-Update title: MathSciNet | Old Date: No Data | New Date 2017-12-19 00:00:00
-Update title: SpringerLink | Old Date: 2020-06-23 00:00:00 | New Date 2020-08-25 00:00:00
-Update title: EBSCOhost (OCLC Include File updated 20200518) | Old Date: No Data | New Date 2020-05-18 00:00:00
-Update title: Alexander Street | Old Date: No Data | New Date 2020-09-10 00:00:00
-Update title: Alexander Street Video | Old Date: 2020-04-22 00:00:00 | New Date 2020-09-10 00:00:00
-Update title: Nexis Uni | Old Date: No Data | New Date 2020-08-24 00:00:00
-Update title: LexisNexis | Old Date: No Data | New Date 2019-10-02 00:00:00
-Update title: Newsbank/Readex Databases | Old Date: No Data | New Date 2018-05-16 00:00:00
-Update title: ASME Digital Collection | Old Date: No Data | New Date 2018-03-12 00:00:00
-Update title: ASME Digital Collection | Old Date: No Data | New Date 2018-03-12 00:00:00
-Update title: CollegeSource | Old Date: No Data | New Date 2011-07-26 00:00:00
-Update title: EIVillage | Old Date: 2015-06-03 00:00:00 | New Date 2020-03-17 00:00:00
-Update title: Early English Books Online | Old Date: No Data | New Date 2017-06-27 00:00:00
-Update title: Project Euclid | Old Date: No Data | New Date 2017-07-28 00:00:00
-Update title: New England Journal of Medicine | Old Date: No Data | New Date 2018-04-17 00:00:00
-Update title: Scitation | Old Date: No Data | New Date 2017-02-03 00:00:00
-Update title: Taylor & Francis | Old Date: 2018-08-06 00:00:00 | New Date 2019-03-18 00:00:00
-Update title: Wiley Online | Old Date: 2020-06-18 00:00:00 | New Date 2020-07-31 00:00:00
-Update title: Cochrane Library | Old Date: 2020-02-17 00:00:00 | New Date 2020-10-27 00:00:00
-Update title: CABI Resources | Old Date: 2018-03-17 00:00:00 | New Date 2020-01-21 00:00:00
-Update title: Children's Literature Comprehensive Database (CLCD) | Old Date: No Data | New Date 2014-07-07 00:00:00
-Update title: S&P Global NetAdvantage | Old Date: No Data | New Date 2018-07-11 00:00:00
-Update title: Morningstar Investment Research Center | Old Date: 2019-10-31 00:00:00 | New Date 2020-05-19 00:00:00
-Update title: ScienceDirect | Old Date: No Data | New Date 2020-08-07 00:00:00
-Update title: Scopus | Old Date: 2019-01-15 00:00:00 | New Date 2020-07-16 00:00:00
-Update title: -hide Elsevier Identity | Old Date: No Data | New Date 2015-06-03 00:00:00
+98: Update Ebook Central SSO | Old Date: No Data | New Date 2017-09-08 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Ebook_Central
+
+113: Update -hide Ebook Central reroute | Old Date: No Data | New Date 2017-09-08 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/EBL
+
+190: Update ACM Digital Library | Old Date: No Data | New Date 2020-09-29 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ACM_Digital_Library
+
+290: Update Accessible Archives | Old Date: No Data | New Date 2016-07-13 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Accessible_Archives
+
+416: Update Mergent Archives | Old Date: No Data | New Date 2018-06-20 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mergent_Archives
+
+425: Update Mergent First Research | Old Date: No Data | New Date 2015-10-29 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mergent_First_Research
+
+432: Update Mergent Key Business Ratios | Old Date: No Data | New Date 2015-11-09 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mergent_Key_Business_Ratios
+
+443: Update Mergent Online | Old Date: No Data | New Date 2015-11-19 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mergent_Online
+
+452: Update Mergent Intellect | Old Date: No Data | New Date 2013-04-03 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mergent_Intellect
+
+456: Update Mergent Bond Viewer | Old Date: No Data | New Date 2019-10-31 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mergent_Bond_Viewer
+
+461: Update DOI System | Old Date: No Data | New Date 2016-05-09 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/DOI_System
+
+577: Update Chemistry World | Old Date: No Data | New Date 2019-02-07 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Royal_Society_of_Chemistry_and_Chemistry_World
+
+585: Update EBL | Old Date: No Data | New Date 2017-09-08 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/EBL
+
+631: Update JAMA Network | Old Date: No Data | New Date 2017-03-15 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/JAMA
+
+695: Update Radiological Society of North America | Old Date: No Data | New Date 2016-08-10 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/RSNA
+
+766: Update University of Chicago Press Journals (20180502) | Old Date: No Data | New Date 2018-05-02 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/University_of_Chicago_Press
+
+796: Update Oxford Dictionaries Premium | Old Date: No Data | New Date 2016-10-05 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Oxford_Dictionaries
+
+1102: Update MathSciNet | Old Date: No Data | New Date 2017-12-19 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/MathSciNet
+
+1156: Update SpringerLink | Old Date: 2020-06-23 00:00:00 | New Date 2020-08-25 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/SpringerLink
+
+1360: Update EBSCOhost (OCLC Include File updated 20200518) | Old Date: No Data | New Date 2020-05-18 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/EBSCOhost
+
+1546: Update Alexander Street | Old Date: No Data | New Date 2020-09-10 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Alexander_Street_Press
+
+2047: Update Alexander Street Video | Old Date: 2020-04-22 00:00:00 | New Date 2020-09-10 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Alexander_Street_Press
+
+2056: Update Nexis Uni | Old Date: No Data | New Date 2020-08-24 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Nexis_Uni
+
+2104: Update LexisNexis | Old Date: No Data | New Date 2019-10-02 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/LexisNexis
+
+2262: Update Newsbank/Readex Databases | Old Date: No Data | New Date 2018-05-16 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/NewsBank
+
+2276: Update ASME Digital Collection | Old Date: No Data | New Date 2018-03-12 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/asme
+
+2355: Update ASME Digital Collection | Old Date: No Data | New Date 2018-03-12 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/asme
+
+2559: Update CollegeSource | Old Date: No Data | New Date 2011-07-26 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CollegeSource
+
+2627: Update EIVillage | Old Date: 2015-06-03 00:00:00 | New Date 2020-03-17 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Engineering_Village
+
+2660: Update Early English Books Online | Old Date: No Data | New Date 2017-06-27 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Chadwyck_Databases
+
+3035: Update Project Euclid | Old Date: No Data | New Date 2017-07-28 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Project_Euclid
+
+3110: Update New England Journal of Medicine | Old Date: No Data | New Date 2018-04-17 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/New_England_Journal_of_Medicine
+
+3327: Update Scitation | Old Date: No Data | New Date 2017-02-03 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Scitation
+
+3387: Update Taylor & Francis | Old Date: 2018-08-06 00:00:00 | New Date 2019-03-18 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Taylor_Francis_Online
+
+3442: Update Wiley Online | Old Date: 2020-06-18 00:00:00 | New Date 2020-07-31 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Wiley_Online_Library
+
+3589: Update Cochrane Library | Old Date: 2020-02-17 00:00:00 | New Date 2020-10-27 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Cochrane_Library
+
+3682: Update CABI Resources | Old Date: 2018-03-17 00:00:00 | New Date 2020-01-21 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CABI_Resources
+
+3874: Update Children's Literature Comprehensive Database (CLCD) | Old Date: No Data | New Date 2014-07-07 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/CLCD
+
+3971: Update S&P Global NetAdvantage | Old Date: No Data | New Date 2018-07-11 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/S_P_Global_NetAdvantage
+
+4027: Update Morningstar Investment Research Center | Old Date: 2019-10-31 00:00:00 | New Date 2020-05-19 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Morningstar
+
+4452: Update ScienceDirect | Old Date: No Data | New Date 2020-08-07 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Elsevier_ScienceDirect_and_Scopus
+
+4485: Update Scopus | Old Date: 2019-01-15 00:00:00 | New Date 2020-07-16 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Elsevier_ScienceDirect_and_Scopus
+
+4501: Update -hide Elsevier Identity | Old Date: No Data | New Date 2015-06-03 00:00:00
+https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Engineering_Village

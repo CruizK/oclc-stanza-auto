@@ -60,10 +60,10 @@ def get_outdated_stanzas():
                 if title in data:
                     found = data[title]
                     if last_updated == "":
-                        txt = "Update title: " + title + " | Old Date: No Data | New Date " + str(found['last_updated'])
+                        txt = str(line_count) + ": Update " + title + " | Old Date: No Data | New Date " + str(found['last_updated']) + "\n" + found['link'] + "\n"
                         outdated.append(txt)
                     elif last_updated < found['last_updated']:
-                        txt = "Update title: " + title + " | Old Date: " + str(last_updated) + " | New Date " + str(found['last_updated'])
+                        txt = str(line_count) + ": Update " + title + " | Old Date: " + str(last_updated) + " | New Date " + str(found['last_updated']) + "\n" + found['link'] + "\n"
                         outdated.append(txt)
                     titles_found += 1
                 else:

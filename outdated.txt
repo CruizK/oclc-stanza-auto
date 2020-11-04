@@ -1,0 +1,76 @@
+Ebook Central Proxied-107
+Thieme Connect-126
+Mergent First Research-425
+Mergent Investor Edge-438
+Royal Society of Chemistry Publishing-563
+IEEE Xplore (OCLC IncludeFile updated 20190702)-736
+BioOne Complete (launched 20191015)-814
+Kanopy Videostreaming-865
+getitnow-873
+The Chicago Manual-904
+opensiuc-1068
+Physilogy Online-1191
+Crime and Justice-1194
+alexanderstreet databases-1197
+LibWeb-1229
+NLX idk-1232
+Vanderbilt tv-1236
+-hide EBSCO LinkSource-1352
+Britannica Online-1461
+InCites Benchmarking, InCites Journal and Highly Cited Data-1467
+Birds of North America-1473
+Serials solutions-1482
+FirstSearch-1488
+Haworth Press-1513
+Academic Video Store-2052
+Triangle journals-2515
+Impan-2519
+Searchbank-2525
+America History and Life-2535
+Historical abstracts-2542
+Microbiology Research-2614
+EI Village & Compendex Web-2622
+EIVillage-2627
+Allen fisheries-2640
+Allen Press-2648
+Facts.com-2664
+Grove Dictionary of Art-2669
+Grove Dictionary of Music & Musicians-2674
+Inter-University Consortium ...-2679
+Kraus-2684
+Index to Music Periodicals-2689
+eHRAF - Human Relations Area Files-2694
+Index to Performing Arts-2706
+Linguistics Abstracts-2725
+Literature Online-2730
+Marcive Web DOCS-2735
+Market Insight-2740
+OUP Journals-2752
+Poole's Plus-2849
+PDR-2856
+CARL Uncover-2863
+Turfgrass Information File-2868
+Web of Knowledge (OCLC IncludeFile updated 20200615)-2918
+Researcher ID-2986
+Net Library-2995
+Blackwell's navigator-3043
+OED Online-3048
+Pubs online-3098
+Kluwer Online-3127
+Sport Business Resource Net-3133
+ERIC E Subscribe-3137
+Naxos-3147
+Oxford Dictionary and Journals-3157
+Forest Production Journal-3303
+Learn a test / Learning Express Library 3.0-3306
+Blood (journal)-3320
+-hide DOI System-3381
+Scientific style and format-3400
+Avery Index to Architectural periodicals-3431
+Webfeat-3638
+Pubget-3643
+Duke University Press-3806
+Duke Journals-3815
+Edinburgh University Press-3962
+UC Press-4035
+Misc-4047

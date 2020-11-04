@@ -134,8 +134,9 @@ def parsePage(link, stanza_updated):
                 last_updated = ""
                 continue
             if re.match(r'^Title (.+)$', line, flags=re.I):
+                if 
                 print(line)
-
+                
                 # NOTE: Certain updates seem to be structured as Title blahblah (OCLC Include File updated xxxxxxxx)
                 search = re.search(r'^Title ((?:(?! \(updated).)*) \(updated (\d{8})\)', line, flags=re.I)  # Wow so beautiful
 

@@ -5,6 +5,7 @@ from datetime import datetime
 
 config_file = "config.txt"
 stanza_file = "complete_stanzas.json"
+outdated_txt = "outdated.txt"
 
 def read_stazas():
     if os.path.exists(stanza_file):
@@ -27,6 +28,7 @@ def get_outdated_stanzas():
         lines = f.readlines()
     
     line_count = 0
+    outdated = []
     #print(lines)
     total = 0
     titles_found = 0
@@ -34,7 +36,7 @@ def get_outdated_stanzas():
         if re.match(r'^(Title|T) (.+)$', line, flags=re.I):
             last_updated = ""
             title = ""
-            search = re.search(r'^(?:Title|T) ((?:(?! \(updated).)*) \(updated (\d{8})\)', line, flags=re.I)
+            search = re.search(r'^(?:Title|T) ((?:(?! \(updated).)*) \(updated (\d+)\)', line, flags=re.I)
 
             if search == None:
                 search = re.search(r'^(?:Title|T) (.+)$', line, flags=re.I)
@@ -57,9 +59,12 @@ def get_outdated_stanzas():
                     print(str(found['last_updated']) +  "-"   + str(last_updated))
                 else:
                     print("Could not find title: " + title)
+                    outdated.append(title + "-" + str(line_count))
             total += 1
         line_count += 1
     print("Total: " + str(total) + " | Found out of total: " + str(titles_found))
+    with open(outdated_txt, "w") as f:
+        f.write("\n".join(outdated))
 
 
 
@@ -108,6 +113,7 @@ def parseStanza(stanza):
                 last_updated = ""
                 continue
             if re.match(r'^Title (.+)$', line, flags=re.I):
+                
                 print(line)
 
                 # NOTE: Certain updates seem to be structured as Title blahblah (OCLC Include File updated xxxxxxxx)

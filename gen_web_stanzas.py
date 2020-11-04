@@ -49,10 +49,13 @@ def get_not_updated(web_stanzas, stanza_data):
         link = web_stanzas[stanza][1]
         for key in stanza_data:
             if stanza_data[key]['link'] == link:
+                #print("Not updated link: " + link)
                 should_update = False
                 break
         if should_update == True:
+            print(stanza)
             not_updated_subset.append(web_stanzas[stanza])
+    #print(not_updated_subset)
     return not_updated_subset
 
 
@@ -106,12 +109,16 @@ def parsePage(link, stanza_updated):
         lines = tag.text.split('\n')[1:]
         if "IncludeFile" in tag.text:
             continue
+        if lines[len(lines)-1] != '':
+            lines.append('')
         for line in lines:
             # If it's A title line, then read in the title and date and save it
             if line == "" and stanza_text != "":
                 if title in total_stanzas:
+                    print("IN TOTAL STAZAS: " + title)
                     total_stanzas[title]['stanza_text'] += stanza_text
                 elif title != "":
+                    print("WRITING STAZA " + title)
                     # If last_updated was not found in the stanza text fallback to the web one we scraped
                     if last_updated == "":
                         last_updated = stanza_updated
@@ -134,12 +141,10 @@ def parsePage(link, stanza_updated):
                 last_updated = ""
                 continue
             if re.match(r'^Title (.+)$', line, flags=re.I):
-                if 
-                print(line)
-                
+                #print(line)
+
                 # NOTE: Certain updates seem to be structured as Title blahblah (OCLC Include File updated xxxxxxxx)
                 search = re.search(r'^Title ((?:(?! \(updated).)*) \(updated (\d{8})\)', line, flags=re.I)  # Wow so beautiful
-
                 if search == None: # Make the assumption that it has no (updated) format ex: Title 123Library
                     search = re.search(r'^Title (.+)$', line, flags=re.I)
                 title = search.group(1).strip()

@@ -5410,5 +5410,71 @@
         "last_updated": "2019-09-04 00:00:00",
         "stanza_text": "Title Zero to Three (updated 20190904)\nURL http://www.zerotothree.org/\nH www.zerotothree.org\nDJ zerotothree.org\n",
         "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Zero_to_Three"
+    },
+    "Europa World Plus": {
+        "title": "Europa World Plus",
+        "last_updated": "2020-10-29 00:00:00",
+        "stanza_text": "HTTPHeader Access-Token\nTitle Europa World Plus (updated 20201029)\nURL http://www.europaworld.com\nHJ www.europaworld.com\nDJ europaworld.com \n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Europa_World_Plus"
+    },
+    "Policy Commons": {
+        "title": "Policy Commons",
+        "last_updated": "2020-11-04 00:00:00",
+        "stanza_text": "Title Policy Commons (updated 20201104)\nURL https://policycommons.net\nDJ policycommons.net\nNeverProxy https://coherent-commons.s3.amazonaws.com\nNeverProxy https://res.cloudinary.com\nNeverProxy https://posthog.coherentdigital.net\nNeverProxy https://i2.wp.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Policy_Commons"
+    },
+    "DawsonEra": {
+        "title": "DawsonEra",
+        "last_updated": "2019-11-15 00:00:00",
+        "stanza_text": "Title DawsonEra (updated 20191115)\nURL https://www.dawsonera.com/depp/ezproxy/EZProxyLogin.html?^B\nTokenKey YouGetThisFromDawsonEra\nTokenSignatureKey YouGetThisFromDawsonEra\nDJ dawsonera.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/DawsonEra"
+    },
+    "Den Hollander": {
+        "title": "Den Hollander",
+        "last_updated": "2015-10-14 00:00:00",
+        "stanza_text": "Title Den Hollander (updated 20151014)\nURL https://denhollander.info\nHJ denhollander.info\nHJ https://www.denhollander.info\nHJ huurrechtonline.nl\nHJ tijdschriftvoorstaatssteun.nl\nHJ uitgeverijdenhollander.nl\nHJ www.denhollander.info\nHJ www.huurrechtonline.nl\nHJ www.tijdschriftvoorstaatssteun.nl\nHJ www.uitgeverijdenhollander.nl\nDJ denhollander.info\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Den_Hollander"
+    },
+    "Encyclopedia of Astronomy and Astrophysics - EAA (ebooks)": {
+        "title": "Encyclopedia of Astronomy and Astrophysics - EAA (ebooks)",
+        "last_updated": "2007-02-06 00:00:00",
+        "stanza_text": "Title Encyclopedia of Astronomy and Astrophysics - EAA (ebooks)\nURL http://eaa.crcpress.com/\nDomain crcpress.com\n# The next two Host lines support redirects from the old URL\n# for this resource to the new URL\nHost www.ency-astro.com\nHost eaa.iop.org\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/ency-astro"
+    },
+    "fastcase": {
+        "title": "fastcase",
+        "last_updated": "2020-08-18 00:00:00",
+        "stanza_text": "Option NoX-Forwarded-For\nTitle fastcase (updated 20200818)\nURL https://apps.fastcase.com/Research/Login/SignIn.aspx?v=\nHJ https://www.fastcase.com/login\nHJ https://apps.fastcase.com\nHJ apps.fastcase.com\nHJ www.fastcase.com\nHJ fastcase.com\nDJ fastcase.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Fastcase"
+    },
+    "Mergent First Research": {
+        "title": "Mergent First Research",
+        "last_updated": "2015-10-29 00:00:00",
+        "stanza_text": "Title Mergent First Research (updated 20151029)\nURL http://www.mergentonline.com/firstresearch\nDJ mergent.firstresearch-learn.com\nDJ mergent.firstresearch.com\nDJ mergentonline.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Mergent_First_Research"
+    },
+    "Nursing Consult": {
+        "title": "Nursing Consult",
+        "last_updated": "2015-09-02 00:00:00",
+        "stanza_text": "Title Nursing Consult (updated 20150902)\nURL http://www.nursingconsult.com\nHJ www.nursingconsult.com\nDJ nursingconsult.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Nursing_Consult"
+    },
+    "Rechtsorde": {
+        "title": "Rechtsorde",
+        "last_updated": "2015-09-03 00:00:00",
+        "stanza_text": "Option DomainCookieOnly\nTitle Rechtsorde (updated 20150903)\nURL http://universiteiten.rechtsorde.nl/default.aspx\nHJ universiteiten.rechtsorde.nl\nHJ login.rechtsorde.nl\nHJ portal.rechtsorde.nl\nHJ hybrid.kluwer.nl\nHJ rechtsorde.nl\nDJ universiteiten.rechtsorde.nl\nDJ login.rechtsorde.nl\nDJ portal.rechtsorde.nl\nOption Cookie\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Rechtsorde"
+    },
+    "Roubini Global Economics": {
+        "title": "Roubini Global Economics",
+        "last_updated": "2015-10-28 00:00:00",
+        "stanza_text": "Option DomainCookieOnly\n## Roubini Global Economics\nTitle Roubini Global Economics (updated 20151028)\nURL http://www.roubini.com\nDJ roubini.com\nHJ www.roubini.com\nDJ hitbox.com\nHJ ehg-roubiniglobaleconomics.hitbox.com\nOption Cookie\nNeverProxy static.roubini.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Roubini_Global_Economics"
+    },
+    "Taxnet Pro": {
+        "title": "Taxnet Pro",
+        "last_updated": "2014-03-05 00:00:00",
+        "stanza_text": "Title Taxnet Pro (updated 20140305)\nURL http://www.taxnetpro.com\nHJ www.taxnetpro.com\nHJ v2.taxnetpro.com\nDJ taxnetpro.com\n",
+        "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Taxnet_Pro"
     }
 }

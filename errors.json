@@ -40,6 +40,13 @@
             "last_updated": "",
             "tag_text": "\nIncludeIP 0.0.0.0-255.255.255.255\nSSO -Secret=somesecret -URL=http://www.freegalmusic.com/users/sso?libname=site freegalmusic\n",
             "msg": "Could not parse a Title xxxxxx from this tag_text"
+        },
+        {
+            "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Freegal_Music_Service",
+            "stanza_text": "http:// ezproxy.yourlib.org:2048/sso/freegalmusic \n",
+            "last_updated": "",
+            "tag_text": "\nhttp:// ezproxy.yourlib.org:2048/sso/freegalmusic ",
+            "msg": "Could not parse a Title xxxxxx from this tag_text"
         }
     ],
     "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Kluwer_Patent_Law": [
@@ -82,6 +89,20 @@
             "stanza_text": "SSO -Secret={secret} -HASH=SHA256 -URL={url} skillport\n",
             "last_updated": "",
             "tag_text": "\nSSO -Secret={secret} -HASH=SHA256 -URL={url} skillport\n",
+            "msg": "Could not parse a Title xxxxxx from this tag_text"
+        },
+        {
+            "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Skillsoft-Skillport",
+            "stanza_text": "SSO -Secret=thisisa24charactersecret -HASH=SHA256 -URL=https://ezproxytest.skillport.com/skillportfe/ezproxy/ezproxy.action skillport\n",
+            "last_updated": "",
+            "tag_text": "\nSSO -Secret=thisisa24charactersecret -HASH=SHA256 -URL=https://ezproxytest.skillport.com/skillportfe/ezproxy/ezproxy.action skillport",
+            "msg": "Could not parse a Title xxxxxx from this tag_text"
+        },
+        {
+            "link": "https://help.oclc.org/Library_Management/EZproxy/Database_stanzas/Skillsoft-Skillport",
+            "stanza_text": "https://proxy.library.edu/sso/skillport\n",
+            "last_updated": "",
+            "tag_text": "\nhttps://proxy.library.edu/sso/skillport",
             "msg": "Could not parse a Title xxxxxx from this tag_text"
         }
     ],
